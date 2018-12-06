@@ -1,4 +1,4 @@
-## LeetCode Animation 题目图解汇总(持续更新中...)
+# LeetCode Animation 题目图解汇总(持续更新中...)
 
 我会尽力将LeetCode上所有的题目都用动画的形式演示出来，期待与你见证这一天！
 
@@ -8,7 +8,7 @@
 
 快去试一试吧~~~
 
-# Problems
+## Problems
 
 | ID | Problem  | Article |
 | --- | ---  | :--- |
