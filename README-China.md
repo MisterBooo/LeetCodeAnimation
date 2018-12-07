@@ -61,6 +61,6 @@
 ## 更多
 | 二维码 |  说明 |
 | --- | ---  |
-| ![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181207145631.jpg) |  如果你对用动画讲解分析数据结构感兴趣，可以关注我的公众号 五分钟学算法 |
-| ![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181207145503.jpg) |  如果你不嫌麻烦，可以用支付宝扫描一下，那样我们都有一个小红包❤️|
+|![二维码](https://upload-images.jianshu.io/upload_images/1940317-d597357cfc911418.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  如果你对用动画讲解分析数据结构感兴趣，可以关注我的公众号 **五分钟学算法** |
+| ![支付宝](https://upload-images.jianshu.io/upload_images/1940317-b8d0ceb7663b14dd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  如果你不嫌麻烦，可以用支付宝扫描一下，那样我们都有一个小红包❤️|
 
