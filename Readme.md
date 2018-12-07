@@ -8,8 +8,10 @@
 
 快去试一试吧~~~
 
-## Problems
+## 代码来源声明
+本仓库代码如无特殊说明，全部来源于此仓库[Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)
 
+## Problems
 
 
 | ID | Problem  | Article | Animation |
