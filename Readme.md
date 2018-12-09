@@ -63,10 +63,10 @@
 喜欢就star❤️一下吧！
 
 
-## 联系我
+## 关注我
 | 二维码 |  说明 |
 | --- | ---  |
-|![二维码](https://upload-images.jianshu.io/upload_images/1940317-d597357cfc911418.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  如果你也想参与进来维护此项目，联系我！扫描二维码，回复 PPT，拉你进群，一起完成这个有趣的项目！我会在群里和你们讨论如何用PPT制作动画，相互学习，一起进步！ |
+|![二维码](https://upload-images.jianshu.io/upload_images/1940317-d597357cfc911418.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  关注公众号 **五分钟学算法** 获取更多数据结构与动画相关的内容|
 | ![支付宝](https://upload-images.jianshu.io/upload_images/1940317-b8d0ceb7663b14dd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  如果你不嫌麻烦，可以用支付宝扫描一下，那样我们都有一个小红包❤️|
 
 
