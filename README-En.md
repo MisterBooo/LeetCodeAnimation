@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/badge/language-C++-red.svg)](https://developer.apple.com/)
 [![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://developer.apple.com/)
 
-[这里有中文版本的README，点击它！](https://github.com/MisterBooo/LeetCodeAnimation/blob/master/README-China.md)
+[这里有中文版本的README，点击它！](https://github.com/MisterBooo/LeetCodeAnimation/blob/master/Readme.md)
 
 I will do my best to demonstrate all the questions on LeetCode in the form of animation. 
 
