@@ -30,7 +30,7 @@
 |092 |反转链表 II  | [每天一算：Reverse Linked List II](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483820&idx=1&sn=113e87b55c8ac8e22e9db00673798118&chksm=fa0e6e2dcd79e73b5835a262599b935783de3317a453bc0ed8df9fa5d1532785a085ea663e59&scene=21#wechat_redirect) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161156.gif)| 
 | 094|二叉树的中序遍历  | [每天一算：Binary Tree Inorder Traversal ](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483853&idx=1&sn=94cd4b4ee8dc2268290a72334c6af57b&chksm=fa0e6e4ccd79e75a41a6b78397b80cdfccda332823874475b516f997f89e786488599fc5cc1e&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161208.gif)| 
 |102	|二叉树的层序遍历|	[每天一算：Binary Tree Level Order Traveral](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483868&idx=1&sn=d50041789fcd13a75a2296f620b69d71&chksm=fa0e6e5dcd79e74b0030ac5129f10ec4ba87c98da63c5904affe9f06e06ecf28695c410d3ec7&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161232.gif)| 
-|103	|	二叉树的锯齿形层次遍历|	每天一算：Binary Tree Zigzag Level Order Traversal|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092922.gif)| 
+|103	|	二叉树的锯齿形层次遍历|	[图解LeetCode第 103 号问题：二叉树的锯齿形层次遍历](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484290&idx=2&sn=c29c4eefcbe8954cca6b3c8491ebccf1&chksm=fa0e6c03cd79e515581905322a3a22a3f3d10d24ca668a9d5aaef00932f0237eeaeaf3199668&token=1840661183&lang=zh_CN#rd)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092922.gif)| 
 |107	| 二叉树的层次遍历 II  |	每天一算： Binary Tree Level Order Traversal II|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092949.gif)| 
 |144 |  二叉树的前序遍历|  [每天一算：Binary Tree Preorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483843&idx=1&sn=994bf0d42dd9941a879a3a3ed500a4d6&chksm=fa0e6e42cd79e75472404eb5da7ee98f20d303efe230eb4f41efec57164630f555e7111e62ff&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181207112441.gif)| 
 | 145| 二叉树的后序遍历 |  [每天一算：Binary Tree Postorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483853&idx=1&sn=94cd4b4ee8dc2268290a72334c6af57b&chksm=fa0e6e4ccd79e75a41a6b78397b80cdfccda332823874475b516f997f89e786488599fc5cc1e&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181219084940.gif)| 
@@ -74,11 +74,11 @@
 喜欢就star❤️一下吧！
 
 
-## 关注我
+## 和我交流
 | 二维码 |  说明 |
 | --- | ---  |
 |![](https://diycode.b0.upaiyun.com/photo/2018/6ac660d9a4a36db44c404246ba858862.jpg) |  关注公众号 **五分钟学算法** 获取更多数据结构与动画相关的内容|
-| ![支付宝](https://upload-images.jianshu.io/upload_images/1940317-b8d0ceb7663b14dd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  如果你不嫌麻烦，可以用支付宝扫描一下，那样我们都有一个小红包❤️|
+
 
 
 
