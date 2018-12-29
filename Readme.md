@@ -63,13 +63,17 @@
 ## 补充
 该仓库保持随时更新。
 
+2018-12-29 说明：
+
+[《2019年LeetCodeAnimationd的更新计划》](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484375&idx=1&sn=5a5482d9863342650d8b43bb59171f7c&chksm=fa0e6c56cd79e540115e52500b80c8e72001c87ddceb7c0ae1de166fd283d632b960cde41aca&token=578760218&lang=zh_CN#rd)
+
 2018-12-07 说明：
 
 为了更好的做好LeetCode动画，笔者正在努力的学习更多的数据结构与算法。
 
 笔者目前正在写数据结构的文章与动画，将《动画图解数据结构》系列文章写完后将继续更新此仓库。
 
-邮箱：278166530@qq.com 
+邮箱：misterbigbooo@gmail.com
 
 喜欢就star❤️一下吧！
 

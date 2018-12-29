@@ -65,12 +65,17 @@ This warehouse code unless otherwise specified, all from this warehouse
 
 The warehouse is kept up to date.
 
+
+2018-12-29 explain：
+
+[《2019年LeetCodeAnimationd的更新计划》](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484375&idx=1&sn=5a5482d9863342650d8b43bb59171f7c&chksm=fa0e6c56cd79e540115e52500b80c8e72001c87ddceb7c0ae1de166fd283d632b960cde41aca&token=578760218&lang=zh_CN#rd)
+
 2018-12-07 explain:
 
 In order to better perform LeetCode animation, i am working hard to learn more data structures and algorithms.
 
 I am currently writing an article 《动画图解数据结构》, and will continue to update this warehouse after finishing the series of articles on animation graphic data structure.
 
-E-mail：278166530@qq.com 
+E-mail：misterbigbooo@gmail.com
 
 like it! star❤️ it!
