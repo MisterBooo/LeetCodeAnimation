@@ -49,6 +49,7 @@
 | 350|  两个数组的交集 II| [每天一算：Intersection of Two Arrays II ](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483733&idx=1&sn=946bd6de3251437dd77b43ecab056c82&chksm=fa0e6ed4cd79e7c2a439b5f1853bf5154a3438ed282c7ba5e94948780c426a1f1492c0b201c4&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161729.gif)| 
 |447 | 回旋镖的数量 |  [每日一算：Number of Boomerangs](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483747&idx=1&sn=7774eee0b252b311257134f6a52c4e2d&chksm=fa0e6ee2cd79e7f44858c46c3d04859ced9073dbb9de95ce7ee0bcc131e613862ddfd9a6f158&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161738.gif)|
 |454 |四数相加 II  |  每日一算：4Sum II|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161751.gif)| 
+|642 |设计搜索自动补全系统  |  [图解 LeetCode 第 642 号问题：搜索自动完成系统](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484491&idx=1&sn=b329d90370d183b5a58bbf03f6a436ae&chksm=fa0e6bcacd79e2dc05bb5eaabd888561b82c37700b511e4971aa76ec42a630c0a35ef3e4721b&token=397665543&lang=zh_CN#rd)|动画是采用AE制作，内存太大，无法使用GIF播放，请前往[动画](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484491&idx=1&sn=b329d90370d183b5a58bbf03f6a436ae&chksm=fa0e6bcacd79e2dc05bb5eaabd888561b82c37700b511e4971aa76ec42a630c0a35ef3e4721b&token=397665543&lang=zh_CN#rd)观看，感谢 Jun Chen 大佬提供动画技术支持，笔芯。| 
 
 
 如果文章链接无法点击，说明文章还未发布，敬请期待：）
