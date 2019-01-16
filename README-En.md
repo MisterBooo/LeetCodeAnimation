@@ -18,8 +18,8 @@ The latest article published in WeChat **五分钟学算法** ,  you can pay att
 ## Problems
 
 
-| ID | Problem  | Article | Animation |
-| --- | ---  | :--- |:--- |
+| ID | Problem  | Article | Animation | Date|
+| --- | ---  | :--- |:--- | :--- |
 | 000 |Ten Classic Sorting Algorithms | [十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg) | ![归并排序.gif](https://upload-images.jianshu.io/upload_images/1940317-92f62b62af03e233.gif?imageMogr2/auto-orient/strip)|
 | 001 |Two-Sum | [每天一算：Two Sum](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483740&idx=1&sn=1950545589ea9b86ee65fbb6be1f4290&chksm=fa0e6eddcd79e7cb542b7d4dc1304eead516994315fa4f52b575230f0f022c9e0a88ede3714e&scene=21#wechat_redirect) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161033.gif) | 
 | 002 |Add Two Numbers| [图解LeetCode第 2 号问题：两个数字相加](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484231&idx=2&sn=6a9eb4fd0619c822e4dede69b8d841c8&chksm=fa0e6cc6cd79e5d0c03fffcd65b665fed62db9dca9c97771898f388ea292ce806bfd6eb908b5&token=934487935&lang=zh_CN#rd) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092831.gif)| 
@@ -35,6 +35,7 @@ The latest article published in WeChat **五分钟学算法** ,  you can pay att
 |102	|Binary-Tree-Level-Order-Traversal|	[每天一算：Binary Tree Level Order Traveral](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483868&idx=1&sn=d50041789fcd13a75a2296f620b69d71&chksm=fa0e6e5dcd79e74b0030ac5129f10ec4ba87c98da63c5904affe9f06e06ecf28695c410d3ec7&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161232.gif)| 
 |103	|Binary Tree Zigzag Level Order Traversal|		[图解LeetCode第 103 号问题：二叉树的锯齿形层次遍历](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484290&idx=2&sn=c29c4eefcbe8954cca6b3c8491ebccf1&chksm=fa0e6c03cd79e515581905322a3a22a3f3d10d24ca668a9d5aaef00932f0237eeaeaf3199668&token=1840661183&lang=zh_CN#rd)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092922.gif)| 
 |107	| Binary Tree Level Order Traversal II |	每天一算： Binary Tree Level Order Traversal II|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181210092949.gif)| 
+|136	| Single Number |	[一道让你拍案叫绝的算法题 ](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484505&idx=1&sn=4c1c056dd4852c3b4b1ead51c90a9b2d&chksm=fa0e6bd8cd79e2ce8188dcdd8843a5d071248906bfb8971c62d513dbd69b816acc191a78e4b2&token=487128715&lang=zh_CN#rd)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190116110804.gif)| 2019-01-16 |
 |144 |  Binary-Tree-Preorder-Traversal|  [每天一算：Binary Tree Preorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483843&idx=1&sn=994bf0d42dd9941a879a3a3ed500a4d6&chksm=fa0e6e42cd79e75472404eb5da7ee98f20d303efe230eb4f41efec57164630f555e7111e62ff&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181207112441.gif)| 
 | 145| Binary-Tree-Postorder-Traversal |  [每天一算：Binary Tree Postorder Traversal](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483853&idx=1&sn=94cd4b4ee8dc2268290a72334c6af57b&chksm=fa0e6e4ccd79e75a41a6b78397b80cdfccda332823874475b516f997f89e786488599fc5cc1e&scene=21#wechat_redirect)|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181219084940.gif)| 
 | 150| Evaluate-Reverse-Polish-Notation | [每天一算：Evaluate Reverse Polish Notation](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247483834&idx=1&sn=27cbff99f10dfcdb56cb37c237d7f2bb&chksm=fa0e6e3bcd79e72dc430bf81aed9dde9bd01634239dcf7820d6befa881efd323d9d58d76d90d&scene=21#wechat_redirect) |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206161304.gif)| 
