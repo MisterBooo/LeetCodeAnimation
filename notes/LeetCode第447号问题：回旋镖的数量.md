@@ -1,4 +1,4 @@
-# LeetCode 第 447 号问题：回旋镖的数量
+# LeetCode第447号问题：回旋镖的数量
 
 > 本文首发于公众号「五分钟学算法」，是[图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>)系列文章之一。
 >
