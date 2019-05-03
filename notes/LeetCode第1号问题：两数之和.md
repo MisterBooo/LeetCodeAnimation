@@ -3,6 +3,8 @@
 > 本文首发于公众号「五分钟学算法」，是[图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>)系列文章之一。
 >
 > 个人网站：[https://www.cxyxiaowu.com](https://www.cxyxiaowu.com)
+>
+> 视频讲解：[【跟着程序员小吴图解 LeetCode 】LeetCode 第 1 号问题：两数之和](<https://www.bilibili.com/video/av51296602>)
 
 题目来源于 LeetCode 上第 1 号问题：两数之和。题目难度为 Easy，目前通过率为 45.8% 。
 
