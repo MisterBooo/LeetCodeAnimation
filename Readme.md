@@ -33,6 +33,8 @@
 | 102  | [二叉树的层序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第102号问题：二叉树的层序遍历.md) |
 | 103  | [二叉树的锯齿形层次遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第103号问题：二叉树的锯齿形层次遍历.md) |
 | 107  | [二叉树的层次遍历 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第107号问题：二叉树的层次遍历II.md) |
+| 118  | [杨辉三角](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第118号问题：杨辉三角.md) |
+| 119  | [杨辉三角II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第119号问题：杨辉三角II.md) |
 | 110  | [平衡二叉树](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第110号问题：平衡二叉树.md) |
 | 121  | [买卖股票的最佳时机](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第121号问题：买卖股票的最佳时机.md) |
 | 122  | [买卖股票的最佳时机II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第122号问题：买卖股票的最佳时机II.md) |
