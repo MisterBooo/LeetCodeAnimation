@@ -67,8 +67,8 @@
 | 301  | [删除无效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第301号问题：删除无效的括号.md) |
 | 326  | [3 的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第326号问题：3的幂.md) |
 | 328  | [奇偶链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第328号问题：奇偶链表.md) |
-| 344  | [反转字符串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第344号问题：反转字符串.md) |
 | 342  | [4的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第342号问题：4的幂.md) |
+| 344  | [反转字符串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第344号问题：反转字符串.md) |
 | 349  | [两个数组的交集](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第349号问题：两个数组的交集.md) |
 | 350  | [两个数组的交集 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第350号问题：两个数组的交集II.md) |
 | 445  | [两数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第445号问题：两数相加II.md) |
