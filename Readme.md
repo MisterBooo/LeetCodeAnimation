@@ -10,7 +10,7 @@
 
 文章最新首发于微信公众号 **五分钟学算法** ，您可以关注获取最新的文章。
 
-### 汇总
+## 汇总
 
 | 序号 | 题目&题解                                                    |
 | ---- | ------------------------------------------------------------ |
@@ -51,11 +51,14 @@
 | 167  | [两数之和 II - 输入有序数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第167号问题：两数之和II-输入有序数组.md) |
 | 172  | [阶乘后的零](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第172号问题：阶乘后的零.md) |
 | 187  | [重复的 DNA 序列](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第187号问题：重复的DNA序列.md) |
+| 191  | [位1的个数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第191号问题：位1的个数.md) |
 | 199  | [二叉树的右视图](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第199号问题：二叉树的右视图.md) |
+| 201  | [数字范围按位与](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第201号问题：数字范围按位与.md) |
 | 203  | [移除链表元素](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第203号问题：移除链表元素.md) |
 | 206  | [反转链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第206号问题：反转链表.md) |
 | 209  | [长度最小的子数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第209号问题：长度最小的子数组.md) |
 | 219  | [存在重复元素 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第219号问题：存在重复元素II.md) |
+| 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |
 | 237  | [删除链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第237号问题：删除链表中的节点.md) |
 | 239  | [滑动窗口最大值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第239号问题：滑动窗口最大值.md) |
 | 279  | [完全平方数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第279号问题：完全平方数.md) |
@@ -65,6 +68,7 @@
 | 326  | [3 的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第326号问题：3的幂.md) |
 | 328  | [奇偶链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第328号问题：奇偶链表.md) |
 | 344  | [反转字符串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第344号问题：反转字符串.md) |
+| 342  | [4的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第342号问题：4的幂.md) |
 | 349  | [两个数组的交集](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第349号问题：两个数组的交集.md) |
 | 350  | [两个数组的交集 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第350号问题：两个数组的交集II.md) |
 | 445  | [两数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第445号问题：两数相加II.md) |
