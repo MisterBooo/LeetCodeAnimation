@@ -84,7 +84,7 @@ ListNode* mergeTwoOrderedLists(ListNode* pHead1, ListNode* pHead2){
     if (NULL == pHead1){
         return pHead2;
     }else if(NULL ==pHead2){
-        return pHead2;
+        return pHead1;
     }else{
         if (pHead1->data < pHead2->data){
             newHead = pHead1;
