@@ -40,8 +40,9 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int res = 0;
+        int i = 0;
         //注意数组越界情况
-        for (int i = 0; i < nums.length;i++){
+        for (; i < nums.length;i++){
             // i 表示完整数组中的数字，与原数组中的数字 nums[i] 进行异或，再与保存的结果异或
             res = res^i^nums[i];
         }
