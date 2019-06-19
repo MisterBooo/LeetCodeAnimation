@@ -31,8 +31,7 @@ public:
         vector<vector<int>> res;
         sort(nums.begin(), nums.end());
         if (nums.empty() || nums.back() < 0 || nums.front() > 0) return {};
-        for (int k = 0; k < nums.size(); ++k) {
-            if (nums[k] > 0) break;
+        for (int k = 0; k < nums.size() && nums[k] <= 0; ++k) {
             if (k > 0 && nums[k] == nums[k - 1]) continue;
             int target = 0 - nums[k];
             int i = k + 1, j = nums.size() - 1;
