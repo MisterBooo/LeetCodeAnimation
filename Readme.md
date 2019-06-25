@@ -72,6 +72,7 @@
 | 328  | [奇偶链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第328号问题：奇偶链表.md) |
 | 342  | [4的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第342号问题：4的幂.md) |
 | 344  | [反转字符串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第344号问题：反转字符串.md) |
+| 347  | [前K个高频元素](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第347号问题：前K个高频元素.md) |
 | 349  | [两个数组的交集](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第349号问题：两个数组的交集.md) |
 | 350  | [两个数组的交集 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第350号问题：两个数组的交集II.md) |
 | 445  | [两数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第445号问题：两数相加II.md) |
@@ -84,7 +85,7 @@
 
 
 ## 补充
-该仓库保持随时更新。
+**该仓库保持随时更新**。
 
 2018-12-29 说明：
 
@@ -92,13 +93,13 @@
 
 2018-12-07 说明：
 
-为了更好的做好LeetCode动画，笔者正在努力的学习更多的数据结构与算法。
+为了更好的做好 LeetCode 动画，笔者正在努力的学习更多的数据结构与算法。
 
 笔者目前正在写数据结构的文章与动画，将《动画图解数据结构》系列文章写完后将继续更新此仓库。
 
 邮箱：misterbigbooo@gmail.com
 
-喜欢就star❤️一下吧！
+喜欢就 star❤️ 一下吧！
 
 ## 和我交流
 
@@ -107,6 +108,7 @@
 | 二维码 |  说明 |
 | --- | ---  |
 |![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png) | 欢迎前来和程序员小吴一起学算法 |
+|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625171010.jpeg) | 扫描小程序阅读最新算法文章 |
 
 
 
