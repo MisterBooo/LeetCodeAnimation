@@ -46,6 +46,7 @@
 | 136  | [只出现一次的数字](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第136号问题：只出现一次的数字.md) |
 | 138  | [复制带随机指针](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第138号问题：复制带随机指针.md) |
 | 139  | [单词拆分](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第139号问题：单词拆分.md) |
+| 141  | [环形链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第141号问题：环形链表.md) |
 | 144  | [二叉树的前序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第144号问题：二叉树的前序遍历.md) |
 | 145  | [二叉树的后序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第145号问题：二叉树的后序遍历.md) |
 | 146  | [LRU缓存机制](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第146号问题：LRU缓存机制.md) |
