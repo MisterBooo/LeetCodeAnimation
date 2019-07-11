@@ -109,7 +109,7 @@
 
 | 二维码 |  说明 |
 | --- | ---  |
-|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png) | 欢迎前来和程序员小吴一起学算法 |
+|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190711094817.png) | 欢迎前来和程序员小吴一起学算法 |
 |![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625171010.jpeg) | 扫描小程序阅读最新算法文章 |
 
 
