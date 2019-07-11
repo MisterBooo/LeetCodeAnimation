@@ -26,6 +26,7 @@
 | 23   | [合并 K 个排序链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第23号问题：合并K个排序链表.md) |
 | 24   | [两两交换链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第24号问题：两两交换链表中的节点.md) |
 | 26   | [删除排序数组中的重复项](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第26号问题：删除排序数组中的重复项.md) |
+| 38   | [报数](https://mp.weixin.qq.com/s/DKXJR8pNX3fKGvtSn0TEjw)    |
 | 66   | [加一](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第66号问题：加一.md) |
 | 75   | [颜色分类](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第75号问题：颜色分类.md) |
 | 86   | [分割链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第86号问题：分割链表.md) |
