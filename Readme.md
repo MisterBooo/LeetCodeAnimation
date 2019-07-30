@@ -72,6 +72,7 @@
 | 283  | [移动零](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第283号问题：移动零.md) |
 | 295  | [数据流的中位数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第295号问题：数据流的中位数.md) |
 | 301  | [删除无效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第301号问题：删除无效的括号.md) |
+| 319  | [灯泡开关](https://mp.weixin.qq.com/s/u35RGvT5Bc2o7jM-Uu_ZYA) |
 | 326  | [3 的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第326号问题：3的幂.md) |
 | 328  | [奇偶链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第328号问题：奇偶链表.md) |
 | 342  | [4的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第342号问题：4的幂.md) |
@@ -85,8 +86,6 @@
 | 642  | [设计一个搜索自动完成系统](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第642号问题：设计一个搜索自动完成系统.md) |
 | 690  | [员工的重要性](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第690号问题：员工的重要性.md) |
 | 877  | [石子游戏](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |
-
-
 
 ## 补充
 **该仓库保持随时更新**。
