@@ -18,7 +18,9 @@
 | 1    | [两数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第1号问题：两数之和.md) |
 | 2    | [两数相加](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第2号问题：两数相加.md) |
 | 3    | [无重复字符的最长子串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第3号问题：无重复字符的最长子串.md) |
+| 4    | [寻找两个有序数组的中位数](https://mp.weixin.qq.com/s/FBlH7o-ssj_iMEPLcvsY2w) |
 | 9    | [回文数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第9号问题：回文数.md) |
+| 10   | [正则表达式匹配](https://mp.weixin.qq.com/s/ZoytuPt5dfP5pMODbuKnCQ) |
 | 15   | [三数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第15号问题：三数之和.md) |
 | 19   | [删除链表的倒数第 N 个节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第19号问题：删除链表的倒数第N个节点.md) |
 | 20   | [有效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第20号问题：有效的括号.md) |
