@@ -55,6 +55,7 @@
 | 145  | [二叉树的后序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第145号问题：二叉树的后序遍历.md) |                                                              |
 | 146  | [LRU缓存机制](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第146号问题：LRU缓存机制.md) |                                                              |
 | 150  | [逆波兰表达式求值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第150号问题：逆波兰表达式求值.md) |                                                              |
+| 153  | [寻找旋转排序数组中的最小值](<https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486243&idx=3&sn=ed49d65662be56ca76753141b91ce6ef&chksm=fa0e64a2cd79edb4b64d11e3af5f0ee2f597bbd843d5f34a812ef70f0f97e190d381e77f05f8&token=387372133&lang=zh_CN#rd>) |                                                              |
 | 164  | [最大间距](https://mp.weixin.qq.com/s/xHxjCDdFZyCW2pnY6Cz8SQ) |                                                              |
 | 167  | [两数之和 II - 输入有序数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第167号问题：两数之和II-输入有序数组.md) |                                                              |
 | 169  | [求众数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第169号问题：求众数.md) |                                                              |
