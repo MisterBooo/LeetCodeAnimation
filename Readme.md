@@ -21,6 +21,7 @@
 | 4    | [寻找两个有序数组的中位数](https://mp.weixin.qq.com/s/FBlH7o-ssj_iMEPLcvsY2w) |                                                              |
 | 9    | [回文数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第9号问题：回文数.md) |                                                              |
 | 10   | [正则表达式匹配](https://mp.weixin.qq.com/s/ZoytuPt5dfP5pMODbuKnCQ) |                                                              |
+| 11   | [盛最多水的容器](https://mp.weixin.qq.com/s/0PCW-7JzU8rfrLA5GQmFiQ) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/en8u4.gif) |
 | 15   | [三数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第15号问题：三数之和.md) |                                                              |
 | 19   | [删除链表的倒数第 N 个节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第19号问题：删除链表的倒数第N个节点.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/metqn.gif) |
 | 20   | [有效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第20号问题：有效的括号.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/ey3lr.gif) |
@@ -30,6 +31,7 @@
 | 25   | [K 个一组翻转链表](https://mp.weixin.qq.com/s/YOz66mJchVIEQjA7TBV2cg) |                                                              |
 | 26   | [删除排序数组中的重复项](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第26号问题：删除排序数组中的重复项.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/4tk72.gif) |
 | 38   | [报数](https://mp.weixin.qq.com/s/DKXJR8pNX3fKGvtSn0TEjw)    |                                                              |
+| 41   | [缺失的第一个正数](<https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486473&idx=3&sn=06bf5f9c17cd3cb328934acc698b0ec3&chksm=fa0e6388cd79ea9e30c67dd2e5251056d860ba45e1fcbbcd4524573072305396d06629312c91&token=1735603091&lang=zh_CN#rd>) |                                                              |
 | 66   | [加一](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第66号问题：加一.md) |                                                              |
 | 75   | [颜色分类](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第75号问题：颜色分类.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/ehgxu.gif) |
 | 86   | [分割链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第86号问题：分割链表.md) |                                                              |
