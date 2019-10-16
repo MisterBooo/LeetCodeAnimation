@@ -10,7 +10,7 @@
 
 文章最新首发于微信公众号 **五分钟学算法** ，您可以关注获取最新的文章。
 
-个人网站：[https://www.cxyxiaowu.com](www.cxyxiaowu.com)
+个人网站：https://www.cxyxiaowu.com
 
 ## 汇总
 
