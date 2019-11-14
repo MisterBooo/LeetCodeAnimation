@@ -12,7 +12,7 @@
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190502113234.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/uv8bw.png)
 
  
 
@@ -49,7 +49,7 @@
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181105171450.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/1navy.gif)
 
 ### 代码实现
 
@@ -76,4 +76,4 @@ public:
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/f5g8p.png)

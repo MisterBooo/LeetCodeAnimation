@@ -24,11 +24,11 @@
 
 **输入**
 
-![图一](https://user-gold-cdn.xitu.io/2019/4/9/169ff8cbaf694440?w=2360&h=614&f=jpeg&s=63179)
+![图一](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/u2jnp.jpg)
 
 **输出**
 
-![图二](https://user-gold-cdn.xitu.io/2019/4/9/169ff8cbb372e71f?w=2518&h=572&f=jpeg&s=62543)
+![图二](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/yc4ac.jpg)
 
 ### 题目解析
 
@@ -44,7 +44,7 @@
 
 ### 动画演示
 
-![动画演示](https://user-gold-cdn.xitu.io/2019/4/9/169ff8cbb36cb6f7?w=939&h=507&f=gif&s=6542126)
+![动画演示](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/iuxmh.gif)
 
 ### 代码实现
 
@@ -136,7 +136,7 @@ class Solution {
 
 这里可以参考 **归并排序 **的分治思想，将这  K 个链表先划分为两个 K/2 个链表，处理它们的合并，然后不停的往下划分，直到划分成只有一个或两个链表的任务，开始合并。
 
-![归并-分治](https://user-gold-cdn.xitu.io/2019/4/9/169ff8cbb2c891fe?w=953&h=531&f=gif&s=164652)
+![归并-分治](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/74ush.gif)
 
 ### 代码实现
 
@@ -186,4 +186,4 @@ class Solution {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/jhykq.gif)

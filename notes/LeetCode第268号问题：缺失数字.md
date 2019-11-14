@@ -16,7 +16,7 @@
 
 你的算法应该具有线性时间复杂度。 你可以不使用额外空间来实现吗？
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190516113448.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/i47fw.png)
 
 ## 题目解析
 
@@ -32,7 +32,7 @@
 
 将少了一个数的数组与 0 到 n 之间完整的那个数组进行异或处理，因为相同的数字异或会变为了 0 ，那么全部数字异或后，剩下的就是少了的那个数字。
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190516143539.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/el8zt.png)
 
 #### 代码实现1
 
@@ -75,7 +75,7 @@ class Solution {
 - 遍历数组计算出原始数组中数字的累积和
 - 两和相减，差值就是丢失的那个数字
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190516151203.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fn1ys.gif)
 
 ```java
 //小吴之前担心会数据溢出，不过估计这题考察的不是这个，所以测试用例没写这种吧，还是能 AC 的
@@ -123,4 +123,4 @@ public class Solution {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/bfmeg.png)

@@ -2,7 +2,7 @@
 
 # 杨辉三角
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190507201419.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/inihp.png)
 
 > 本文首发于公众号「五分钟学算法」，是[图解 LeetCode](https://github.com/MisterBooo/LeetCodeAnimation) 系列文章之一。
 >
@@ -29,7 +29,7 @@
 
 给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行。
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
+![img](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/ks594.gif)
 
 在杨辉三角中，每个数是它左上方和右上方的数的和。
 
@@ -89,7 +89,7 @@ class Solution {
 
 给定一个非负索引 *k*，其中 *k* ≤ 33，返回杨辉三角的第 *k* 行。
 
-![img](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
+![img](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/ks594.gif)
 
 在杨辉三角中，每个数是它左上方和右上方的数的和。
 
@@ -140,7 +140,7 @@ class Solution {
 ## 一个有趣的结论
 
 感兴趣小伙伴的可以搜索一下李永乐讲得抽奖概率相关的视频，里面提及到了很多杨辉三角的神奇特点。
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190509165331.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/0b495.gif)
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/besbk.png)

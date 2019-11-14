@@ -31,7 +31,7 @@
 
 ### 动画描述
 
-![动画描述](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/o2acw.gif)
+![动画描述](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/20ahe.gif)
 
 ### 代码实现
 

@@ -55,7 +55,7 @@ cache.get(4);       // 返回  4
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190502105833.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/90896.gif)
 
 ### 代码实现
 
@@ -96,4 +96,4 @@ private:
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/inind.png)

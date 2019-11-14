@@ -53,7 +53,7 @@ Deque 继承自 Queue（队列），它的直接实现有 ArrayDeque、LinkedLis
 
 ### 动画描述
 
-![动画描述 Made by Jun Chen](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/20whr.gif)
+![动画描述 Made by Jun Chen](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/8ggd3.gif)
 
 ### 代码实现
 
@@ -89,4 +89,4 @@ class Solution {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/jwm9y.gif)

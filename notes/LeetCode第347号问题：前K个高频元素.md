@@ -37,7 +37,7 @@
 
 以下十种排序算法，任你挑选！
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190624173156)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/qya5e.png)
 
 可以发现，使用常规的诸如 冒泡、选择、甚至快速排序都是不满足题目要求，它们的时间复杂度都是大于或者等于 O(n log⁡n) ，而题目要求算法的时间复杂度必须优于 O(n log n) 。
 
@@ -50,7 +50,7 @@
 
 题目最终需要返回的是前 k 个频率最大的元素，可以想到借助堆这种数据结构，对于 k 频率之后的元素不用再去处理，进一步优化时间复杂度。
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190624213721.jpeg)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/nloow.jpg)
 
 具体操作为：
 
@@ -62,7 +62,7 @@
 
 
 
-![堆中的元素就是前 k 个频率最大的元素](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190624231240.gif)
+![堆中的元素就是前 k 个频率最大的元素](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/xged1.gif)
 
 代码如下：
 
@@ -115,7 +115,7 @@ class Solution {
 
 首先依旧使用哈希表统计频率，统计完成后，创建一个数组，将频率作为数组下标，对于出现频率不同的数字集合，存入对应的数组下标即可。
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625100134.jpeg)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/6tge2.jpg)
 
 代码实现如下：
 

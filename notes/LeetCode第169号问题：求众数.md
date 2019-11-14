@@ -79,7 +79,7 @@ class Solution {
 
 ### 动画描述
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190626115001.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/bbjtv.gif)
 
 ### 代码实现
 
@@ -129,7 +129,7 @@ class Solution {
 
 ### 动画描述
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190626150830.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/8wyb2.gif)
 
 ### 代码实现
 

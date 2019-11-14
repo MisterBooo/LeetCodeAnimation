@@ -49,7 +49,7 @@ findMedian() -> 2
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190502114925.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/slcao.gif)
 
 ### 代码实现
 
@@ -91,4 +91,4 @@ class MedianFinder {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/k2ihh.gif)

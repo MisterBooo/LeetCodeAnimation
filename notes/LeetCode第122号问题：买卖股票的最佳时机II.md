@@ -69,7 +69,7 @@
 
 ### 图片描述
 
-![买卖股票的最佳时机 II](https://upload-images.jianshu.io/upload_images/1940317-07904ca85dc535a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![买卖股票的最佳时机 II](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/nkvdj.png)
 
 ### 代码实现
 
@@ -93,7 +93,7 @@ class Solution {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/4s1oh.png)
 
 
 

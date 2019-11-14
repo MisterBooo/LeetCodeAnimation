@@ -44,7 +44,7 @@
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181027160512.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/3kc4w.gif)
 
 ### 代码实现
 
@@ -77,8 +77,8 @@ public:
 
 #### 执行结果
 
-![img](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181029083150.png)
+![img](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/xdsii.png)
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/3zqhi.png)

@@ -37,25 +37,25 @@
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181027160331.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/0ga4f.gif)
 
 设置滑动窗口的长度为 0 ，位于数轴的最左端。
 
 ##### 1 .滑动窗口右端 R 开始移动，直到区间满足给定的条件，也就是和大于 7 ，此时停止于第三个元素 2，当前的最优长度为 4
 
-![图 1](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/8rr0w.jpg)
+![图 1](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/lo41y.jpg)
 
 
 
 ##### 2. 滑动窗口左端 L 开始移动，缩小滑动窗口的大小，停止于第一个元素 3，此时区间和为 6，使得区间和不满足给定的条件（此时不大于 7）
 
-![图片 2](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/77oa4.jpg)
+![图片 2](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/j7qnc.jpg)
 
 
 
 #### 3. 滑动窗口右端 R 继续移动，停止于第四个元素 4，此时和位 10 ，但最优长度仍然为 4
 
-![图片 3](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/8ksiz.jpg)
+![图片 3](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/q8dxy.jpg)
 
 
 
@@ -95,4 +95,4 @@ class Solution {
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/0fotr.png)

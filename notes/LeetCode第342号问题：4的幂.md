@@ -77,13 +77,13 @@ class Solution {
 
 将这个二进制数转换成 16 进制表示：0x55555555 。有没有感觉逼格更高点。。。
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190509194742.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/c0s9n.png)
 
 
 
 ### 图片描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20190510090919.jpeg)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/ux5pa.jpg)
 
 
 

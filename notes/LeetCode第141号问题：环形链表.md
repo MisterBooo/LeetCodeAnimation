@@ -22,7 +22,7 @@
 解释：链表中有一个环，其尾部连接到第二个节点。
 ```
 
-![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/vweoq.png)
 
 **示例 2：**
 
@@ -32,7 +32,7 @@
 解释：链表中有一个环，其尾部连接到第一个节点。
 ```
 
-![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/kxbrz.png)
 
 **示例 3：**
 
@@ -42,7 +42,7 @@
 解释：链表中没有环。
 ```
 
-![](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/w3vsg.png)
 
 **进阶：**
 
@@ -59,7 +59,7 @@
 
 ### 动画描述
 
-![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190627145511.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/mj4qo.gif)
 
 ### 代码实现
 

@@ -50,7 +50,7 @@ n 最大为 500，可以使用时间复杂度为 O(n^2)的算法。
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181030112917.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/0ys9o.gif)
 
 ### 代码实现
 
@@ -96,4 +96,4 @@ private:
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/s95kv.png)

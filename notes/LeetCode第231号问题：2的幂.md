@@ -37,7 +37,7 @@
 
 首先，先来分析一下 2 的次方数的二进制写法：
 
-![表格](https://user-gold-cdn.xitu.io/2019/2/21/1690d8f7ad5bc000?w=1630&h=190&f=jpeg&s=18479)
+![表格](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/3wdpd.jpg)
 
 仔细观察，可以看出 2 的次方数都只有一个 1 ，剩下的都是 0 。根据这个特点，只需要每次判断最低位是否为 1 ，然后向右移位，最后统计 1 的个数即可判断是否是 2 的次方数。
 
@@ -63,7 +63,7 @@ public:
 
 ### 图片描述
 
-![](https://user-gold-cdn.xitu.io/2019/2/21/1690d8f7ad92ad5e?w=356&h=466&f=jpeg&s=15576)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/1w9lq.jpg)
 
 ### 代码实现
 
@@ -80,4 +80,4 @@ public:
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/guem9.png)

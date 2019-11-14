@@ -32,7 +32,7 @@
 
 动画如下：
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181027160100.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/0eeix.gif)
 
 代码如下：
 
@@ -68,7 +68,7 @@ public:
 
 动画如下：
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181027160135.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/jodp0.gif)
 
 代码如下：
 
@@ -101,7 +101,7 @@ public:
 
 动画如下：
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181030085904.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/gcetr.gif)
 代码如下：
 
 ```
@@ -134,4 +134,4 @@ public:
 
 
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/o6der.png)

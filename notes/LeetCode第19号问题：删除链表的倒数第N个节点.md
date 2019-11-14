@@ -40,7 +40,7 @@
 
 ### 动画描述
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181106162853.gif)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/r04hv.gif)
 
 ### 代码实现
 
@@ -75,4 +75,4 @@ public:
 };
 ```
 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png)
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/xbyq0.gif)
