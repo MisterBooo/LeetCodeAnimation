@@ -98,18 +98,14 @@
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |                                                              |
 | 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |                                                              |
 
-## 补充
-**该仓库保持随时更新**。
+## 几篇学习算法的经验贴
 
-2018-12-29 说明：
+[六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
 
-[《2019年LeetCodeAnimationd的更新计划》](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247484375&idx=1&sn=5a5482d9863342650d8b43bb59171f7c&chksm=fa0e6c56cd79e540115e52500b80c8e72001c87ddceb7c0ae1de166fd283d632b960cde41aca&token=578760218&lang=zh_CN#rd)
+[微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
 
-2018-12-07 说明：
+[LeetCode 刷 500 道题，笔试/面试稳吗？谈谈算法的学习](https://mp.weixin.qq.com/s/BuFTEW1guRDrLVVktP6I_w)
 
-为了更好的做好 LeetCode 动画，笔者正在努力的学习更多的数据结构与算法。
-
-笔者目前正在写数据结构的文章与动画，将《动画图解数据结构》系列文章写完后将继续更新此仓库。
 
 邮箱：misterbigbooo@gmail.com
 
@@ -117,13 +113,7 @@
 
 ## 和我交流
 
-
-
-| 二维码 |  说明 |
-| --- | ---  |
-|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190711094817.png) | 欢迎前来和程序员小吴一起学算法 |
-|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625171010.jpeg) | 扫描小程序阅读最新算法文章 |
-
+![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/6nqpz.jpeg)
 
 
 
