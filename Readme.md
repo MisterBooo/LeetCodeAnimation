@@ -32,6 +32,7 @@
 | 24   | [两两交换链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第24号问题：两两交换链表中的节点.md) |                                                              |
 | 25   | [K 个一组翻转链表](https://mp.weixin.qq.com/s/YOz66mJchVIEQjA7TBV2cg) |                                                              |
 | 26   | [删除排序数组中的重复项](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第26号问题：删除排序数组中的重复项.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/4tk72.gif) |
+| 32   | [最长有效括号](https://mp.weixin.qq.com/s/CPIDKHsg3ROT10rVFDyDJQ) |                                                              |
 | 38   | [报数](https://mp.weixin.qq.com/s/DKXJR8pNX3fKGvtSn0TEjw)    |                                                              |
 | 41   | [缺失的第一个正数](<https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486473&idx=3&sn=06bf5f9c17cd3cb328934acc698b0ec3&chksm=fa0e6388cd79ea9e30c67dd2e5251056d860ba45e1fcbbcd4524573072305396d06629312c91&token=1735603091&lang=zh_CN#rd>) |                                                              |
 | 66   | [加一](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第66号问题：加一.md) |                                                              |
@@ -103,8 +104,6 @@
 [六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
 
 [微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
-
-[LeetCode 刷 500 道题，笔试/面试稳吗？谈谈算法的学习](https://mp.weixin.qq.com/s/BuFTEW1guRDrLVVktP6I_w)
 
 
 邮箱：misterbigbooo@gmail.com
