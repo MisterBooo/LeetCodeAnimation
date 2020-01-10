@@ -95,6 +95,7 @@
 | 454  | [四数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第454号问题：四数相加II.md) |                                                              |
 | 642  | [设计一个搜索自动完成系统](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第642号问题：设计一个搜索自动完成系统.md) |                                                              |
 | 690  | [员工的重要性](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第690号问题：员工的重要性.md) |                                                              |
+| 739  | [每日温度](https://mp.weixin.qq.com/s/3kDSOHyd-qOw7apzj0Z9YQ) |                                                              |
 | 877  | [石子游戏](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |                                                              |
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |                                                              |
 | 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |                                                              |
@@ -106,7 +107,7 @@
 [微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
 
 
-邮箱：misterbigbooo@gmail.com
+邮箱：leetcodeanimation@qq.com
 
 喜欢就 star❤️ 一下吧！
 
