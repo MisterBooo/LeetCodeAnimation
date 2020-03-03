@@ -73,8 +73,11 @@
 | 206  | [反转链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第206号问题：反转链表.md) |                                                              |
 | 209  | [长度最小的子数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第209号问题：长度最小的子数组.md) |                                                              |
 | 219  | [存在重复元素 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第219号问题：存在重复元素II.md) |                                                              |
+| 229  | [求众数II](https://mp.weixin.qq.com/s/ObO4eQbjp1s1g_WXPkjixQ) |                                                              |
+
 | 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |                                                              |
-| 237  | [删除链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第237号问题：删除链表中的节点.md) |                                                              |
+| 232  | [使用栈实现队列](https://mp.weixin.qq.com/s/j6w94_PjvsL9Dip_xBcqcg) |                                                              |
+| 237  | [删除链表中的节点](https://mp.weixin.qq.com/s/2XdUeDNblryFpXpTUgsaMQ) |                                                              |
 | 239  | [滑动窗口最大值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第239号问题：滑动窗口最大值.md) |                                                              |
 | 242  | [有效的字母异位词](https://mp.weixin.qq.com/s/o5HTxmOgpftSaQdebS9zyQ) |                                                              |
 | 268  | [缺失数字](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第268号问题：缺失数字.md) |                                                              |
