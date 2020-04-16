@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "rules": {
+    "brace-style": 0,
+    "comma-dangle": 0,
+    "indent": 0,
+    "operator-linebreak": 0,
+    "padded-blocks": 0,
+    "quotes": 0,
+    "semi": 0
+  }
+}

@@ -1,0 +1,42 @@
+  # File: jobs/build.yml
+
+parameters:
+  name: ''
+  pool: ''
+  sign: false
+
+jobs:
+- job: ${{ parameters.name }}
+  pool: ${{ parameters.pool }}
+  strategy:
+    maxParallel: 3
+    matrix:
+      node-12:
+        node_version: ^12.6.0
+      node-10:
+        node_version: ^10.10.0
+  steps:
+  - task: NodeTool@0
+    displayName: " Install Node.js"
+    inputs:
+      versionSpec: $(node_version)
+  - script: git config --global user.email "example@example.com"
+  - script: git config --global user.name "Example Git User"
+  - script: npm install
+  - script: npm run build
+  - script: npm test && npm run write-coverage
+  - task: PublishTestResults@2
+    displayName: 'Publish Test Results'
+    inputs:
+      testResultsFiles: '**/junit-*.xml'
+      testRunTitle: TestRun ${{ parameters.name }} $(node_version)
+  - task: PublishCodeCoverageResults@1
+    displayName: 'Publish code coverage results'
+    inputs:
+      codeCoverageTool: 'cobertura'
+      summaryFileLocation: '**/coverage/cobertura-coverage.xml'
+  - task: PublishBuildArtifacts@1
+    displayName: Publish packages
+    condition: and(succeeded(), eq(variables['system.pullrequest.isfork'], false))
+    inputs:
+      pathtoPublish: '$(Build.ArtifactStagingDirectory)'

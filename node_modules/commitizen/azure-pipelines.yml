@@ -1,0 +1,24 @@
+# Node.js
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+jobs:
+- template: jobs/build.yml  # Template reference
+  parameters:
+    name: macOS
+    pool:
+      vmImage: 'macOS-latest'
+
+- template: jobs/build.yml  # Template reference
+  parameters:
+    name: Linux
+    pool:
+      vmImage: 'Ubuntu-16.04'
+
+- template: jobs/build.yml  # Template reference
+  parameters:
+    name: Windows
+    pool:
+      vmImage: 'windows-latest'
+    sign: true  # Extra step on Windows only
