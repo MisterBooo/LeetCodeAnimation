@@ -34,7 +34,7 @@
 
 ### 动画描述
 
-![](../Animation/animation.gif)
+![](../Animation/Animation.gif)
 
 ### 代码实现
 
