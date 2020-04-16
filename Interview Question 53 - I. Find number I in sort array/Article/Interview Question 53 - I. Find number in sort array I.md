@@ -1,5 +1,11 @@
 # 面试题53 - I. 在排序数组中查找数字 I
 
+> 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
+>
+> 同步博客：https://www.algomooc.com
+
+题目来源于LeetCode 面试题53 - I. 在排序数组中查找数字 I 。 初级程序员应该要懂的一道题。
+
 ## 题目
 
 统计一个数字在排序数组中出现的次数。
@@ -143,3 +149,5 @@ var search = function(nums, target) {
 <video id="video" controls="" preload="none" >
       <source id="mp4" src="../Animation/Interview Question 53 - I. Find number in sort array I.mp4"  type="video/mp4">
   </video>
+
+  ![](../../Pictures/qrcode.jpg)
