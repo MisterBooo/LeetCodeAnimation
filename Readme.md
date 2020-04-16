@@ -8,9 +8,13 @@
 
 我会尽力将 LeetCode 上所有的题目都用动画的形式演示出来，计划用 3 到 4 年时间去完成它，期待与你见证这一天！
 
-文章最新首发于微信公众号 **五分钟学算法** ，您可以关注获取最新的文章。
+文章最新首发于微信公众号 **图解面试算法**，您可以关注获取最新的文章。
 
-我已经将所有文章同步到了我的个人博客，如果国内访问 GitHub 较慢（图片裂开），可以访问这个地址：[https://www.cxyxiaowu.com/likou/leetcode](https://www.cxyxiaowu.com/likou/leetcode)。
+![](Pictures/qrcode.jpg)
+
+
+
+文章同步博客地址：https://www.algomooc.com
 
 ## 汇总
 
@@ -75,7 +79,7 @@
 | 219  | [存在重复元素 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第219号问题：存在重复元素II.md) |                                                              |
 | 229  | [求众数II](https://mp.weixin.qq.com/s/ObO4eQbjp1s1g_WXPkjixQ) |                                                              |
 | 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |                                                              |
-| 232  | [使用栈实现队列](https://mp.weixin.qq.com/s/j6w94_PjvsL9Dip_xBcqcg) |                                                                       |
+| 232  | [使用栈实现队列](https://mp.weixin.qq.com/s/j6w94_PjvsL9Dip_xBcqcg) |                                                              |
 | 237  | [删除链表中的节点](https://mp.weixin.qq.com/s/2XdUeDNblryFpXpTUgsaMQ) |                                                              |
 | 239  | [滑动窗口最大值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第239号问题：滑动窗口最大值.md) |                                                              |
 | 242  | [有效的字母异位词](https://mp.weixin.qq.com/s/o5HTxmOgpftSaQdebS9zyQ) |                                                              |
@@ -102,27 +106,10 @@
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |                                                              |
 | 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |                                                              |
 
-## 几篇学习算法的经验贴
-
-[六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
-
-[微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
-
-
-邮箱：leetcodeanimation@qq.com
-
-喜欢就 star❤️ 一下吧！
-
-## 和我交流
-
-![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/6nqpz.jpeg)
 
 
 
 
-
-
-
-
+![](Pictures/qrcode.jpg)
 
 
