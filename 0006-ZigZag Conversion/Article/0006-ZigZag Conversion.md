@@ -1,4 +1,4 @@
-# LeetCode 第 6 号问题：两数之和
+# LeetCode 第 6 号问题：蛇形矩阵
 
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >

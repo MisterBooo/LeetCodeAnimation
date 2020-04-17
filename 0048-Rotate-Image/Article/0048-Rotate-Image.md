@@ -65,7 +65,7 @@
 
 ## 动画理解
 
-
+![](../Animation/Animation.gif)
 
 ## 参考代码
 
