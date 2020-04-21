@@ -1,0 +1,62 @@
+# LeetCode 第 771 号问题：宝石与石头
+
+> 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
+>
+> 同步博客：https://www.algomooc.com
+
+题目来源于LeetCode上第771号问题：宝石与石头。题目难度为Easy，目前通过率82.3%。
+
+#### 题目描述
+
+> 给定字符串J 代表石头中宝石的类型，和字符串 S代表你拥有的石头。 S 中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。J 中的字母不重复，J 和 S中的所有字符都是字母。字母区分大小写，因此"a"和"A"是不同类型的石头。
+>
+
+```java
+示例 1:
+
+输入: J = "aA", S = "aAAbbbb"
+输出: 3
+示例 2:
+
+输入: J = "z", S = "ZZ"
+输出: 0
+注意:
+S 和 J 最多含有50个字母。
+ J 中的字符不重复。
+```
+
+#### 题目解析
+
+这道题目中有宝石，石头，看起来高大上似的。其实是比较简单的，大致意思就是给定一串字符J和另一串字符S，求J中每个字符出现在S字符串中的次数。比较好的解法是先将J字符串中字符放进哈希集合中，然后把S中每个字符依次去判断是否包含在哈希集合中。我刷了不少LeetCode题，总结一点就是：当你看懂题目基本上就成功了一半。
+
+#### 动画理解
+
+![](../Animation/Animation.gif)
+
+#### 代码实现
+
+Java语言
+
+```java
+class Solution {
+    public int numJewelsInStones(String J, String S) {
+        Set<Character> Jset = new HashSet();
+        for (char j: J.toCharArray())
+            Jset.add(j);
+
+        int ans = 0;
+        for (char s: S.toCharArray())
+            if (Jset.contains(s))
+                ans++;
+        return ans;
+    }
+}
+```
+
+#### 复杂度分析
+
++ 时间复杂度：O(J.length+S.length)，O(J.length) 这部分来自于创建J，O(S.length) 这部分来自于搜索 S。
++ 空间复杂度：O(J.length)
+
+
+
