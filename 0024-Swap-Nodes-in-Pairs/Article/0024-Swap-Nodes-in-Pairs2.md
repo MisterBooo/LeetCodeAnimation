@@ -34,7 +34,7 @@
 
 ### 动画描述
 
-![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/6kpyu.gif)
+<img src="../Animation/Animation1.gif" alt="Animation1" style="zoom:150%;" />
 
 ### 代码实现
 
@@ -92,7 +92,7 @@ var swapPairs = function(head) {
 
 ### 动画描述
 
-
+<img src="../Animation/Animation2.gif" alt="Animation2" style="zoom:150%;" />
 
 ### 代码实现
 
@@ -107,7 +107,7 @@ var swapPairs = function(head) {
     }
      // Nodes to be swapped
     let firstNode = head,
-            secondNode = head.next;
+        secondNode = head.next;
      // Swapping
     firstNode.next = swapPairs(secondNode.next);
     secondNode.next = firstNode;
