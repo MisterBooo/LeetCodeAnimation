@@ -22,6 +22,8 @@
 
 ##动画理解
 
+![](../Animation/Animation.gif)
+
 ##代码实现
 ```
 class Solution {
@@ -61,6 +63,8 @@ class Solution {
 我们发现当mid索引为偶数时，mid两边的数组元素个数是偶数，如果mid索引为奇数时，mid两边的数组元素个数为奇数。当mid索引为偶数时，如果mid=mid+1，即解法一的第三种情况，因为mid右边个数为偶数，所以mid+2到hi个数为奇数，那么只出现一次的那个元素肯定在mid的右边，将lo移动到mid+2位置。如果mid！= mid+1，那么只出现一次的那个元素肯定在mid的左边或者就是mid。如果mid 索引为奇数，那么我们为了保证mid索引为偶数，将mid移到mid-1位置，这样mid索引就变成偶数了，重复上述操作，直到hi=lo，搜索结束。
 
 ##动画理解
+
+![](../Animation/2.gif)
 
 ##代码实现
 
