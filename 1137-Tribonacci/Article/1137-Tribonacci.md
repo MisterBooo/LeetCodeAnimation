@@ -38,7 +38,7 @@ T_4 = 1 + 1 + 2 = 4
 
 ### GIF动画演示：
 
-![](1137-Tribonacci.gif)
+![](../Animation/1137-Tribonacci.gif)
 
 ## 代码：
 
