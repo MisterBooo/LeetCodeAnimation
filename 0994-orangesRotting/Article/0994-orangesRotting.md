@@ -1,6 +1,8 @@
+## LeetCode第994号问题：腐烂的橘子
+
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >
-> 同步个人博客：https://www.zhangxiaoshuai.fun
+> 同步个人博客：www.zhangxiaoshuai.fun
 
 本题在leetcode中题目序号994，属于medium级别，目前通过率为50.7%
 
