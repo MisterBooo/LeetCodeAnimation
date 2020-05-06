@@ -1,6 +1,8 @@
+## LeetCode第234号问题：回文链表
+
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >
-> 个人博客：https://www.zhangxiaoshuai.fun
+> 个人博客：www.zhangxiaoshuai.fun
 
 **本题选择leetcode第234题，easy难度，目前通过率41.5%**
 
