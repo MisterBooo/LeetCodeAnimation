@@ -1,6 +1,8 @@
+## LeetCode第11号问题：盛水最多的容器
+
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >
-> 同步个人博客：https://www.zhangxiaoshuai.fun
+> 同步个人博客：www.zhangxiaoshuai.fun
 
 **本题选自leetcode的第11题，medium级别，目前通过率：61.3%**
 
