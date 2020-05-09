@@ -148,6 +148,4 @@ public class Solution {
 
 
 
-```
 ![](../../Pictures/qrcode.jpg)
-```
