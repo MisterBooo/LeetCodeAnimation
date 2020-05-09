@@ -1,4 +1,4 @@
-# LeetCode 第 137 号问题：只出现一次的数字
+# LeetCode 第 137 号问题：只出现一次的数字 II
 
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >
