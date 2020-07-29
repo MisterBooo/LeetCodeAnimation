@@ -40,8 +40,8 @@
 ![](../Animation/Animation.gif)
 
 ### 代码实现
-
-```
+#### C++
+```c++
 // 对撞指针
 // 时间复杂度: O(n)
 // 空间复杂度: O(1)
@@ -63,6 +63,50 @@ public:
 
 
 ```
+#### Java
+```java
+class Solution {
+    public int[] twoSum(int[] numbers, int target) {
+        int n = numbers.length;
+        int left = 0;
+        int right = n-1;
+        while(left <= right)
+        {
+            if(numbers[left] + numbers[right] == target)
+            {
+                return new int[]{left + 1, right + 1};
+            }
+            else if (numbers[left] + numbers[right] > target)
+            {
+                right--;
+            }
+            else
+            {
+                left++;
+            }
+        }
+        
+        return new int[]{-1, -1};
+    }
+}
+```
+#### Python
+```python
+class Solution(object):
+    def twoSum(self, numbers, target):
+        n = len(numbers)
+        left,right = 0, n-1
+        while left <= right:
+            if numbers[left]+numbers[right] == target:
+                return [left+1, right+1]
+            elif numbers[left]+numbers[right] > target:
+                right -=1
+            else:
+                left +=1
+
+        return [-1, -1]
+```
+
 
 
 
