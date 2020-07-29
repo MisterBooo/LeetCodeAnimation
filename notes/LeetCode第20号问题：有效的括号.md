@@ -71,7 +71,8 @@
 
 ### 代码实现
 
-```
+#### C++
+```c++
 class Solution {
 public:
     bool isValid(string s) {
@@ -109,7 +110,52 @@ public:
     }
 };
 ```
-
+#### Java
+```java
+class Solution {
+    public boolean isValid(String s) {
+        //String open="({[";
+        //String close="]})";
+        
+        Stack<Character> stack = new Stack<Character>();
+        
+        if(s.length() % 2 != 0)
+            return false;
+        
+        
+        for (char c : s.toCharArray())
+        {
+            if (c == '(') stack.push(')');
+            else if (c == '{') stack.push('}');
+            else if (c == '[') stack.push(']');
+            else if (stack.isEmpty() || stack.pop() != c) return false;
+        }
+        
+        return stack.isEmpty();
+    }
+        
+}
+```
+#### Python
+```python
+class Solution(object):
+    def isValid(self, s):
+        open_list = ["[", "{", "("]
+        close_list = ["]", "}", ")"]
+        stack = []
+        
+        for i in s:
+            if i in open_list:
+                stack.append(i)
+            elif i in close_list:
+                pos=close_list.index(i)
+                if len(stack)>0 and (open_list[pos] == stack[len(stack)-1]):
+                    stack.pop()
+                else:
+                    return False
+        if len(stack) == 0:
+            return True
+```
 
 
 ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/gkcza.png)
