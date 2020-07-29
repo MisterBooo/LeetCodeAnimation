@@ -37,7 +37,7 @@
 ![](../Animation/Animation.gif)
 
 ### 代码实现
-
+#### C++
 ```
 // 1. Two Sum
 // https://leetcode.com/problems/two-sum/description/
@@ -62,9 +62,87 @@ public:
 };
 
 ```
-
-
-
-
+#### C
+```c
+// 1. Two Sum
+// https://leetcode.com/problems/two-sum/description/
+// 时间复杂度：O(n)
+// 空间复杂度：O(n)
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+int* twoSum(int* nums, int numsSize, int target, int* returnSize){
+    int *ans=(int *)malloc(2 * sizeof(int));
+    int i,j;
+    bool flag=false; 
+    for(i=0;i<numsSize-1;i++)
+    {
+        for(j=i+1;j<numsSize;j++)
+        {
+            if(nums[i]+nums[j] == target)
+            {
+                ans[0]=i;
+                ans[1]=j;
+                flag=true;
+            }
+        }
+    }
+    if(flag){
+        *returnSize = 2;
+    }
+    else{
+        *returnSize = 0;
+    }
+    return ans;
+}
+```
+#### Java
+```
+// 1. Two Sum
+// https://leetcode.com/problems/two-sum/description/
+// 时间复杂度：O(n)
+// 空间复杂度：O(n)
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int l = nums.length;
+        int[] ans=new int[2];
+        int i,j;
+        for(i=0;i<l-1;i++)
+        {
+            for(j=i+1;j<l;j++)
+            {
+                if(nums[i]+nums[j] == target)
+                {
+                    ans[0]=i;
+                    ans[1]=j;
+                }
+            }
+        }
+        
+        return ans;
+        
+    }
+}
+```
+#### Python
+```
+# 1. Two Sum
+# https://leetcode.com/problems/two-sum/description/
+# 时间复杂度：O(n)
+# 空间复杂度：O(n)
+class Solution(object):
+    def twoSum(self, nums, target):
+        l = len(nums)
+        print(nums)
+        ans=[]
+        for i in range(l-1):
+            for j in range(i+1,l):
+                if nums[i]+nums[j] == target:
+                    ans.append(i)
+                    ans.append(j)
+                    print([i,j])
+                    break
+        return ans
+  ```      
 
 ![](../../Pictures/qrcode.jpg)
