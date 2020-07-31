@@ -51,6 +51,62 @@
 
 ![](../Animation/136.gif)
 
+### 代码实现
+#### C
+````c
+int singleNumber(int* nums, int numsSize){
+    int res=0;
+    for(int i=0;i<numsSize;i++)
+    {
+        res ^= nums[i];
+    }
+    
+    return res;
+}
+````
+
+#### C++
+````c++
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int res=0;
+        for(auto n:nums)
+        {
+            // 异或
+            res ^= n;
+        }
+        return res;
+    }
+};
+````
+
+#### Java
+````java
+class Solution {
+    public int singleNumber(int[] nums) {
+        int res = 0;
+        for(int n:nums)
+        {
+            // 异或
+            res ^= n;
+        }
+        return res;
+    }
+}
+````
+
+#### pyton
+````python
+class Solution(object):
+    def singleNumber(self, nums):
+        return reduce(lambda x,y:x^y, nums)
+# reduce用法举例
+# 计算列表和：1+2+3+4+5
+# 使用 lambda 匿名函数
+# reduce(lambda x, y: x+y, [1,2,3,4,5])  
+````
+
 ### 进阶版
 
 有一个 n 个元素的数组，除了两个数只出现一次外，其余元素都出现两次，让你找出这两个只出现一次的数分别是几，要求时间复杂度为 O(n) 且再开辟的内存空间固定(与 n 无关)。
