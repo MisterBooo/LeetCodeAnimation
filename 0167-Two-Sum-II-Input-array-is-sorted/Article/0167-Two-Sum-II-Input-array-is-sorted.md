@@ -40,29 +40,80 @@
 ![](../Animation/Animation.gif)
 
 ### 代码实现
-
-```
+#### C++
+```c++
 // 对撞指针
 // 时间复杂度: O(n)
 // 空间复杂度: O(1)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int l = 0, r = numbers.size() - 1;
-        while(l < r){
-            if(numbers[l] + numbers[r] == target){
-                int res[2] = {l+1, r+1};
-                return vector<int>(res, res+2);
+        int n = numbers.size();
+        int left = 0;
+        int right = n-1;
+        while(left <= right)
+        {
+            if(numbers[left] + numbers[right] == target)
+            {
+                return {left + 1, right + 1};
             }
-            else if(numbers[l] + numbers[r] < target)
-                l ++;
-            else // numbers[l] + numbers[r] > target
-                r --;
+            else if (numbers[left] + numbers[right] > target)
+            {
+                right--;
+            }
+            else
+            {
+                left++;
+            }
         }
+        return {-1, -1};
     }
-
-
+};
 ```
+#### Java
+```java
+class Solution {
+    public int[] twoSum(int[] numbers, int target) {
+        int n = numbers.length;
+        int left = 0;
+        int right = n-1;
+        while(left <= right)
+        {
+            if(numbers[left] + numbers[right] == target)
+            {
+                return new int[]{left + 1, right + 1};
+            }
+            else if (numbers[left] + numbers[right] > target)
+            {
+                right--;
+            }
+            else
+            {
+                left++;
+            }
+        }
+        
+        return new int[]{-1, -1};
+    }
+}
+```
+#### Python
+```python
+class Solution(object):
+    def twoSum(self, numbers, target):
+        n = len(numbers)
+        left,right = 0, n-1
+        while left <= right:
+            if numbers[left]+numbers[right] == target:
+                return [left+1, right+1]
+            elif numbers[left]+numbers[right] > target:
+                right -=1
+            else:
+                left +=1
+
+        return [-1, -1]
+```
+
 
 
 
