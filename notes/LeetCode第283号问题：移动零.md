@@ -103,8 +103,9 @@ public:
 
 ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/gcetr.gif)
 代码如下：
+C++ Code：
 
-```
+```c++
 // 原地(in place)解决该问题
 // 时间复杂度: O(n)
 // 空间复杂度: O(1)
@@ -130,7 +131,44 @@ public:
 
 ```
 
+Java Code：
 
+```java
+class Solution {
+    public void moveZeroes(int[] nums) {
+        // 双指针
+        int i = 0;
+        for(int j=0; j<nums.length; j++)
+        {
+            // 不为0，前移
+            if(nums[j] != 0)
+            {
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+                i++;
+            }
+        }
+    }
+}
+```
+
+Python Code：
+
+```python
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        # 双指针
+        i = 0
+        for j in range(len(nums)):
+            # 不为0，前移
+            if nums[j] != 0:
+                nums[i], nums[j] = nums[j], nums[i]
+                i+=1
+```
 
 
 
