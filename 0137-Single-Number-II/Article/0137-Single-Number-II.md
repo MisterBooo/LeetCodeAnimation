@@ -46,5 +46,45 @@
 
 ![](../Animation/137.gif)
 
+### 代码实现
+#### C++
+```c++
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int one=0, two=0;
+        for(int n:nums)
+        {
+            one = (one ^ n) & (~two);
+            two = (two ^ n) & (~one);
+        }
+        return one;
+    }
+};
+```
+#### Java
+```java
+class Solution {
+    public int singleNumber(int[] nums) {
+        int one=0, two=0;
+        for(int n:nums)
+        {
+            one = (one ^ n) & (~two);
+            two = (two ^ n) & (~one);
+        }
+        return one;
+    }
+}
+```
+#### Python
+```python
+class Solution(object):
+    def singleNumber(self, nums):
+        one = two = 0
+        for n in nums:
+            one = (one ^ n) & (~two)
+            two = (two ^ n) & (~one)
+        return one
+```
 
 ![](../../Pictures/qrcode.jpg)
