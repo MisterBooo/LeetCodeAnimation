@@ -77,6 +77,94 @@ nums2 = [2,5,6],       n = 3
 <img src="../Animation/Animation.gif" alt="Animation" style="zoom:150%;" />
 
 ### 参考代码
+C++ Code:
+
+```c++
+class Solution {
+public:
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i=m-1, j=n-1, k=m+n-1;
+        // 合并
+        while(i>=0 && j>=0)
+        {
+            if(nums1[i] > nums2[j])
+            {
+                nums1[k--] = nums1[i--];
+            }
+            else
+            {
+                nums1[k--] = nums2[j--];
+            }
+        }
+        // 合并剩余的nums2
+        while(j>=0)
+        {
+            nums1[k--] = nums2[j--];
+        }
+    }
+};
+```
+
+Java Code:
+
+```java
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i=m-1, j=n-1, k=m+n-1;
+        // 合并
+        while(i>=0 && j>=0)
+        {
+            if(nums1[i] > nums2[j])
+            {
+                nums1[k--] = nums1[i--];
+            }
+            else
+            {
+                nums1[k--] = nums2[j--];
+            }
+        }
+        // 合并剩余的nums2
+        while(j>=0)
+        {
+            nums1[k--] = nums2[j--];
+        }
+    }
+}
+```
+
+Python Code:
+
+```python
+class Solution(object):
+    def merge(self, nums1, m, nums2, n):
+        """
+        :type nums1: List[int]
+        :type m: int
+        :type nums2: List[int]
+        :type n: int
+        :rtype: None Do not return anything, modify nums1 in-place instead.
+        """
+        i,j,k = m-1, n-1, m+n-1
+
+        while i >= 0 and j >= 0:
+            # print(i,j,k, nums1)
+            # print(nums1[i], nums2[j])
+            if nums1[i] > nums2[j]:
+                nums1[k] = nums1[i]
+                k-=1
+                i-=1
+            else:
+                nums1[k] = nums2[j]
+                k-=1
+                j-=1
+        while j >= 0:
+            nums1[k] = nums2[j]
+            k-=1
+            j-=1
+
+```
+
+JavaScript Code:
 
 ```javascript
 /**
