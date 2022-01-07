@@ -31,8 +31,6 @@ class Solution:
         for i in range(n):
             if tail:
                 tail = tail.next
-            else:
-                return None
         while tail:
             #  1   2   3   nil
             # pre  q      tail
