@@ -1,0 +1,9 @@
+char * removeTrailingZeros(char * num){
+int i=strlen(num)-1;
+while(num[i]=='0')
+{
+    num[i]='\0';
+    i--;
+}
+return num;
+}
