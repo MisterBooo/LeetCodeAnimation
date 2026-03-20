@@ -3,7 +3,6 @@
 > 本文首发于公众号「图解面试算法」，是 [图解 LeetCode ](<https://github.com/MisterBooo/LeetCodeAnimation>) 系列文章之一。
 >
 > 同步博客：https://www.algomooc.com
->
 
 题目来源于 LeetCode 上第 1 号问题：两数之和。题目难度为 Easy，目前通过率为 45.8% 。
 
@@ -72,27 +71,27 @@ public:
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
-    int *ans=(int *)malloc(2 * sizeof(int));
-    int i,j;
-    bool flag=false; 
-    for(i=0;i<numsSize-1;i++)
-    {
-        for(j=i+1;j<numsSize;j++)
-        {
-            if(nums[i]+nums[j] == target)
-            {
-                ans[0]=i;
-                ans[1]=j;
-                flag=true;
-            }
+    int *ans = (int *)malloc(2 * sizeof(int));
+    int *record = (int *)malloc(numsSize * sizeof(int));
+    // Initialize record with -1
+    for(int i = 0; i < numsSize; i++) {
+        record[i] = -1;
+    }
+    
+    for(int i = 0; i < numsSize; i++){
+        int complement = target - nums[i];
+        if(record[complement] != -1){
+            ans[0] = i;
+            ans[1] = record[complement];
+            free(record);
+            *returnSize = 2;
+            return ans;
         }
+        record[nums[i]] = i;
     }
-    if(flag){
-        *returnSize = 2;
-    }
-    else{
-        *returnSize = 0;
-    }
+    
+    free(record);
+    *returnSize = 0;
     return ans;
 }
 ```
@@ -104,23 +103,15 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 // 空间复杂度：O(n)
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int l = nums.length;
-        int[] ans=new int[2];
-        int i,j;
-        for(i=0;i<l-1;i++)
-        {
-            for(j=i+1;j<l;j++)
-            {
-                if(nums[i]+nums[j] == target)
-                {
-                    ans[0]=i;
-                    ans[1]=j;
-                }
+        Map<Integer, Integer> record = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            if (record.containsKey(complement)) {
+                return new int[] { i, record.get(complement) };
             }
+            record.put(nums[i], i);
         }
-        
-        return ans;
-        
+        return new int[] {};
     }
 }
 ```
@@ -132,17 +123,13 @@ class Solution {
 # 空间复杂度：O(n)
 class Solution(object):
     def twoSum(self, nums, target):
-        l = len(nums)
-        print(nums)
-        ans=[]
-        for i in range(l-1):
-            for j in range(i+1,l):
-                if nums[i]+nums[j] == target:
-                    ans.append(i)
-                    ans.append(j)
-                    print([i,j])
-                    break
-        return ans
+        record = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in record:
+                return [i, record[complement]]
+            record[num] = i
+        return []
   ```      
 
 ![](../../Pictures/qrcode.jpg)
