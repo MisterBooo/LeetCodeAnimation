@@ -12,6 +12,7 @@
 | 只修复某题 `index.html` 的动画步骤、文案、样式 | 通常否 | 只提交网站仓库；GitHub 索引没有变化 |
 | 修复动画内容且希望 GitHub 留痕 | 可选 | 手动补 `docs/sync-log.md`，单独提交一条 `docs: log ...` |
 | 新增 GitHub 侧 GIF、文章或代码素材 | 是 | 提交对应素材，manifest 会自动补 `repoPath` / `gifPath` |
+| 新增 README 精选预览 GIF | 是 | 放到 `assets/previews/`，更新 README，控制在 4 到 6 个精选案例 |
 
 ## 审查
 
@@ -66,8 +67,16 @@ git commit -m "docs: sync latest LeetCode animation index"
 git commit -m "docs: log lc1234 problem-slug animation fix"
 ```
 
+新增 README 精选预览：
+
+```bash
+git add Readme.md README-En.md assets/previews/problem-slug.gif
+git commit -m "docs: add lc1234 problem-slug animation preview"
+```
+
 ## 发布节奏
 
 - 新增题目可以单题一个 commit，方便读者看到仓库持续更新。
 - 批量小修复可以攒 3 到 5 个再同步，避免提交噪音。
+- 适合展示动画效果的题目再补 README 预览 GIF，不必每题都放；README 保持精选。
 - README、脚本、索引结构调整要单独 commit，不要和题目同步混在一起。

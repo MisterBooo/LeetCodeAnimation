@@ -11,8 +11,8 @@
       "哈希表"
     ],
     "status": "site-animation",
-    "repoPath": "0001-Two-Sum",
-    "gifPath": "0001-Two-Sum/Animation/Animation.gif",
+    "repoPath": "problems/0001-Two-Sum",
+    "gifPath": "problems/0001-Two-Sum/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/two-sum"
   },
   {
@@ -27,8 +27,8 @@
       "模拟"
     ],
     "status": "site-animation",
-    "repoPath": "0002-Add-Two-Numbers",
-    "gifPath": "0002-Add-Two-Numbers/Animation/Animation.gif",
+    "repoPath": "problems/0002-Add-Two-Numbers",
+    "gifPath": "problems/0002-Add-Two-Numbers/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/add-two-numbers"
   },
   {
@@ -42,7 +42,7 @@
       "滑动窗口"
     ],
     "status": "site-animation",
-    "repoPath": "0003-Longest-Substring-Without-Repeating-Characters",
+    "repoPath": "problems/0003-Longest-Substring-Without-Repeating-Characters",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-substring-without-repeating-characters"
   },
@@ -57,8 +57,8 @@
       "二分查找"
     ],
     "status": "site-animation",
-    "repoPath": "0004-median-of-two-sorted-arrays",
-    "gifPath": "0004-median-of-two-sorted-arrays/Animation/Animation.gif",
+    "repoPath": "problems/0004-median-of-two-sorted-arrays",
+    "gifPath": "problems/0004-median-of-two-sorted-arrays/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/median-of-two-sorted-arrays"
   },
   {
@@ -73,8 +73,8 @@
       "回文"
     ],
     "status": "site-animation",
-    "repoPath": "0005-Longest Palindromic Substring",
-    "gifPath": "0005-Longest Palindromic Substring/Animation/LeetCode5.gif",
+    "repoPath": "problems/0005-Longest Palindromic Substring",
+    "gifPath": "problems/0005-Longest Palindromic Substring/Animation/LeetCode5.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-palindromic-substring"
   },
   {
@@ -103,7 +103,7 @@
       "数学"
     ],
     "status": "site-animation",
-    "repoPath": "0009-Palindrome-Number",
+    "repoPath": "problems/0009-Palindrome-Number",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-number"
   },
@@ -133,8 +133,8 @@
       "对撞双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0011-maxArea",
-    "gifPath": "0011-maxArea/Animation/maxArea.gif",
+    "repoPath": "problems/0011-maxArea",
+    "gifPath": "problems/0011-maxArea/Animation/maxArea.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/container-with-most-water"
   },
   {
@@ -164,8 +164,8 @@
       "对撞双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0015-3Sum",
-    "gifPath": "0015-3Sum/Animation/Animation.gif",
+    "repoPath": "problems/0015-3Sum",
+    "gifPath": "problems/0015-3Sum/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/3sum"
   },
   {
@@ -226,7 +226,7 @@
       "快慢指针"
     ],
     "status": "site-animation",
-    "repoPath": "0019-Remove-Nth-Node-From-End-of-List",
+    "repoPath": "problems/0019-Remove-Nth-Node-From-End-of-List",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-nth-node-from-end-of-list"
   },
@@ -241,7 +241,7 @@
       "栈"
     ],
     "status": "site-animation",
-    "repoPath": "0020-Valid-Parentheses",
+    "repoPath": "problems/0020-Valid-Parentheses",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-parentheses"
   },
@@ -257,7 +257,7 @@
       "双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0021-Merge-Two-Sorted-Lists",
+    "repoPath": "problems/0021-Merge-Two-Sorted-Lists",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-two-sorted-lists"
   },
@@ -273,8 +273,8 @@
       "括号"
     ],
     "status": "site-animation",
-    "repoPath": "0022-Generate-Parentheses",
-    "gifPath": "0022-Generate-Parentheses/Animation/0022-Generate_Parentheses.gif",
+    "repoPath": "problems/0022-Generate-Parentheses",
+    "gifPath": "problems/0022-Generate-Parentheses/Animation/0022-Generate_Parentheses.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/generate-parentheses"
   },
   {
@@ -289,7 +289,7 @@
       "分治"
     ],
     "status": "site-animation",
-    "repoPath": "0023-Merge-k-Sorted-Lists",
+    "repoPath": "problems/0023-Merge-k-Sorted-Lists",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-k-sorted-lists"
   },
@@ -305,8 +305,8 @@
       "指针重连"
     ],
     "status": "site-animation",
-    "repoPath": "0024-Swap-Nodes-in-Pairs",
-    "gifPath": "0024-Swap-Nodes-in-Pairs/Animation/Animation1.gif",
+    "repoPath": "problems/0024-Swap-Nodes-in-Pairs",
+    "gifPath": "problems/0024-Swap-Nodes-in-Pairs/Animation/Animation1.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/swap-nodes-in-pairs"
   },
   {
@@ -321,8 +321,8 @@
       "分组反转"
     ],
     "status": "site-animation",
-    "repoPath": "0025-Reverse-Nodes-In-K-Group",
-    "gifPath": "0025-Reverse-Nodes-In-K-Group/Animation/Animation.gif",
+    "repoPath": "problems/0025-Reverse-Nodes-In-K-Group",
+    "gifPath": "problems/0025-Reverse-Nodes-In-K-Group/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-nodes-in-k-group"
   },
   {
@@ -337,7 +337,7 @@
       "快慢指针"
     ],
     "status": "site-animation",
-    "repoPath": "0026-Remove-Duplicates-from-Sorted-Array",
+    "repoPath": "problems/0026-Remove-Duplicates-from-Sorted-Array",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-duplicates-from-sorted-array"
   },
@@ -430,8 +430,8 @@
       "二分边界"
     ],
     "status": "site-animation",
-    "repoPath": "0034-find-first-and-last-position-of-element-in-sorted-array",
-    "gifPath": "0034-find-first-and-last-position-of-element-in-sorted-array/Animation/在排序数组中查找元素的第一个和最后一个位置.gif",
+    "repoPath": "problems/0034-find-first-and-last-position-of-element-in-sorted-array",
+    "gifPath": "problems/0034-find-first-and-last-position-of-element-in-sorted-array/Animation/在排序数组中查找元素的第一个和最后一个位置.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/find-first-and-last-position-of-element-in-sorted-array"
   },
   {
@@ -445,8 +445,8 @@
       "二分查找"
     ],
     "status": "site-animation",
-    "repoPath": "0035-search-insert-position",
-    "gifPath": "0035-search-insert-position/Animation/二分查找.gif",
+    "repoPath": "problems/0035-search-insert-position",
+    "gifPath": "problems/0035-search-insert-position/Animation/二分查找.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/search-insert-position"
   },
   {
@@ -461,8 +461,8 @@
       "哈希查重"
     ],
     "status": "site-animation",
-    "repoPath": "0036-valid-sudoku",
-    "gifPath": "0036-valid-sudoku/Animation/HashMap.gif",
+    "repoPath": "problems/0036-valid-sudoku",
+    "gifPath": "problems/0036-valid-sudoku/Animation/HashMap.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-sudoku"
   },
   {
@@ -522,8 +522,8 @@
       "单调栈"
     ],
     "status": "site-animation",
-    "repoPath": "0042-Trap",
-    "gifPath": "0042-Trap/Animation/0042-Trap.gif",
+    "repoPath": "problems/0042-Trap",
+    "gifPath": "problems/0042-Trap/Animation/0042-Trap.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/trapping-rain-water"
   },
   {
@@ -598,8 +598,8 @@
       "原地旋转"
     ],
     "status": "site-animation",
-    "repoPath": "0048-Rotate-Image",
-    "gifPath": "0048-Rotate-Image/Animation/Animation.gif",
+    "repoPath": "problems/0048-Rotate-Image",
+    "gifPath": "problems/0048-Rotate-Image/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/rotate-image"
   },
   {
@@ -797,8 +797,8 @@
       "动态规划"
     ],
     "status": "site-animation",
-    "repoPath": "0070-Climbing-Stairs",
-    "gifPath": "0070-Climbing-Stairs/Animation/Animation.gif",
+    "repoPath": "problems/0070-Climbing-Stairs",
+    "gifPath": "problems/0070-Climbing-Stairs/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/climbing-stairs"
   },
   {
@@ -874,7 +874,7 @@
       "三指针"
     ],
     "status": "site-animation",
-    "repoPath": "0075-Sort-Colors",
+    "repoPath": "problems/0075-Sort-Colors",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/sort-colors"
   },
@@ -997,8 +997,8 @@
       "单调栈"
     ],
     "status": "site-animation",
-    "repoPath": "0084-Largest-Rectangle-In-Histogram",
-    "gifPath": "0084-Largest-Rectangle-In-Histogram/Animation/84.gif",
+    "repoPath": "problems/0084-Largest-Rectangle-In-Histogram",
+    "gifPath": "problems/0084-Largest-Rectangle-In-Histogram/Animation/84.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/largest-rectangle-in-histogram"
   },
   {
@@ -1027,8 +1027,8 @@
       "双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0088-Merge-Sorted-Array",
-    "gifPath": "0088-Merge-Sorted-Array/Animation/Animation.gif",
+    "repoPath": "problems/0088-Merge-Sorted-Array",
+    "gifPath": "problems/0088-Merge-Sorted-Array/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-sorted-array"
   },
   {
@@ -1075,7 +1075,7 @@
       "局部反转"
     ],
     "status": "site-animation",
-    "repoPath": "0092-Reverse-Linked-List-II",
+    "repoPath": "problems/0092-Reverse-Linked-List-II",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-linked-list-ii"
   },
@@ -1107,8 +1107,8 @@
       "遍历"
     ],
     "status": "site-animation",
-    "repoPath": "0094-Binary-Tree-Inorder-Traversal",
-    "gifPath": "0094-Binary-Tree-Inorder-Traversal/Animation/Animation2.gif",
+    "repoPath": "problems/0094-Binary-Tree-Inorder-Traversal",
+    "gifPath": "problems/0094-Binary-Tree-Inorder-Traversal/Animation/Animation2.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-inorder-traversal"
   },
   {
@@ -1171,7 +1171,7 @@
       "递归"
     ],
     "status": "site-animation",
-    "repoPath": "0101-Symmetric-Tree",
+    "repoPath": "problems/0101-Symmetric-Tree",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/symmetric-tree"
   },
@@ -1187,7 +1187,7 @@
       "BFS"
     ],
     "status": "site-animation",
-    "repoPath": "0102-Binary-Tree-Level-Order-Traversal",
+    "repoPath": "problems/0102-Binary-Tree-Level-Order-Traversal",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-level-order-traversal"
   },
@@ -1202,7 +1202,7 @@
       "二叉树"
     ],
     "status": "site-animation",
-    "repoPath": "0103-Binary-Tree-Zigzag-Level-Order-Traversal",
+    "repoPath": "problems/0103-Binary-Tree-Zigzag-Level-Order-Traversal",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-zigzag-level-order-traversal"
   },
@@ -1218,8 +1218,8 @@
       "递归"
     ],
     "status": "site-animation",
-    "repoPath": "0104-Maximum-Depth-Of-Binary-Tree",
-    "gifPath": "0104-Maximum-Depth-Of-Binary-Tree/Animation/Animation1.gif",
+    "repoPath": "problems/0104-Maximum-Depth-Of-Binary-Tree",
+    "gifPath": "problems/0104-Maximum-Depth-Of-Binary-Tree/Animation/Animation1.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-depth-of-binary-tree"
   },
   {
@@ -1250,8 +1250,8 @@
       "后序"
     ],
     "status": "site-animation",
-    "repoPath": "0110-Balanced-Binary-Tree",
-    "gifPath": "0110-Balanced-Binary-Tree/Animation/Animation1.gif",
+    "repoPath": "problems/0110-Balanced-Binary-Tree",
+    "gifPath": "problems/0110-Balanced-Binary-Tree/Animation/Animation1.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/balanced-binary-tree"
   },
   {
@@ -1311,8 +1311,8 @@
       "动态规划"
     ],
     "status": "site-animation",
-    "repoPath": "0118-Generate",
-    "gifPath": "0118-Generate/Animation/resource.gif",
+    "repoPath": "problems/0118-Generate",
+    "gifPath": "problems/0118-Generate/Animation/resource.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/pascals-triangle"
   },
   {
@@ -1326,8 +1326,8 @@
       "DP"
     ],
     "status": "site-animation",
-    "repoPath": "0120-Triangle",
-    "gifPath": "0120-Triangle/Animation/120.gif",
+    "repoPath": "problems/0120-Triangle",
+    "gifPath": "problems/0120-Triangle/Animation/120.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/triangle"
   },
   {
@@ -1387,8 +1387,8 @@
       "树形 DP"
     ],
     "status": "site-animation",
-    "repoPath": "0124-Binary-Tree-Maximum-Path-Sum",
-    "gifPath": "0124-Binary-Tree-Maximum-Path-Sum/Animation/124.gif",
+    "repoPath": "problems/0124-Binary-Tree-Maximum-Path-Sum",
+    "gifPath": "problems/0124-Binary-Tree-Maximum-Path-Sum/Animation/124.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-maximum-path-sum"
   },
   {
@@ -1402,8 +1402,8 @@
       "双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0125-Valid-Palindrome",
-    "gifPath": "0125-Valid-Palindrome/Animation/animation.gif",
+    "repoPath": "problems/0125-Valid-Palindrome",
+    "gifPath": "problems/0125-Valid-Palindrome/Animation/animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-palindrome"
   },
   {
@@ -1433,8 +1433,8 @@
       "哈希集合"
     ],
     "status": "site-animation",
-    "repoPath": "0128-Longest-Consecutive-Sequence",
-    "gifPath": "0128-Longest-Consecutive-Sequence/Animation/128-1.gif",
+    "repoPath": "problems/0128-Longest-Consecutive-Sequence",
+    "gifPath": "problems/0128-Longest-Consecutive-Sequence/Animation/128-1.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-consecutive-sequence"
   },
   {
@@ -1464,8 +1464,8 @@
       "切割"
     ],
     "status": "site-animation",
-    "repoPath": "0131-Palindrome-Partitioning",
-    "gifPath": "0131-Palindrome-Partitioning/Animation/Animation.gif",
+    "repoPath": "problems/0131-Palindrome-Partitioning",
+    "gifPath": "problems/0131-Palindrome-Partitioning/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-partitioning"
   },
   {
@@ -1481,8 +1481,8 @@
       "BFS"
     ],
     "status": "site-animation",
-    "repoPath": "0133-Clone-Graph",
-    "gifPath": "0133-Clone-Graph/Animation/133.gif",
+    "repoPath": "problems/0133-Clone-Graph",
+    "gifPath": "problems/0133-Clone-Graph/Animation/133.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/clone-graph"
   },
   {
@@ -1528,8 +1528,8 @@
       "异或"
     ],
     "status": "site-animation",
-    "repoPath": "0136-Single-Number",
-    "gifPath": "0136-Single-Number/Animation/136.gif",
+    "repoPath": "problems/0136-Single-Number",
+    "gifPath": "problems/0136-Single-Number/Animation/136.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number"
   },
   {
@@ -1543,8 +1543,8 @@
       "位运算"
     ],
     "status": "site-animation",
-    "repoPath": "0137-Single-Number-II",
-    "gifPath": "0137-Single-Number-II/Animation/137.gif",
+    "repoPath": "problems/0137-Single-Number-II",
+    "gifPath": "problems/0137-Single-Number-II/Animation/137.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number-ii"
   },
   {
@@ -1558,7 +1558,7 @@
       "字符串 DP"
     ],
     "status": "site-animation",
-    "repoPath": "0139-Word-Break",
+    "repoPath": "problems/0139-Word-Break",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/word-break"
   },
@@ -1574,8 +1574,8 @@
       "快慢指针"
     ],
     "status": "site-animation",
-    "repoPath": "0141-Linked-List-Cycle",
-    "gifPath": "0141-Linked-List-Cycle/Animation/Animation.gif",
+    "repoPath": "problems/0141-Linked-List-Cycle",
+    "gifPath": "problems/0141-Linked-List-Cycle/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/linked-list-cycle"
   },
   {
@@ -1589,8 +1589,8 @@
       "链表"
     ],
     "status": "site-animation",
-    "repoPath": "0142-Linked-List-Cycle-ii",
-    "gifPath": "0142-Linked-List-Cycle-ii/Animation/Animation.gif",
+    "repoPath": "problems/0142-Linked-List-Cycle-ii",
+    "gifPath": "problems/0142-Linked-List-Cycle-ii/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/linked-list-cycle-ii"
   },
   {
@@ -1604,8 +1604,8 @@
       "设计"
     ],
     "status": "site-animation",
-    "repoPath": "0146-LRU-Cache",
-    "gifPath": "0146-LRU-Cache/Animation/Animation.gif",
+    "repoPath": "problems/0146-LRU-Cache",
+    "gifPath": "problems/0146-LRU-Cache/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/lru-cache"
   },
   {
@@ -1635,8 +1635,8 @@
       "栈"
     ],
     "status": "site-animation",
-    "repoPath": "0150-Evaluate-Reverse-Polish-Notation",
-    "gifPath": "0150-Evaluate-Reverse-Polish-Notation/Animation/Animation.gif",
+    "repoPath": "problems/0150-Evaluate-Reverse-Polish-Notation",
+    "gifPath": "problems/0150-Evaluate-Reverse-Polish-Notation/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/evaluate-reverse-polish-notation"
   },
   {
@@ -1698,8 +1698,8 @@
       "辅助栈"
     ],
     "status": "site-animation",
-    "repoPath": "0155-min-stack",
-    "gifPath": "0155-min-stack/Animation/Animation.gif",
+    "repoPath": "problems/0155-min-stack",
+    "gifPath": "problems/0155-min-stack/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/min-stack"
   },
   {
@@ -1714,8 +1714,8 @@
       "双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0160-Intersection-of-Two-Linked-Lists",
-    "gifPath": "0160-Intersection-of-Two-Linked-Lists/Animation/Animation.gif",
+    "repoPath": "problems/0160-Intersection-of-Two-Linked-Lists",
+    "gifPath": "problems/0160-Intersection-of-Two-Linked-Lists/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/intersection-of-two-linked-lists"
   },
   {
@@ -1730,8 +1730,8 @@
       "找峰值"
     ],
     "status": "site-animation",
-    "repoPath": "0162-Find-Peak-Element",
-    "gifPath": "0162-Find-Peak-Element/Animation/2.gif",
+    "repoPath": "problems/0162-Find-Peak-Element",
+    "gifPath": "problems/0162-Find-Peak-Element/Animation/2.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/find-peak-element"
   },
   {
@@ -1745,8 +1745,8 @@
       "对撞双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0167-Two-Sum-II-Input-array-is-sorted",
-    "gifPath": "0167-Two-Sum-II-Input-array-is-sorted/Animation/Animation.gif",
+    "repoPath": "problems/0167-Two-Sum-II-Input-array-is-sorted",
+    "gifPath": "problems/0167-Two-Sum-II-Input-array-is-sorted/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/two-sum-ii-input-array-is-sorted"
   },
   {
@@ -1761,8 +1761,8 @@
       "摩尔投票"
     ],
     "status": "site-animation",
-    "repoPath": "0169-Majority-Element",
-    "gifPath": "0169-Majority-Element/Animation/Animation.gif",
+    "repoPath": "problems/0169-Majority-Element",
+    "gifPath": "problems/0169-Majority-Element/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/majority-element"
   },
   {
@@ -1822,8 +1822,8 @@
       "原地反转"
     ],
     "status": "site-animation",
-    "repoPath": "0189-Rotate-Array",
-    "gifPath": "0189-Rotate-Array/Animation/189.gif",
+    "repoPath": "problems/0189-Rotate-Array",
+    "gifPath": "problems/0189-Rotate-Array/Animation/189.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/rotate-array"
   },
   {
@@ -1869,8 +1869,8 @@
       "DFS"
     ],
     "status": "site-animation",
-    "repoPath": "0200-Number-of-Islands",
-    "gifPath": "0200-Number-of-Islands/Animation/Animation.gif",
+    "repoPath": "problems/0200-Number-of-Islands",
+    "gifPath": "problems/0200-Number-of-Islands/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/number-of-islands"
   },
   {
@@ -1884,8 +1884,8 @@
       "链表"
     ],
     "status": "site-animation",
-    "repoPath": "0203-Remove-Linked-List-Elements",
-    "gifPath": "0203-Remove-Linked-List-Elements/Animation/Animation.gif",
+    "repoPath": "problems/0203-Remove-Linked-List-Elements",
+    "gifPath": "problems/0203-Remove-Linked-List-Elements/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-linked-list-elements"
   },
   {
@@ -1915,8 +1915,8 @@
       "双指针"
     ],
     "status": "site-animation",
-    "repoPath": "0206-Reverse-Linked-List",
-    "gifPath": "0206-Reverse-Linked-List/Animation/Animation.gif",
+    "repoPath": "problems/0206-Reverse-Linked-List",
+    "gifPath": "problems/0206-Reverse-Linked-List/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-linked-list"
   },
   {
@@ -1960,8 +1960,8 @@
       "滑动窗口"
     ],
     "status": "site-animation",
-    "repoPath": "0209-Minimum-Size-Subarray-Sum",
-    "gifPath": "0209-Minimum-Size-Subarray-Sum/Animation/Animation.gif",
+    "repoPath": "problems/0209-Minimum-Size-Subarray-Sum",
+    "gifPath": "problems/0209-Minimum-Size-Subarray-Sum/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-size-subarray-sum"
   },
   {
@@ -2021,8 +2021,8 @@
       "Top K"
     ],
     "status": "site-animation",
-    "repoPath": "0215-Kth-Largest-Element-in-an-Array",
-    "gifPath": "0215-Kth-Largest-Element-in-an-Array/Animation/Animation.gif",
+    "repoPath": "problems/0215-Kth-Largest-Element-in-an-Array",
+    "gifPath": "problems/0215-Kth-Largest-Element-in-an-Array/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/kth-largest-element-in-an-array"
   },
   {
@@ -2051,8 +2051,8 @@
       "哈希表"
     ],
     "status": "site-animation",
-    "repoPath": "0219-Contains-Duplicate-II",
-    "gifPath": "0219-Contains-Duplicate-II/Animation/Animation.gif",
+    "repoPath": "problems/0219-Contains-Duplicate-II",
+    "gifPath": "problems/0219-Contains-Duplicate-II/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/contains-duplicate-ii"
   },
   {
@@ -2143,7 +2143,7 @@
       "位运算"
     ],
     "status": "site-animation",
-    "repoPath": "0231-Power-Of-Two",
+    "repoPath": "problems/0231-Power-Of-Two",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/power-of-two"
   },
@@ -2175,8 +2175,8 @@
       "综合"
     ],
     "status": "site-animation",
-    "repoPath": "0234-isPalindrome",
-    "gifPath": "0234-isPalindrome/Animation/solved01.gif",
+    "repoPath": "problems/0234-isPalindrome",
+    "gifPath": "problems/0234-isPalindrome/Animation/solved01.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-linked-list"
   },
   {
@@ -2236,8 +2236,8 @@
       "单调队列"
     ],
     "status": "site-animation",
-    "repoPath": "0239-Sliding-Window-Maximum",
-    "gifPath": "0239-Sliding-Window-Maximum/Animation/Animation.gif",
+    "repoPath": "problems/0239-Sliding-Window-Maximum",
+    "gifPath": "problems/0239-Sliding-Window-Maximum/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/sliding-window-maximum"
   },
   {
@@ -2267,8 +2267,8 @@
       "哈希计数"
     ],
     "status": "site-animation",
-    "repoPath": "0242-Valid-Anagram",
-    "gifPath": "0242-Valid-Anagram/Animation/242.gif",
+    "repoPath": "problems/0242-Valid-Anagram",
+    "gifPath": "problems/0242-Valid-Anagram/Animation/242.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-anagram"
   },
   {
@@ -2298,8 +2298,8 @@
       "位运算"
     ],
     "status": "site-animation",
-    "repoPath": "0260-Single-Number-III",
-    "gifPath": "0260-Single-Number-III/Animation/260.gif",
+    "repoPath": "problems/0260-Single-Number-III",
+    "gifPath": "problems/0260-Single-Number-III/Animation/260.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number-iii"
   },
   {
@@ -2329,8 +2329,8 @@
       "异或"
     ],
     "status": "site-animation",
-    "repoPath": "0268-Missing-Number",
-    "gifPath": "0268-Missing-Number/Animation/Animation.gif",
+    "repoPath": "problems/0268-Missing-Number",
+    "gifPath": "problems/0268-Missing-Number/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/missing-number"
   },
   {
@@ -2359,8 +2359,8 @@
       "完全背包 DP"
     ],
     "status": "site-animation",
-    "repoPath": "0279-Perfect-Squares",
-    "gifPath": "0279-Perfect-Squares/Animation/Animation.gif",
+    "repoPath": "problems/0279-Perfect-Squares",
+    "gifPath": "problems/0279-Perfect-Squares/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/perfect-squares"
   },
   {
@@ -2374,8 +2374,8 @@
       "快慢指针"
     ],
     "status": "site-animation",
-    "repoPath": "0283-Move-Zeroes",
-    "gifPath": "0283-Move-Zeroes/Animation/Animation.gif",
+    "repoPath": "problems/0283-Move-Zeroes",
+    "gifPath": "problems/0283-Move-Zeroes/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/move-zeroes"
   },
   {
@@ -2436,8 +2436,8 @@
       "对顶堆"
     ],
     "status": "site-animation",
-    "repoPath": "0295-Find-Median-from-Data-Stream",
-    "gifPath": "0295-Find-Median-from-Data-Stream/Animation/Animation.gif",
+    "repoPath": "problems/0295-Find-Median-from-Data-Stream",
+    "gifPath": "problems/0295-Find-Median-from-Data-Stream/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/find-median-from-data-stream"
   },
   {
@@ -2588,8 +2588,8 @@
       "链表"
     ],
     "status": "site-animation",
-    "repoPath": "0328-Odd-Even-Linked-List",
-    "gifPath": "0328-Odd-Even-Linked-List/Animation/Animation.gif",
+    "repoPath": "problems/0328-Odd-Even-Linked-List",
+    "gifPath": "problems/0328-Odd-Even-Linked-List/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/odd-even-linked-list"
   },
   {
@@ -2665,8 +2665,8 @@
       "桶排序"
     ],
     "status": "site-animation",
-    "repoPath": "0347-Top-K-Frequent-Elements",
-    "gifPath": "0347-Top-K-Frequent-Elements/Animation/Animation.gif",
+    "repoPath": "problems/0347-Top-K-Frequent-Elements",
+    "gifPath": "problems/0347-Top-K-Frequent-Elements/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/top-k-frequent-elements"
   },
   {
@@ -2680,8 +2680,8 @@
       "哈希表"
     ],
     "status": "site-animation",
-    "repoPath": "0349-Intersection-of-Two-Arrays",
-    "gifPath": "0349-Intersection-of-Two-Arrays/Animation/Animation.gif",
+    "repoPath": "problems/0349-Intersection-of-Two-Arrays",
+    "gifPath": "problems/0349-Intersection-of-Two-Arrays/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/intersection-of-two-arrays"
   },
   {
@@ -2755,7 +2755,7 @@
       "字符串"
     ],
     "status": "site-animation",
-    "repoPath": "0387-First-Unique-Character-In-String",
+    "repoPath": "problems/0387-First-Unique-Character-In-String",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/first-unique-character-in-a-string"
   },
@@ -2770,8 +2770,8 @@
       "栈"
     ],
     "status": "site-animation",
-    "repoPath": "0394-Decode-String",
-    "gifPath": "0394-Decode-String/Animation/Animation.gif",
+    "repoPath": "problems/0394-Decode-String",
+    "gifPath": "problems/0394-Decode-String/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/decode-string"
   },
   {
@@ -2926,8 +2926,8 @@
       "链表"
     ],
     "status": "site-animation",
-    "repoPath": "0445-Add-Two-Numbers-II",
-    "gifPath": "0445-Add-Two-Numbers-II/Animation/Animation.gif",
+    "repoPath": "problems/0445-Add-Two-Numbers-II",
+    "gifPath": "problems/0445-Add-Two-Numbers-II/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/add-two-numbers-ii"
   },
   {
@@ -2987,7 +2987,7 @@
       "位运算"
     ],
     "status": "site-animation",
-    "repoPath": "0461-hamming-distance",
+    "repoPath": "problems/0461-hamming-distance",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/hamming-distance"
   },
@@ -3122,7 +3122,7 @@
       "二叉搜索树"
     ],
     "status": "site-animation",
-    "repoPath": "0530-minimum-absolute-difference-in-bst",
+    "repoPath": "problems/0530-minimum-absolute-difference-in-bst",
     "gifPath": null,
     "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-absolute-difference-in-bst"
   },
@@ -3429,8 +3429,8 @@
       "网格 DFS"
     ],
     "status": "site-animation",
-    "repoPath": "0695-Max-Area-of-Island",
-    "gifPath": "0695-Max-Area-of-Island/Animation/Animation.gif",
+    "repoPath": "problems/0695-Max-Area-of-Island",
+    "gifPath": "problems/0695-Max-Area-of-Island/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/max-area-of-island"
   },
   {
@@ -3673,8 +3673,8 @@
       "栈"
     ],
     "status": "site-animation",
-    "repoPath": "0946--validate-stack-sequences",
-    "gifPath": "0946--validate-stack-sequences/Animation/Animation.gif",
+    "repoPath": "problems/0946--validate-stack-sequences",
+    "gifPath": "problems/0946--validate-stack-sequences/Animation/Animation.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/validate-stack-sequences"
   },
   {
@@ -3735,8 +3735,8 @@
       "多源 BFS"
     ],
     "status": "site-animation",
-    "repoPath": "0994-orangesRotting",
-    "gifPath": "0994-orangesRotting/Animation/腐烂的橘子01.gif",
+    "repoPath": "problems/0994-orangesRotting",
+    "gifPath": "problems/0994-orangesRotting/Animation/腐烂的橘子01.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/rotting-oranges"
   },
   {
@@ -3841,8 +3841,8 @@
       "DP 入门"
     ],
     "status": "site-animation",
-    "repoPath": "1137-Tribonacci",
-    "gifPath": "1137-Tribonacci/Animation/1137-Tribonacci.gif",
+    "repoPath": "problems/1137-Tribonacci",
+    "gifPath": "problems/1137-Tribonacci/Animation/1137-Tribonacci.gif",
     "siteUrl": "https://www.algomooc.com/leetcode-animation/n-th-tribonacci-number"
   },
   {

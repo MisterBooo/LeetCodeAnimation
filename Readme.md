@@ -10,6 +10,53 @@
 
 [网站版动画](https://www.algomooc.com/leetcode-animation) · [题目索引](docs/leetcode-animation-index.md) · [结构化数据](data/manifest.json)
 
+## 网站版动画预览
+
+下面这些 GIF 取自当前网站播放器的关键帧。GitHub 适合快速预览和检索；完整的步骤播放、代码讲解和交互体验建议打开网站版本。
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/two-sum">
+        <img src="assets/previews/two-sum.gif" alt="两数之和动画预览" width="420">
+      </a>
+      <br>
+      <strong>两数之和</strong>
+      <br>
+      边扫数组边维护哈希表，看清 complement 是怎么被找到的。
+    </td>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/trapping-rain-water">
+        <img src="assets/previews/trapping-rain-water.gif" alt="接雨水动画预览" width="420">
+      </a>
+      <br>
+      <strong>接雨水</strong>
+      <br>
+      用柱状图把左右边界和蓄水过程拆开，直观看懂为什么能接住水。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/number-of-islands">
+        <img src="assets/previews/number-of-islands.gif" alt="岛屿数量动画预览" width="420">
+      </a>
+      <br>
+      <strong>岛屿数量</strong>
+      <br>
+      DFS 染色过程一格一格展开，连通块边界会更容易看清。
+    </td>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/linked-list-cycle">
+        <img src="assets/previews/linked-list-cycle.gif" alt="环形链表动画预览" width="420">
+      </a>
+      <br>
+      <strong>环形链表</strong>
+      <br>
+      快慢指针在链表上同步移动，什么时候相遇一眼能看到。
+    </td>
+  </tr>
+</table>
+
 ## 项目特点
 
 - **动画题解**：很多题目保留了 GIF 或分步动画素材，适合先看清算法过程，再回到代码。
@@ -39,8 +86,9 @@
 | 按题号查动画 | [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md) |
 | 按专题查动画 | [`docs/index-by-topic.md`](docs/index-by-topic.md) |
 | 用脚本处理题目数据 | [`data/manifest.json`](data/manifest.json) |
-| 查看早期题解文章 | [`notes/`](notes) 或各题目录的 `Article/` |
-| 查看早期动画素材 | 各题目录的 `Animation/` |
+| 查看早期题解文章 | [`notes/`](notes) 或 [`problems/`](problems) 下各题的 `Article/` |
+| 查看早期动画素材 | [`problems/`](problems) 下各题的 `Animation/` |
+| 查看 README 预览动图 | [`assets/previews/`](assets/previews) |
 | 查看同步记录 | [`docs/sync-log.md`](docs/sync-log.md) |
 | 同步网站侧新索引 | [`scripts/sync-algomooc-index.js`](scripts/sync-algomooc-index.js) |
 
@@ -48,7 +96,7 @@
 
 1. 按题号查找：打开 [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md)，表格按 LeetCode 题号排序。
 2. 按程序处理：读取 [`data/manifest.json`](data/manifest.json)，其中包含题号、slug、中文标题、难度、分类、仓库目录和网站路径。
-3. 查历史素材：早期题解在 `notes/` 和各题目录的 `Article/`、`Animation/` 中。
+3. 查历史素材：早期题解在 `notes/` 和 `problems/` 下各题目录的 `Article/`、`Animation/` 中。
 4. 同步新内容：网站侧新增或调整动画后，运行同步脚本更新本仓库索引。
 
 ## 仓库和网站的关系
@@ -91,9 +139,11 @@ npm run validate
 | `scripts/review-site-changes.js` | 判断网站侧改动是否需要同步到 GitHub |
 | `scripts/sync-algomooc-index.js` | 从网站侧 `study_index.js` 同步索引 |
 | `scripts/validate-manifest.js` | 校验 manifest |
+| `assets/previews/` | README 使用的网站版动画预览 GIF |
 | `notes/` | 早期题解文章 |
-| `*/Animation/` | 早期动画素材 |
-| `*/Article/` | 早期文章素材 |
+| `problems/` | 早期按题目组织的文章、代码和动画素材 |
+| `problems/*/Animation/` | 早期动画素材 |
+| `problems/*/Article/` | 早期文章素材 |
 
 ## 反馈
 

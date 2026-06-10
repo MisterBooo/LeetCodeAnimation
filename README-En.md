@@ -10,6 +10,53 @@ If this project helps you, a GitHub Star is appreciated and helps the project st
 
 [Website animations](https://www.algomooc.com/leetcode-animation) · [Problem index](docs/leetcode-animation-index.md) · [Structured data](data/manifest.json)
 
+## Website-Style Animation Previews
+
+These GIFs are captured from the current website player. GitHub is good for a fast preview and search; use the website version for full step playback, code walkthroughs, and the interactive reading experience.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/two-sum">
+        <img src="assets/previews/two-sum.gif" alt="Two Sum animation preview" width="420">
+      </a>
+      <br>
+      <strong>Two Sum</strong>
+      <br>
+      Scan the array while the hash table grows, then see exactly where the complement is found.
+    </td>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/trapping-rain-water">
+        <img src="assets/previews/trapping-rain-water.gif" alt="Trapping Rain Water animation preview" width="420">
+      </a>
+      <br>
+      <strong>Trapping Rain Water</strong>
+      <br>
+      Bar heights, boundaries, and trapped water are shown as separate moving states.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/number-of-islands">
+        <img src="assets/previews/number-of-islands.gif" alt="Number of Islands animation preview" width="420">
+      </a>
+      <br>
+      <strong>Number of Islands</strong>
+      <br>
+      The DFS coloring process unfolds cell by cell, making connected components easier to inspect.
+    </td>
+    <td width="50%">
+      <a href="https://www.algomooc.com/leetcode-animation/linked-list-cycle">
+        <img src="assets/previews/linked-list-cycle.gif" alt="Linked List Cycle animation preview" width="420">
+      </a>
+      <br>
+      <strong>Linked List Cycle</strong>
+      <br>
+      Slow and fast pointers move on the same list, so the meeting point becomes visible.
+    </td>
+  </tr>
+</table>
+
 ## Highlights
 
 - **Animation-first notes**: many problems keep GIFs or step-by-step animation assets.
@@ -39,8 +86,9 @@ If this project helps you, a GitHub Star is appreciated and helps the project st
 | Search animations by problem number | [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md) |
 | Search animations by topic | [`docs/index-by-topic.md`](docs/index-by-topic.md) |
 | Process problem data with scripts | [`data/manifest.json`](data/manifest.json) |
-| Read earlier notes | [`notes/`](notes) or each problem's `Article/` folder |
-| Check earlier animation assets | Each problem's `Animation/` folder |
+| Read earlier notes | [`notes/`](notes) or each problem's `Article/` folder under [`problems/`](problems) |
+| Check earlier animation assets | Each problem's `Animation/` folder under [`problems/`](problems) |
+| View README preview GIFs | [`assets/previews/`](assets/previews) |
 | Read sync history | [`docs/sync-log.md`](docs/sync-log.md) |
 | Sync the website-side index | [`scripts/sync-algomooc-index.js`](scripts/sync-algomooc-index.js) |
 
@@ -48,7 +96,7 @@ If this project helps you, a GitHub Star is appreciated and helps the project st
 
 1. Search by problem number in [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md).
 2. Use [`data/manifest.json`](data/manifest.json) for scripts or downstream tooling.
-3. Check `notes/`, `Article/`, and `Animation/` for historical assets.
+3. Check `notes/` and each problem folder under `problems/` for historical `Article/` and `Animation/` assets.
 4. Run the sync script after the website-side index changes.
 
 ## Repository And Website
@@ -91,9 +139,11 @@ See [`docs/sync-workflow.md`](docs/sync-workflow.md) for the full workflow and c
 | `scripts/review-site-changes.js` | Review whether website changes should be synced |
 | `scripts/sync-algomooc-index.js` | Sync script for the website-side index |
 | `scripts/validate-manifest.js` | Manifest validator |
+| `assets/previews/` | Website-style animation preview GIFs used by the README |
 | `notes/` | Historical notes |
-| `*/Animation/` | Historical animation assets |
-| `*/Article/` | Historical article assets |
+| `problems/` | Historical per-problem notes, code, and animation assets |
+| `problems/*/Animation/` | Historical animation assets |
+| `problems/*/Article/` | Historical article assets |
 
 ## Feedback
 

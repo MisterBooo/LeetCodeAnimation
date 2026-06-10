@@ -11,6 +11,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
+const PROBLEMS_DIR = "problems";
 const DEFAULT_SOURCE = path.resolve(ROOT, "../AlgoMoocOJ/web/public/leetcode-animation/study_index.js");
 const DEFAULT_SITE = "https://www.algomooc.com/leetcode-animation";
 
@@ -69,16 +70,21 @@ function topics(cat) {
     .filter(Boolean);
 }
 
-function topLevelDirs() {
+function problemDirs() {
+  const base = path.join(ROOT, PROBLEMS_DIR);
+  if (!fs.existsSync(base)) return [];
   return fs
-    .readdirSync(ROOT, { withFileTypes: true })
+    .readdirSync(base, { withFileTypes: true })
     .filter((entry) => entry.isDirectory())
-    .map((entry) => entry.name);
+    .map((entry) => `${PROBLEMS_DIR}/${entry.name}`);
 }
 
 function findRepoPath(leetcodeId, dirs) {
   const prefix = String(leetcodeId).padStart(4, "0");
-  return dirs.find((dir) => dir.startsWith(`${prefix}-`) || dir.startsWith(`${prefix}_`)) || null;
+  return dirs.find((dir) => {
+    const name = path.basename(dir);
+    return name.startsWith(`${prefix}-`) || name.startsWith(`${prefix}_`);
+  }) || null;
 }
 
 function findFirstGif(dir) {
@@ -101,7 +107,7 @@ function findFirstGif(dir) {
 }
 
 function buildManifest() {
-  const dirs = topLevelDirs();
+  const dirs = problemDirs();
   return readProblems(sourceFile)
     .filter((item) => /^lc\d+$/.test(item.pid) && Number.isInteger(item.num))
     .sort((a, b) => a.num - b.num)

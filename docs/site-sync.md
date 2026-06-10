@@ -32,9 +32,11 @@ node scripts/sync-algomooc-index.js --source /path/to/study_index.js
 ## 字段约定
 
 - `status=site-animation`：网站侧已有对应动画页面。
-- `repoPath`：本仓库中已有的历史题解目录；如果暂未匹配到，保持 `null`。
+- `repoPath`：本仓库中已有的历史题解目录，统一位于 `problems/` 下；如果暂未匹配到，保持 `null`。
 - `gifPath`：本仓库中已有的 GIF 预览；如果暂未匹配到，保持 `null`。
 - `siteUrl`：网站侧题目页面地址。
+
+历史题目素材统一放在 `problems/` 目录下。例如两数之和的历史素材路径是 `problems/0001-Two-Sum`。不要再把题目目录散放在仓库根目录。
 
 后续新增或修改网站动画后，重新运行同步脚本即可更新仓库索引。
 
@@ -48,4 +50,6 @@ node scripts/sync-algomooc-index.js --source /path/to/study_index.js
 
 ## README 约定
 
-仓库首页只放项目定位、索引位置和同步方式。完整题目表放在 `docs/leetcode-animation-index.md`，避免 README 过长，也方便脚本重复生成。
+仓库首页只放项目定位、精选动画预览、索引位置和同步方式。完整题目表放在 `docs/leetcode-animation-index.md`，避免 README 过长，也方便脚本重复生成。
+
+README 预览 GIF 放在 `assets/previews/`，建议控制在 4 到 6 个有代表性的题目。新增网站动画后，只有当这道题足够适合展示项目效果时，才同步补一段短 GIF 到 README。
