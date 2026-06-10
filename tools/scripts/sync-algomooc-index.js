@@ -3,20 +3,20 @@
  * Sync the website-side LeetCode animation index into this repository.
  *
  * Common commands:
- *   node scripts/sync-algomooc-index.js --check
- *   node scripts/sync-algomooc-index.js --log
- *   node scripts/sync-algomooc-index.js --check-generated
+ *   node tools/scripts/sync-algomooc-index.js --check
+ *   node tools/scripts/sync-algomooc-index.js --log
+ *   node tools/scripts/sync-algomooc-index.js --check-generated
  */
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = path.resolve(__dirname, "..");
+const ROOT = path.resolve(__dirname, "../..");
 const PROBLEMS_DIR = "problems";
 const DEFAULT_SOURCE = path.resolve(ROOT, "../AlgoMoocOJ/web/public/leetcode-animation/study_index.js");
 const DEFAULT_SITE = "https://www.algomooc.com/leetcode-animation";
 
 const FILES = {
-  manifest: "data/manifest.json",
+  manifest: "docs/data/manifest.json",
   problemIndex: "docs/leetcode-animation-index.md",
   topicIndex: "docs/index-by-topic.md",
   syncLog: "docs/sync-log.md",
@@ -137,10 +137,10 @@ function renderProblemIndex(items) {
 
   return `# LeetCode 动画索引
 
-本文件由 \`scripts/sync-algomooc-index.js\` 生成，数据来源为网站侧 \`study_index.js\`。
+本文件由 \`tools/scripts/sync-algomooc-index.js\` 生成，数据来源为网站侧 \`study_index.js\`。
 
 - LeetCode 题数：${items.length}
-- 数据文件：[\`data/manifest.json\`](../data/manifest.json)
+- 数据文件：[\`docs/data/manifest.json\`](data/manifest.json)
 - 按专题查看：[\`docs/index-by-topic.md\`](index-by-topic.md)
 
 | # | 题目 | 难度 | 分类 | 网站路径 | 仓库目录 |
@@ -174,7 +174,7 @@ ${rows.join("\n")}
 
   return `# LeetCode 动画专题索引
 
-本文件由 \`scripts/sync-algomooc-index.js\` 生成，按 \`data/manifest.json\` 中的 \`topicsZh\` 分组。
+本文件由 \`tools/scripts/sync-algomooc-index.js\` 生成，按 \`docs/data/manifest.json\` 中的 \`topicsZh\` 分组。
 
 - LeetCode 题数：${items.length}
 - 专题数量：${groups.size}

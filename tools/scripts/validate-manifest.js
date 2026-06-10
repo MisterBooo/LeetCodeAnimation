@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * Validate data/manifest.json without external npm dependencies.
+ * Validate docs/data/manifest.json without external npm dependencies.
  */
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = path.resolve(__dirname, "..");
-const manifestPath = path.join(ROOT, "data/manifest.json");
+const ROOT = path.resolve(__dirname, "../..");
+const manifestPath = path.join(ROOT, "docs/data/manifest.json");
 const data = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
 
 const DIFFICULTIES = new Set(["easy", "medium", "hard"]);

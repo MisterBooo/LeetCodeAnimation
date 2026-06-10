@@ -8,7 +8,7 @@ Instead of only storing code, this project focuses on the process behind each so
 
 If this project helps you, a GitHub Star is appreciated and helps the project stay visible. For the best animation playback experience, use the website version; GitHub is better for indexes, historical assets, and sync history.
 
-[Website animations](https://www.algomooc.com/leetcode-animation) · [Problem index](docs/leetcode-animation-index.md) · [Structured data](data/manifest.json)
+[Website animations](https://www.algomooc.com/leetcode-animation) · [Problem index](leetcode-animation-index.md) · [Structured data](data/manifest.json)
 
 ## Website-Style Animation Previews
 
@@ -74,29 +74,29 @@ These GIFs are captured from the current website player. GitHub is good for a fa
 | Medium | 160 |
 | Hard | 25 |
 | Data file | [`data/manifest.json`](data/manifest.json) |
-| Markdown index | [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md) |
-| Topic index | [`docs/index-by-topic.md`](docs/index-by-topic.md) |
-| Sync log | [`docs/sync-log.md`](docs/sync-log.md) |
+| Markdown index | [`docs/leetcode-animation-index.md`](leetcode-animation-index.md) |
+| Topic index | [`docs/index-by-topic.md`](index-by-topic.md) |
+| Sync log | [`docs/sync-log.md`](sync-log.md) |
 | Website path | [`https://www.algomooc.com/leetcode-animation`](https://www.algomooc.com/leetcode-animation) |
 
 ## Content Map
 
 | Goal | Start Here |
 | :-- | :-- |
-| Search animations by problem number | [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md) |
-| Search animations by topic | [`docs/index-by-topic.md`](docs/index-by-topic.md) |
+| Search animations by problem number | [`docs/leetcode-animation-index.md`](leetcode-animation-index.md) |
+| Search animations by topic | [`docs/index-by-topic.md`](index-by-topic.md) |
 | Process problem data with scripts | [`data/manifest.json`](data/manifest.json) |
-| Read earlier notes | [`notes/`](notes) or each problem's `Article/` folder under [`problems/`](problems) |
-| Check earlier animation assets | Each problem's `Animation/` folder under [`problems/`](problems) |
-| View README preview GIFs | [`assets/previews/`](assets/previews) |
-| Read sync history | [`docs/sync-log.md`](docs/sync-log.md) |
-| Sync the website-side index | [`scripts/sync-algomooc-index.js`](scripts/sync-algomooc-index.js) |
+| Read earlier notes | [`docs/notes/`](notes) or each problem's `Article/` folder under [`problems/`](../problems) |
+| Check earlier animation assets | Each problem's `Animation/` folder under [`problems/`](../problems) |
+| View README preview GIFs | [`docs/assets/previews/`](assets/previews) |
+| Read sync history | [`docs/sync-log.md`](sync-log.md) |
+| Sync the website-side index | [`tools/scripts/sync-algomooc-index.js`](../tools/scripts/sync-algomooc-index.js) |
 
 ## Usage
 
-1. Search by problem number in [`docs/leetcode-animation-index.md`](docs/leetcode-animation-index.md).
+1. Search by problem number in [`docs/leetcode-animation-index.md`](leetcode-animation-index.md).
 2. Use [`data/manifest.json`](data/manifest.json) for scripts or downstream tooling.
-3. Check `notes/` and each problem folder under `problems/` for historical `Article/` and `Animation/` assets.
+3. Check `docs/notes/` and each problem folder under `problems/` for historical `Article/` and `Animation/` assets.
 4. Run the sync script after the website-side index changes.
 
 ## Repository And Website
@@ -125,7 +125,7 @@ The sync script updates:
 - `docs/index-by-topic.md`
 - `docs/sync-log.md`
 
-See [`docs/sync-workflow.md`](docs/sync-workflow.md) for the full workflow and commit-message rules.
+See [`docs/sync-workflow.md`](sync-workflow.md) for the full workflow and commit-message rules.
 
 ## Layout
 
@@ -136,14 +136,15 @@ See [`docs/sync-workflow.md`](docs/sync-workflow.md) for the full workflow and c
 | `docs/index-by-topic.md` | Topic index generated from the manifest |
 | `docs/sync-log.md` | Sync history |
 | `docs/sync-workflow.md` | Website-to-GitHub workflow |
-| `scripts/review-site-changes.js` | Review whether website changes should be synced |
-| `scripts/sync-algomooc-index.js` | Sync script for the website-side index |
-| `scripts/validate-manifest.js` | Manifest validator |
-| `assets/previews/` | Website-style animation preview GIFs used by the README |
-| `notes/` | Historical notes |
+| `tools/scripts/review-site-changes.js` | Review whether website changes should be synced |
+| `tools/scripts/sync-algomooc-index.js` | Sync script for the website-side index |
+| `tools/scripts/validate-manifest.js` | Manifest validator |
+| `docs/assets/previews/` | Website-style animation preview GIFs used by the README |
+| `docs/notes/` | Historical notes |
 | `problems/` | Historical per-problem notes, code, and animation assets |
 | `problems/*/Animation/` | Historical animation assets |
 | `problems/*/Article/` | Historical article assets |
+| `tools/` | Sync scripts, schema, animation helpers, and templates |
 
 ## Feedback
 
@@ -151,4 +152,4 @@ Issues are used for broken links, mismatched index entries, and title or categor
 
 ## Chinese
 
-See [`Readme.md`](Readme.md).
+See [`../README.md`](../README.md).

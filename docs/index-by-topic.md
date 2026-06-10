@@ -1,6 +1,6 @@
 # LeetCode 动画专题索引
 
-本文件由 `scripts/sync-algomooc-index.js` 生成，按 `data/manifest.json` 中的 `topicsZh` 分组。
+本文件由 `tools/scripts/sync-algomooc-index.js` 生成，按 `docs/data/manifest.json` 中的 `topicsZh` 分组。
 
 - LeetCode 题数：256
 - 专题数量：123

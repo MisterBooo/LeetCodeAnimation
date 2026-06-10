@@ -6,7 +6,7 @@
 >
 > 个人网站：[https://www.cxyxiaowu.com](https://www.cxyxiaowu.com)
 
-在之前有关 [**动态规划与股票问题一文**](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第122号问题：买卖股票的最佳时机II.md) 中，小吴使用了动态规划的思想进行了分析和写套路代码，但还是有一些小伙伴不是很明白，今天重新拿出一题从另外一个角度进行分析，希望能帮助大家更容易理解。
+在之前有关 [**动态规划与股票问题一文**](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/docs/notes/LeetCode第122号问题：买卖股票的最佳时机II.md) 中，小吴使用了动态规划的思想进行了分析和写套路代码，但还是有一些小伙伴不是很明白，今天重新拿出一题从另外一个角度进行分析，希望能帮助大家更容易理解。
 
 ### 题目描述
 

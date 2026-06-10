@@ -7,7 +7,7 @@ const fs = require("fs");
 const path = require("path");
 const { execFileSync } = require("child_process");
 
-const ROOT = path.resolve(__dirname, "..");
+const ROOT = path.resolve(__dirname, "../..");
 const DEFAULT_SITE_ROOT = path.resolve(ROOT, "../AlgoMoocOJ");
 const DEFAULT_SOURCE = "web/public/leetcode-animation/study_index.js";
 
@@ -22,7 +22,7 @@ function getArg(name, fallback) {
 const siteRoot = path.resolve(getArg("--site-root", process.env.ALGOMOOC_SITE_ROOT || DEFAULT_SITE_ROOT));
 const sourceRel = getArg("--source", DEFAULT_SOURCE);
 const sourceFile = path.join(siteRoot, sourceRel);
-const manifestFile = path.join(ROOT, "data/manifest.json");
+const manifestFile = path.join(ROOT, "docs/data/manifest.json");
 
 function sh(command, commandArgs, options = {}) {
   try {
@@ -138,9 +138,9 @@ if (status.length) {
 console.log("\n建议:");
 if (hasManifestDrift) {
   console.log("  需要同步到 LeetCodeAnimation 仓库。运行：");
-  console.log("    node scripts/sync-algomooc-index.js --log");
-  console.log("    node scripts/validate-manifest.js");
-  console.log("    git add data/manifest.json docs/leetcode-animation-index.md docs/index-by-topic.md docs/sync-log.md");
+  console.log("    node tools/scripts/sync-algomooc-index.js --log");
+  console.log("    node tools/scripts/validate-manifest.js");
+  console.log("    git add docs/data/manifest.json docs/leetcode-animation-index.md docs/index-by-topic.md docs/sync-log.md");
   console.log(`    git commit -m "${suggestedMessage(report)}"`);
 } else if (htmlChanges.length || indexChanged) {
   console.log("  当前 manifest 没有变化。若只是修复动画 HTML/交互，通常只提交网站仓库即可。");

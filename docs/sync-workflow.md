@@ -12,30 +12,30 @@
 | 只修复某题 `index.html` 的动画步骤、文案、样式 | 通常否 | 只提交网站仓库；GitHub 索引没有变化 |
 | 修复动画内容且希望 GitHub 留痕 | 可选 | 手动补 `docs/sync-log.md`，单独提交一条 `docs: log ...` |
 | 新增 GitHub 侧 GIF、文章或代码素材 | 是 | 提交对应素材，manifest 会自动补 `repoPath` / `gifPath` |
-| 新增 README 精选预览 GIF | 是 | 放到 `assets/previews/`，更新 README，控制在 4 到 6 个精选案例 |
+| 新增 README 精选预览 GIF | 是 | 放到 `docs/assets/previews/`，更新 README，控制在 4 到 6 个精选案例 |
 
 ## 审查
 
 在 LeetCodeAnimation 仓库运行：
 
 ```bash
-node scripts/review-site-changes.js
+node tools/scripts/review-site-changes.js
 ```
 
-它会比较网站侧 `study_index.js` 和仓库里的 `data/manifest.json`，并给出是否需要同步、需要同步哪些题、建议的 commit message。
+它会比较网站侧 `study_index.js` 和仓库里的 `docs/data/manifest.json`，并给出是否需要同步、需要同步哪些题、建议的 commit message。
 
 ## 同步
 
 需要同步时运行：
 
 ```bash
-node scripts/sync-algomooc-index.js --log
-node scripts/validate-manifest.js
+node tools/scripts/sync-algomooc-index.js --log
+node tools/scripts/validate-manifest.js
 ```
 
 会更新：
 
-- `data/manifest.json`
+- `docs/data/manifest.json`
 - `docs/leetcode-animation-index.md`
 - `docs/index-by-topic.md`
 - `docs/sync-log.md`（仅当 manifest 有新增、移除或变更时追加）
@@ -45,7 +45,7 @@ node scripts/validate-manifest.js
 单题新增：
 
 ```bash
-git add data/manifest.json docs/leetcode-animation-index.md docs/index-by-topic.md docs/sync-log.md
+git add docs/data/manifest.json docs/leetcode-animation-index.md docs/index-by-topic.md docs/sync-log.md
 git commit -m "docs: sync lc1234 problem-slug animation index"
 ```
 
@@ -70,7 +70,7 @@ git commit -m "docs: log lc1234 problem-slug animation fix"
 新增 README 精选预览：
 
 ```bash
-git add Readme.md README-En.md assets/previews/problem-slug.gif
+git add README.md docs/README-En.md docs/assets/previews/problem-slug.gif
 git commit -m "docs: add lc1234 problem-slug animation preview"
 ```
 

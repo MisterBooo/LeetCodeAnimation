@@ -1,9 +1,9 @@
 # LeetCode 动画索引
 
-本文件由 `scripts/sync-algomooc-index.js` 生成，数据来源为网站侧 `study_index.js`。
+本文件由 `tools/scripts/sync-algomooc-index.js` 生成，数据来源为网站侧 `study_index.js`。
 
 - LeetCode 题数：256
-- 数据文件：[`data/manifest.json`](../data/manifest.json)
+- 数据文件：[`docs/data/manifest.json`](data/manifest.json)
 - 按专题查看：[`docs/index-by-topic.md`](index-by-topic.md)
 
 | # | 题目 | 难度 | 分类 | 网站路径 | 仓库目录 |

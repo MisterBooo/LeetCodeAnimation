@@ -5,7 +5,7 @@
 ## 数据来源
 
 - 网站源文件：`web/public/leetcode-animation/study_index.js`
-- 仓库数据：`data/manifest.json`
+- 仓库数据：`docs/data/manifest.json`
 - 仓库索引：`docs/leetcode-animation-index.md`
 
 ## 同步命令
@@ -26,7 +26,7 @@ npm run validate
 如果项目目录不同，可以显式指定源文件：
 
 ```bash
-node scripts/sync-algomooc-index.js --source /path/to/study_index.js
+node tools/scripts/sync-algomooc-index.js --source /path/to/study_index.js
 ```
 
 ## 字段约定
@@ -52,4 +52,4 @@ node scripts/sync-algomooc-index.js --source /path/to/study_index.js
 
 仓库首页只放项目定位、精选动画预览、索引位置和同步方式。完整题目表放在 `docs/leetcode-animation-index.md`，避免 README 过长，也方便脚本重复生成。
 
-README 预览 GIF 放在 `assets/previews/`，建议控制在 4 到 6 个有代表性的题目。新增网站动画后，只有当这道题足够适合展示项目效果时，才同步补一段短 GIF 到 README。
+README 预览 GIF 放在 `docs/assets/previews/`，建议控制在 4 到 6 个有代表性的题目。新增网站动画后，只有当这道题足够适合展示项目效果时，才同步补一段短 GIF 到 README。

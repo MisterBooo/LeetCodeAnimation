@@ -5,7 +5,7 @@
 安装依赖：
 
 ```
-pip install -r requirements.txt
+pip install -r tools/requirements.txt
 ```
 
 ### 创建新题解
@@ -13,6 +13,5 @@ pip install -r requirements.txt
 生成题解目录框架，以及 Markdown 文件模板。
 
 ```
-python anima.py new 1 'Two Sum'
+python tools/anima.py new 1 'Two Sum'
 ```
-

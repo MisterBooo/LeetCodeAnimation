@@ -1,10 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "review:site": "node scripts/review-site-changes.js",
-    "sync": "node scripts/sync-algomooc-index.js --log",
-    "sync:check": "node scripts/sync-algomooc-index.js --check",
-    "sync:check-generated": "node scripts/sync-algomooc-index.js --check-generated",
-    "validate": "node scripts/validate-manifest.js"
+    "review:site": "node tools/scripts/review-site-changes.js",
+    "sync": "node tools/scripts/sync-algomooc-index.js --log",
+    "sync:check": "node tools/scripts/sync-algomooc-index.js --check",
+    "sync:check-generated": "node tools/scripts/sync-algomooc-index.js --check-generated",
+    "validate": "node tools/scripts/validate-manifest.js"
   }
 }

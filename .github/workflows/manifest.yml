@@ -12,5 +12,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - run: node scripts/validate-manifest.js
-      - run: node scripts/sync-algomooc-index.js --check-generated
+      - run: node tools/scripts/validate-manifest.js
+      - run: node tools/scripts/sync-algomooc-index.js --check-generated
