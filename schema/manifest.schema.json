@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LeetCodeAnimation Manifest",
+  "description": "Synchronized index for LeetCode animation pages and repository assets.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "leetcodeId",
+      "sourcePid",
+      "slug",
+      "titleZh",
+      "difficulty",
+      "categoryZh",
+      "topicsZh",
+      "status",
+      "repoPath",
+      "gifPath",
+      "siteUrl"
+    ],
+    "properties": {
+      "leetcodeId": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "sourcePid": {
+        "type": "string",
+        "pattern": "^lc[0-9]+$"
+      },
+      "slug": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "titleZh": {
+        "type": "string",
+        "minLength": 1
+      },
+      "difficulty": {
+        "type": "string",
+        "enum": ["easy", "medium", "hard"]
+      },
+      "categoryZh": {
+        "type": "string",
+        "minLength": 1
+      },
+      "topicsZh": {
+        "type": "array",
+        "items": { "type": "string", "minLength": 1 },
+        "minItems": 1
+      },
+      "status": {
+        "type": "string",
+        "enum": ["site-animation", "repo-only", "planned"]
+      },
+      "repoPath": {
+        "type": ["string", "null"]
+      },
+      "gifPath": {
+        "type": ["string", "null"]
+      },
+      "siteUrl": {
+        "type": "string"
+      }
+    }
+  }
+}

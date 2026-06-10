@@ -1,0 +1,3939 @@
+[
+  {
+    "leetcodeId": 1,
+    "sourcePid": "lc1",
+    "slug": "two-sum",
+    "titleZh": "两数之和",
+    "difficulty": "easy",
+    "categoryZh": "数组 · 哈希表",
+    "topicsZh": [
+      "数组",
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0001-Two-Sum",
+    "gifPath": "0001-Two-Sum/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/two-sum"
+  },
+  {
+    "leetcodeId": 2,
+    "sourcePid": "lc2",
+    "slug": "add-two-numbers",
+    "titleZh": "两数相加",
+    "difficulty": "medium",
+    "categoryZh": "链表 · 模拟",
+    "topicsZh": [
+      "链表",
+      "模拟"
+    ],
+    "status": "site-animation",
+    "repoPath": "0002-Add-Two-Numbers",
+    "gifPath": "0002-Add-Two-Numbers/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/add-two-numbers"
+  },
+  {
+    "leetcodeId": 3,
+    "sourcePid": "lc3",
+    "slug": "longest-substring-without-repeating-characters",
+    "titleZh": "无重复字符的最长子串",
+    "difficulty": "medium",
+    "categoryZh": "滑动窗口",
+    "topicsZh": [
+      "滑动窗口"
+    ],
+    "status": "site-animation",
+    "repoPath": "0003-Longest-Substring-Without-Repeating-Characters",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-substring-without-repeating-characters"
+  },
+  {
+    "leetcodeId": 4,
+    "sourcePid": "lc4",
+    "slug": "median-of-two-sorted-arrays",
+    "titleZh": "寻找两个正序数组的中位数",
+    "difficulty": "hard",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": "0004-median-of-two-sorted-arrays",
+    "gifPath": "0004-median-of-two-sorted-arrays/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/median-of-two-sorted-arrays"
+  },
+  {
+    "leetcodeId": 5,
+    "sourcePid": "lc5",
+    "slug": "longest-palindromic-substring",
+    "titleZh": "最长回文子串",
+    "difficulty": "medium",
+    "categoryZh": "字符串 · 回文",
+    "topicsZh": [
+      "字符串",
+      "回文"
+    ],
+    "status": "site-animation",
+    "repoPath": "0005-Longest Palindromic Substring",
+    "gifPath": "0005-Longest Palindromic Substring/Animation/LeetCode5.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-palindromic-substring"
+  },
+  {
+    "leetcodeId": 8,
+    "sourcePid": "lc8",
+    "slug": "string-to-integer-atoi",
+    "titleZh": "字符串转换整数 (atoi)",
+    "difficulty": "medium",
+    "categoryZh": "字符串",
+    "topicsZh": [
+      "字符串"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/string-to-integer-atoi"
+  },
+  {
+    "leetcodeId": 9,
+    "sourcePid": "lc9",
+    "slug": "palindrome-number",
+    "titleZh": "回文数",
+    "difficulty": "easy",
+    "categoryZh": "数学",
+    "topicsZh": [
+      "数学"
+    ],
+    "status": "site-animation",
+    "repoPath": "0009-Palindrome-Number",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-number"
+  },
+  {
+    "leetcodeId": 10,
+    "sourcePid": "lc10",
+    "slug": "regular-expression-matching",
+    "titleZh": "正则表达式匹配",
+    "difficulty": "hard",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/regular-expression-matching"
+  },
+  {
+    "leetcodeId": 11,
+    "sourcePid": "lc11",
+    "slug": "container-with-most-water",
+    "titleZh": "盛最多水的容器",
+    "difficulty": "medium",
+    "categoryZh": "对撞双指针",
+    "topicsZh": [
+      "对撞双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0011-maxArea",
+    "gifPath": "0011-maxArea/Animation/maxArea.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/container-with-most-water"
+  },
+  {
+    "leetcodeId": 14,
+    "sourcePid": "lc14",
+    "slug": "longest-common-prefix",
+    "titleZh": "最长公共前缀",
+    "difficulty": "easy",
+    "categoryZh": "字符串 · 扫描",
+    "topicsZh": [
+      "字符串",
+      "扫描"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-common-prefix"
+  },
+  {
+    "leetcodeId": 15,
+    "sourcePid": "lc15",
+    "slug": "3sum",
+    "titleZh": "三数之和",
+    "difficulty": "medium",
+    "categoryZh": "对撞双指针",
+    "topicsZh": [
+      "对撞双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0015-3Sum",
+    "gifPath": "0015-3Sum/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/3sum"
+  },
+  {
+    "leetcodeId": 16,
+    "sourcePid": "lc16",
+    "slug": "3sum-closest",
+    "titleZh": "最接近的三数之和",
+    "difficulty": "medium",
+    "categoryZh": "双指针",
+    "topicsZh": [
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/3sum-closest"
+  },
+  {
+    "leetcodeId": 17,
+    "sourcePid": "lc17",
+    "slug": "letter-combinations-of-a-phone-number",
+    "titleZh": "电话号码的字母组合",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 枚举",
+    "topicsZh": [
+      "回溯",
+      "枚举"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/letter-combinations-of-a-phone-number"
+  },
+  {
+    "leetcodeId": 18,
+    "sourcePid": "lc18",
+    "slug": "4sum",
+    "titleZh": "四数之和",
+    "difficulty": "medium",
+    "categoryZh": "双指针",
+    "topicsZh": [
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/4sum"
+  },
+  {
+    "leetcodeId": 19,
+    "sourcePid": "lc19",
+    "slug": "remove-nth-node-from-end-of-list",
+    "titleZh": "删除倒数第 N 个结点",
+    "difficulty": "medium",
+    "categoryZh": "链表 · 快慢指针",
+    "topicsZh": [
+      "链表",
+      "快慢指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0019-Remove-Nth-Node-From-End-of-List",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-nth-node-from-end-of-list"
+  },
+  {
+    "leetcodeId": 20,
+    "sourcePid": "lc20",
+    "slug": "valid-parentheses",
+    "titleZh": "有效的括号",
+    "difficulty": "easy",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0020-Valid-Parentheses",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-parentheses"
+  },
+  {
+    "leetcodeId": 21,
+    "sourcePid": "lc21",
+    "slug": "merge-two-sorted-lists",
+    "titleZh": "合并两个有序链表",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 双指针",
+    "topicsZh": [
+      "链表",
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0021-Merge-Two-Sorted-Lists",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-two-sorted-lists"
+  },
+  {
+    "leetcodeId": 22,
+    "sourcePid": "lc22",
+    "slug": "generate-parentheses",
+    "titleZh": "括号生成",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 括号",
+    "topicsZh": [
+      "回溯",
+      "括号"
+    ],
+    "status": "site-animation",
+    "repoPath": "0022-Generate-Parentheses",
+    "gifPath": "0022-Generate-Parentheses/Animation/0022-Generate_Parentheses.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/generate-parentheses"
+  },
+  {
+    "leetcodeId": 23,
+    "sourcePid": "lc23",
+    "slug": "merge-k-sorted-lists",
+    "titleZh": "合并 K 个升序链表",
+    "difficulty": "hard",
+    "categoryZh": "堆 · 分治",
+    "topicsZh": [
+      "堆",
+      "分治"
+    ],
+    "status": "site-animation",
+    "repoPath": "0023-Merge-k-Sorted-Lists",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-k-sorted-lists"
+  },
+  {
+    "leetcodeId": 24,
+    "sourcePid": "lc24",
+    "slug": "swap-nodes-in-pairs",
+    "titleZh": "两两交换链表中的节点",
+    "difficulty": "medium",
+    "categoryZh": "链表 · 指针重连",
+    "topicsZh": [
+      "链表",
+      "指针重连"
+    ],
+    "status": "site-animation",
+    "repoPath": "0024-Swap-Nodes-in-Pairs",
+    "gifPath": "0024-Swap-Nodes-in-Pairs/Animation/Animation1.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/swap-nodes-in-pairs"
+  },
+  {
+    "leetcodeId": 25,
+    "sourcePid": "lc25",
+    "slug": "reverse-nodes-in-k-group",
+    "titleZh": "K 个一组翻转链表",
+    "difficulty": "hard",
+    "categoryZh": "链表 · 分组反转",
+    "topicsZh": [
+      "链表",
+      "分组反转"
+    ],
+    "status": "site-animation",
+    "repoPath": "0025-Reverse-Nodes-In-K-Group",
+    "gifPath": "0025-Reverse-Nodes-In-K-Group/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-nodes-in-k-group"
+  },
+  {
+    "leetcodeId": 26,
+    "sourcePid": "lc26",
+    "slug": "remove-duplicates-from-sorted-array",
+    "titleZh": "删除有序数组中的重复项",
+    "difficulty": "easy",
+    "categoryZh": "数组 · 快慢指针",
+    "topicsZh": [
+      "数组",
+      "快慢指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0026-Remove-Duplicates-from-Sorted-Array",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-duplicates-from-sorted-array"
+  },
+  {
+    "leetcodeId": 27,
+    "sourcePid": "lc27",
+    "slug": "remove-element",
+    "titleZh": "移除元素",
+    "difficulty": "easy",
+    "categoryZh": "数组",
+    "topicsZh": [
+      "数组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-element"
+  },
+  {
+    "leetcodeId": 28,
+    "sourcePid": "lc28",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "titleZh": "找出字符串中第一个匹配项的下标",
+    "difficulty": "medium",
+    "categoryZh": "字符串 · KMP",
+    "topicsZh": [
+      "字符串",
+      "KMP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-the-index-of-the-first-occurrence-in-a-string"
+  },
+  {
+    "leetcodeId": 31,
+    "sourcePid": "lc31",
+    "slug": "next-permutation",
+    "titleZh": "下一个排列",
+    "difficulty": "medium",
+    "categoryZh": "数组 · 字典序",
+    "topicsZh": [
+      "数组",
+      "字典序"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/next-permutation"
+  },
+  {
+    "leetcodeId": 32,
+    "sourcePid": "lc32",
+    "slug": "longest-valid-parentheses",
+    "titleZh": "最长有效括号",
+    "difficulty": "hard",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-valid-parentheses"
+  },
+  {
+    "leetcodeId": 33,
+    "sourcePid": "lc33",
+    "slug": "search-in-rotated-sorted-array",
+    "titleZh": "搜索旋转排序数组",
+    "difficulty": "medium",
+    "categoryZh": "二分查找 · 旋转",
+    "topicsZh": [
+      "二分查找",
+      "旋转"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/search-in-rotated-sorted-array"
+  },
+  {
+    "leetcodeId": 34,
+    "sourcePid": "lc34",
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "titleZh": "查找元素的首末位置",
+    "difficulty": "medium",
+    "categoryZh": "二分边界",
+    "topicsZh": [
+      "二分边界"
+    ],
+    "status": "site-animation",
+    "repoPath": "0034-find-first-and-last-position-of-element-in-sorted-array",
+    "gifPath": "0034-find-first-and-last-position-of-element-in-sorted-array/Animation/在排序数组中查找元素的第一个和最后一个位置.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-first-and-last-position-of-element-in-sorted-array"
+  },
+  {
+    "leetcodeId": 35,
+    "sourcePid": "lc35",
+    "slug": "search-insert-position",
+    "titleZh": "搜索插入位置",
+    "difficulty": "easy",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": "0035-search-insert-position",
+    "gifPath": "0035-search-insert-position/Animation/二分查找.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/search-insert-position"
+  },
+  {
+    "leetcodeId": 36,
+    "sourcePid": "lc36",
+    "slug": "valid-sudoku",
+    "titleZh": "有效的数独",
+    "difficulty": "medium",
+    "categoryZh": "矩阵 · 哈希查重",
+    "topicsZh": [
+      "矩阵",
+      "哈希查重"
+    ],
+    "status": "site-animation",
+    "repoPath": "0036-valid-sudoku",
+    "gifPath": "0036-valid-sudoku/Animation/HashMap.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-sudoku"
+  },
+  {
+    "leetcodeId": 37,
+    "sourcePid": "lc37",
+    "slug": "sudoku-solver",
+    "titleZh": "解数独",
+    "difficulty": "hard",
+    "categoryZh": "回溯",
+    "topicsZh": [
+      "回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sudoku-solver"
+  },
+  {
+    "leetcodeId": 39,
+    "sourcePid": "lc39",
+    "slug": "combination-sum",
+    "titleZh": "组合总和",
+    "difficulty": "medium",
+    "categoryZh": "回溯",
+    "topicsZh": [
+      "回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/combination-sum"
+  },
+  {
+    "leetcodeId": 40,
+    "sourcePid": "lc40",
+    "slug": "combination-sum-ii",
+    "titleZh": "组合总和 II",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 去重",
+    "topicsZh": [
+      "回溯",
+      "去重"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/combination-sum-ii"
+  },
+  {
+    "leetcodeId": 42,
+    "sourcePid": "lc42",
+    "slug": "trapping-rain-water",
+    "titleZh": "接雨水",
+    "difficulty": "hard",
+    "categoryZh": "单调栈",
+    "topicsZh": [
+      "单调栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0042-Trap",
+    "gifPath": "0042-Trap/Animation/0042-Trap.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/trapping-rain-water"
+  },
+  {
+    "leetcodeId": 43,
+    "sourcePid": "lc43",
+    "slug": "multiply-strings",
+    "titleZh": "字符串相乘",
+    "difficulty": "medium",
+    "categoryZh": "字符串",
+    "topicsZh": [
+      "字符串"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/multiply-strings"
+  },
+  {
+    "leetcodeId": 45,
+    "sourcePid": "lc45",
+    "slug": "jump-game-ii",
+    "titleZh": "跳跃游戏 II",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/jump-game-ii"
+  },
+  {
+    "leetcodeId": 46,
+    "sourcePid": "lc46",
+    "slug": "permutations",
+    "titleZh": "全排列",
+    "difficulty": "medium",
+    "categoryZh": "回溯",
+    "topicsZh": [
+      "回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/permutations"
+  },
+  {
+    "leetcodeId": 47,
+    "sourcePid": "lc47",
+    "slug": "permutations-ii",
+    "titleZh": "全排列 II",
+    "difficulty": "medium",
+    "categoryZh": "回溯",
+    "topicsZh": [
+      "回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/permutations-ii"
+  },
+  {
+    "leetcodeId": 48,
+    "sourcePid": "lc48",
+    "slug": "rotate-image",
+    "titleZh": "旋转图像",
+    "difficulty": "medium",
+    "categoryZh": "矩阵 · 原地旋转",
+    "topicsZh": [
+      "矩阵",
+      "原地旋转"
+    ],
+    "status": "site-animation",
+    "repoPath": "0048-Rotate-Image",
+    "gifPath": "0048-Rotate-Image/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/rotate-image"
+  },
+  {
+    "leetcodeId": 49,
+    "sourcePid": "lc49",
+    "slug": "group-anagrams",
+    "titleZh": "字母异位词分组",
+    "difficulty": "medium",
+    "categoryZh": "哈希分组",
+    "topicsZh": [
+      "哈希分组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/group-anagrams"
+  },
+  {
+    "leetcodeId": 50,
+    "sourcePid": "lc50",
+    "slug": "powx-n",
+    "titleZh": "Pow(x, n)",
+    "difficulty": "medium",
+    "categoryZh": "数学",
+    "topicsZh": [
+      "数学"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/powx-n"
+  },
+  {
+    "leetcodeId": 51,
+    "sourcePid": "lc51",
+    "slug": "n-queens",
+    "titleZh": "N 皇后",
+    "difficulty": "hard",
+    "categoryZh": "回溯 · 棋盘",
+    "topicsZh": [
+      "回溯",
+      "棋盘"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/n-queens"
+  },
+  {
+    "leetcodeId": 53,
+    "sourcePid": "lc53",
+    "slug": "maximum-subarray",
+    "titleZh": "最大子数组和",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · Kadane",
+    "topicsZh": [
+      "动态规划",
+      "Kadane"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-subarray"
+  },
+  {
+    "leetcodeId": 54,
+    "sourcePid": "lc54",
+    "slug": "spiral-matrix",
+    "titleZh": "螺旋矩阵",
+    "difficulty": "medium",
+    "categoryZh": "矩阵 · 边界收缩",
+    "topicsZh": [
+      "矩阵",
+      "边界收缩"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/spiral-matrix"
+  },
+  {
+    "leetcodeId": 55,
+    "sourcePid": "lc55",
+    "slug": "jump-game",
+    "titleZh": "跳跃游戏",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/jump-game"
+  },
+  {
+    "leetcodeId": 56,
+    "sourcePid": "lc56",
+    "slug": "merge-intervals",
+    "titleZh": "合并区间",
+    "difficulty": "medium",
+    "categoryZh": "区间 · 合并",
+    "topicsZh": [
+      "区间",
+      "合并"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-intervals"
+  },
+  {
+    "leetcodeId": 61,
+    "sourcePid": "lc61",
+    "slug": "rotate-list",
+    "titleZh": "旋转链表",
+    "difficulty": "medium",
+    "categoryZh": "链表",
+    "topicsZh": [
+      "链表"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/rotate-list"
+  },
+  {
+    "leetcodeId": 62,
+    "sourcePid": "lc62",
+    "slug": "unique-paths",
+    "titleZh": "不同路径",
+    "difficulty": "medium",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/unique-paths"
+  },
+  {
+    "leetcodeId": 63,
+    "sourcePid": "lc63",
+    "slug": "unique-paths-ii",
+    "titleZh": "不同路径 II",
+    "difficulty": "medium",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/unique-paths-ii"
+  },
+  {
+    "leetcodeId": 64,
+    "sourcePid": "lc64",
+    "slug": "minimum-path-sum",
+    "titleZh": "最小路径和",
+    "difficulty": "medium",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-path-sum"
+  },
+  {
+    "leetcodeId": 69,
+    "sourcePid": "lc69",
+    "slug": "sqrtx",
+    "titleZh": "x 的平方根",
+    "difficulty": "easy",
+    "categoryZh": "二分",
+    "topicsZh": [
+      "二分"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sqrtx"
+  },
+  {
+    "leetcodeId": 70,
+    "sourcePid": "lc70",
+    "slug": "climbing-stairs",
+    "titleZh": "爬楼梯",
+    "difficulty": "easy",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": "0070-Climbing-Stairs",
+    "gifPath": "0070-Climbing-Stairs/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/climbing-stairs"
+  },
+  {
+    "leetcodeId": 71,
+    "sourcePid": "lc71",
+    "slug": "simplify-path",
+    "titleZh": "简化路径",
+    "difficulty": "medium",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/simplify-path"
+  },
+  {
+    "leetcodeId": 72,
+    "sourcePid": "lc72",
+    "slug": "edit-distance",
+    "titleZh": "编辑距离",
+    "difficulty": "hard",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/edit-distance"
+  },
+  {
+    "leetcodeId": 73,
+    "sourcePid": "lc73",
+    "slug": "set-matrix-zeroes",
+    "titleZh": "矩阵置零",
+    "difficulty": "medium",
+    "categoryZh": "矩阵 · 标记",
+    "topicsZh": [
+      "矩阵",
+      "标记"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/set-matrix-zeroes"
+  },
+  {
+    "leetcodeId": 74,
+    "sourcePid": "lc74",
+    "slug": "search-a-2d-matrix",
+    "titleZh": "搜索二维矩阵",
+    "difficulty": "medium",
+    "categoryZh": "二分查找 · 矩阵",
+    "topicsZh": [
+      "二分查找",
+      "矩阵"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/search-a-2d-matrix"
+  },
+  {
+    "leetcodeId": 75,
+    "sourcePid": "lc75",
+    "slug": "sort-colors",
+    "titleZh": "颜色分类",
+    "difficulty": "medium",
+    "categoryZh": "三指针",
+    "topicsZh": [
+      "三指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0075-Sort-Colors",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sort-colors"
+  },
+  {
+    "leetcodeId": 76,
+    "sourcePid": "lc76",
+    "slug": "minimum-window-substring",
+    "titleZh": "最小覆盖子串",
+    "difficulty": "hard",
+    "categoryZh": "滑动窗口 · 变长",
+    "topicsZh": [
+      "滑动窗口",
+      "变长"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-window-substring"
+  },
+  {
+    "leetcodeId": 77,
+    "sourcePid": "lc77",
+    "slug": "combinations",
+    "titleZh": "组合",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 组合",
+    "topicsZh": [
+      "回溯",
+      "组合"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/combinations"
+  },
+  {
+    "leetcodeId": 78,
+    "sourcePid": "lc78",
+    "slug": "subsets",
+    "titleZh": "子集",
+    "difficulty": "medium",
+    "categoryZh": "回溯",
+    "topicsZh": [
+      "回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/subsets"
+  },
+  {
+    "leetcodeId": 79,
+    "sourcePid": "lc79",
+    "slug": "word-search",
+    "titleZh": "单词搜索",
+    "difficulty": "medium",
+    "categoryZh": "网格回溯",
+    "topicsZh": [
+      "网格回溯"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/word-search"
+  },
+  {
+    "leetcodeId": 80,
+    "sourcePid": "lc80",
+    "slug": "remove-duplicates-from-sorted-array-ii",
+    "titleZh": "删除有序数组中的重复项 II",
+    "difficulty": "medium",
+    "categoryZh": "数组",
+    "topicsZh": [
+      "数组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-duplicates-from-sorted-array-ii"
+  },
+  {
+    "leetcodeId": 81,
+    "sourcePid": "lc81",
+    "slug": "search-in-rotated-sorted-array-ii",
+    "titleZh": "搜索旋转排序数组 II",
+    "difficulty": "medium",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/search-in-rotated-sorted-array-ii"
+  },
+  {
+    "leetcodeId": 83,
+    "sourcePid": "lc83",
+    "slug": "remove-duplicates-from-sorted-list",
+    "titleZh": "删除排序链表重复元素",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 删除",
+    "topicsZh": [
+      "链表",
+      "删除"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-duplicates-from-sorted-list"
+  },
+  {
+    "leetcodeId": 84,
+    "sourcePid": "lc84",
+    "slug": "largest-rectangle-in-histogram",
+    "titleZh": "柱状图中最大的矩形",
+    "difficulty": "hard",
+    "categoryZh": "单调栈",
+    "topicsZh": [
+      "单调栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0084-Largest-Rectangle-In-Histogram",
+    "gifPath": "0084-Largest-Rectangle-In-Histogram/Animation/84.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/largest-rectangle-in-histogram"
+  },
+  {
+    "leetcodeId": 85,
+    "sourcePid": "lc85",
+    "slug": "maximal-rectangle",
+    "titleZh": "最大矩形",
+    "difficulty": "hard",
+    "categoryZh": "单调栈",
+    "topicsZh": [
+      "单调栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximal-rectangle"
+  },
+  {
+    "leetcodeId": 88,
+    "sourcePid": "lc88",
+    "slug": "merge-sorted-array",
+    "titleZh": "合并两个有序数组",
+    "difficulty": "easy",
+    "categoryZh": "双指针",
+    "topicsZh": [
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0088-Merge-Sorted-Array",
+    "gifPath": "0088-Merge-Sorted-Array/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-sorted-array"
+  },
+  {
+    "leetcodeId": 90,
+    "sourcePid": "lc90",
+    "slug": "subsets-ii",
+    "titleZh": "子集 II",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 去重",
+    "topicsZh": [
+      "回溯",
+      "去重"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/subsets-ii"
+  },
+  {
+    "leetcodeId": 91,
+    "sourcePid": "lc91",
+    "slug": "decode-ways",
+    "titleZh": "解码方法",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · 字符串",
+    "topicsZh": [
+      "动态规划",
+      "字符串"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/decode-ways"
+  },
+  {
+    "leetcodeId": 92,
+    "sourcePid": "lc92",
+    "slug": "reverse-linked-list-ii",
+    "titleZh": "反转链表 II",
+    "difficulty": "medium",
+    "categoryZh": "链表 · 局部反转",
+    "topicsZh": [
+      "链表",
+      "局部反转"
+    ],
+    "status": "site-animation",
+    "repoPath": "0092-Reverse-Linked-List-II",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-linked-list-ii"
+  },
+  {
+    "leetcodeId": 93,
+    "sourcePid": "lc93",
+    "slug": "restore-ip-addresses",
+    "titleZh": "复原 IP 地址",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 分段",
+    "topicsZh": [
+      "回溯",
+      "分段"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/restore-ip-addresses"
+  },
+  {
+    "leetcodeId": 94,
+    "sourcePid": "lc94",
+    "slug": "binary-tree-inorder-traversal",
+    "titleZh": "二叉树的中序遍历",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 遍历",
+    "topicsZh": [
+      "二叉树",
+      "遍历"
+    ],
+    "status": "site-animation",
+    "repoPath": "0094-Binary-Tree-Inorder-Traversal",
+    "gifPath": "0094-Binary-Tree-Inorder-Traversal/Animation/Animation2.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-inorder-traversal"
+  },
+  {
+    "leetcodeId": 96,
+    "sourcePid": "lc96",
+    "slug": "unique-binary-search-trees",
+    "titleZh": "不同的二叉搜索树",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · Catalan",
+    "topicsZh": [
+      "动态规划",
+      "Catalan"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/unique-binary-search-trees"
+  },
+  {
+    "leetcodeId": 98,
+    "sourcePid": "lc98",
+    "slug": "validate-binary-search-tree",
+    "titleZh": "验证二叉搜索树",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · BST",
+    "topicsZh": [
+      "二叉树",
+      "BST"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/validate-binary-search-tree"
+  },
+  {
+    "leetcodeId": 100,
+    "sourcePid": "lc100",
+    "slug": "same-tree",
+    "titleZh": "相同的树",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 递归",
+    "topicsZh": [
+      "二叉树",
+      "递归"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/same-tree"
+  },
+  {
+    "leetcodeId": 101,
+    "sourcePid": "lc101",
+    "slug": "symmetric-tree",
+    "titleZh": "对称二叉树",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 递归",
+    "topicsZh": [
+      "二叉树",
+      "递归"
+    ],
+    "status": "site-animation",
+    "repoPath": "0101-Symmetric-Tree",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/symmetric-tree"
+  },
+  {
+    "leetcodeId": 102,
+    "sourcePid": "lc102",
+    "slug": "binary-tree-level-order-traversal",
+    "titleZh": "二叉树的层序遍历",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · BFS",
+    "topicsZh": [
+      "二叉树",
+      "BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": "0102-Binary-Tree-Level-Order-Traversal",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-level-order-traversal"
+  },
+  {
+    "leetcodeId": 103,
+    "sourcePid": "lc103",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "titleZh": "二叉树的锯齿形层序遍历",
+    "difficulty": "medium",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": "0103-Binary-Tree-Zigzag-Level-Order-Traversal",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-zigzag-level-order-traversal"
+  },
+  {
+    "leetcodeId": 104,
+    "sourcePid": "lc104",
+    "slug": "maximum-depth-of-binary-tree",
+    "titleZh": "二叉树的最大深度",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 递归",
+    "topicsZh": [
+      "二叉树",
+      "递归"
+    ],
+    "status": "site-animation",
+    "repoPath": "0104-Maximum-Depth-Of-Binary-Tree",
+    "gifPath": "0104-Maximum-Depth-Of-Binary-Tree/Animation/Animation1.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-depth-of-binary-tree"
+  },
+  {
+    "leetcodeId": 105,
+    "sourcePid": "lc105",
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "titleZh": "从前序与中序遍历序列构造二叉树",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · 构造",
+    "topicsZh": [
+      "二叉树",
+      "构造"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/construct-binary-tree-from-preorder-and-inorder-traversal"
+  },
+  {
+    "leetcodeId": 110,
+    "sourcePid": "lc110",
+    "slug": "balanced-binary-tree",
+    "titleZh": "平衡二叉树",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 后序",
+    "topicsZh": [
+      "二叉树",
+      "后序"
+    ],
+    "status": "site-animation",
+    "repoPath": "0110-Balanced-Binary-Tree",
+    "gifPath": "0110-Balanced-Binary-Tree/Animation/Animation1.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/balanced-binary-tree"
+  },
+  {
+    "leetcodeId": 111,
+    "sourcePid": "lc111",
+    "slug": "minimum-depth-of-binary-tree",
+    "titleZh": "二叉树的最小深度",
+    "difficulty": "easy",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-depth-of-binary-tree"
+  },
+  {
+    "leetcodeId": 112,
+    "sourcePid": "lc112",
+    "slug": "path-sum",
+    "titleZh": "路径总和",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · DFS",
+    "topicsZh": [
+      "二叉树",
+      "DFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/path-sum"
+  },
+  {
+    "leetcodeId": 114,
+    "sourcePid": "lc114",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "titleZh": "二叉树展开为链表",
+    "difficulty": "medium",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/flatten-binary-tree-to-linked-list"
+  },
+  {
+    "leetcodeId": 118,
+    "sourcePid": "lc118",
+    "slug": "pascals-triangle",
+    "titleZh": "杨辉三角",
+    "difficulty": "easy",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": "0118-Generate",
+    "gifPath": "0118-Generate/Animation/resource.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/pascals-triangle"
+  },
+  {
+    "leetcodeId": 120,
+    "sourcePid": "lc120",
+    "slug": "triangle",
+    "titleZh": "三角形最小路径和",
+    "difficulty": "medium",
+    "categoryZh": "DP",
+    "topicsZh": [
+      "DP"
+    ],
+    "status": "site-animation",
+    "repoPath": "0120-Triangle",
+    "gifPath": "0120-Triangle/Animation/120.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/triangle"
+  },
+  {
+    "leetcodeId": 121,
+    "sourcePid": "lc121",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "titleZh": "买卖股票的最佳时机",
+    "difficulty": "easy",
+    "categoryZh": "一次遍历",
+    "topicsZh": [
+      "一次遍历"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "leetcodeId": 122,
+    "sourcePid": "lc122",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "titleZh": "买卖股票 II",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "leetcodeId": 123,
+    "sourcePid": "lc123",
+    "slug": "best-time-to-buy-and-sell-stock-iii",
+    "titleZh": "买卖股票的最佳时机 III",
+    "difficulty": "hard",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock-iii"
+  },
+  {
+    "leetcodeId": 124,
+    "sourcePid": "lc124",
+    "slug": "binary-tree-maximum-path-sum",
+    "titleZh": "二叉树中的最大路径和",
+    "difficulty": "hard",
+    "categoryZh": "二叉树 · 树形 DP",
+    "topicsZh": [
+      "二叉树",
+      "树形 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": "0124-Binary-Tree-Maximum-Path-Sum",
+    "gifPath": "0124-Binary-Tree-Maximum-Path-Sum/Animation/124.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-maximum-path-sum"
+  },
+  {
+    "leetcodeId": 125,
+    "sourcePid": "lc125",
+    "slug": "valid-palindrome",
+    "titleZh": "验证回文串",
+    "difficulty": "easy",
+    "categoryZh": "双指针",
+    "topicsZh": [
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0125-Valid-Palindrome",
+    "gifPath": "0125-Valid-Palindrome/Animation/animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-palindrome"
+  },
+  {
+    "leetcodeId": 127,
+    "sourcePid": "lc127",
+    "slug": "word-ladder",
+    "titleZh": "单词接龙",
+    "difficulty": "hard",
+    "categoryZh": "图 · BFS",
+    "topicsZh": [
+      "图",
+      "BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/word-ladder"
+  },
+  {
+    "leetcodeId": 128,
+    "sourcePid": "lc128",
+    "slug": "longest-consecutive-sequence",
+    "titleZh": "最长连续序列",
+    "difficulty": "medium",
+    "categoryZh": "哈希集合",
+    "topicsZh": [
+      "哈希集合"
+    ],
+    "status": "site-animation",
+    "repoPath": "0128-Longest-Consecutive-Sequence",
+    "gifPath": "0128-Longest-Consecutive-Sequence/Animation/128-1.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-consecutive-sequence"
+  },
+  {
+    "leetcodeId": 130,
+    "sourcePid": "lc130",
+    "slug": "surrounded-regions",
+    "titleZh": "被围绕的区域",
+    "difficulty": "medium",
+    "categoryZh": "网格 DFS",
+    "topicsZh": [
+      "网格 DFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/surrounded-regions"
+  },
+  {
+    "leetcodeId": 131,
+    "sourcePid": "lc131",
+    "slug": "palindrome-partitioning",
+    "titleZh": "分割回文串",
+    "difficulty": "medium",
+    "categoryZh": "回溯 · 切割",
+    "topicsZh": [
+      "回溯",
+      "切割"
+    ],
+    "status": "site-animation",
+    "repoPath": "0131-Palindrome-Partitioning",
+    "gifPath": "0131-Palindrome-Partitioning/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-partitioning"
+  },
+  {
+    "leetcodeId": 133,
+    "sourcePid": "lc133",
+    "slug": "clone-graph",
+    "titleZh": "克隆图",
+    "difficulty": "medium",
+    "categoryZh": "图 · DFS/BFS",
+    "topicsZh": [
+      "图",
+      "DFS",
+      "BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": "0133-Clone-Graph",
+    "gifPath": "0133-Clone-Graph/Animation/133.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/clone-graph"
+  },
+  {
+    "leetcodeId": 134,
+    "sourcePid": "lc134",
+    "slug": "gas-station",
+    "titleZh": "加油站",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/gas-station"
+  },
+  {
+    "leetcodeId": 135,
+    "sourcePid": "lc135",
+    "slug": "candy",
+    "titleZh": "分发糖果",
+    "difficulty": "hard",
+    "categoryZh": "贪心 · 双向扫描",
+    "topicsZh": [
+      "贪心",
+      "双向扫描"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/candy"
+  },
+  {
+    "leetcodeId": 136,
+    "sourcePid": "lc136",
+    "slug": "single-number",
+    "titleZh": "只出现一次的数字",
+    "difficulty": "easy",
+    "categoryZh": "位运算 · 异或",
+    "topicsZh": [
+      "位运算",
+      "异或"
+    ],
+    "status": "site-animation",
+    "repoPath": "0136-Single-Number",
+    "gifPath": "0136-Single-Number/Animation/136.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number"
+  },
+  {
+    "leetcodeId": 137,
+    "sourcePid": "lc137",
+    "slug": "single-number-ii",
+    "titleZh": "只出现一次的数字 II",
+    "difficulty": "medium",
+    "categoryZh": "位运算",
+    "topicsZh": [
+      "位运算"
+    ],
+    "status": "site-animation",
+    "repoPath": "0137-Single-Number-II",
+    "gifPath": "0137-Single-Number-II/Animation/137.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number-ii"
+  },
+  {
+    "leetcodeId": 139,
+    "sourcePid": "lc139",
+    "slug": "word-break",
+    "titleZh": "单词拆分",
+    "difficulty": "medium",
+    "categoryZh": "字符串 DP",
+    "topicsZh": [
+      "字符串 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": "0139-Word-Break",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/word-break"
+  },
+  {
+    "leetcodeId": 141,
+    "sourcePid": "lc141",
+    "slug": "linked-list-cycle",
+    "titleZh": "环形链表",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 快慢指针",
+    "topicsZh": [
+      "链表",
+      "快慢指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0141-Linked-List-Cycle",
+    "gifPath": "0141-Linked-List-Cycle/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/linked-list-cycle"
+  },
+  {
+    "leetcodeId": 142,
+    "sourcePid": "lc142",
+    "slug": "linked-list-cycle-ii",
+    "titleZh": "环形链表 II",
+    "difficulty": "medium",
+    "categoryZh": "链表",
+    "topicsZh": [
+      "链表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0142-Linked-List-Cycle-ii",
+    "gifPath": "0142-Linked-List-Cycle-ii/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/linked-list-cycle-ii"
+  },
+  {
+    "leetcodeId": 146,
+    "sourcePid": "lc146",
+    "slug": "lru-cache",
+    "titleZh": "LRU 缓存",
+    "difficulty": "medium",
+    "categoryZh": "设计",
+    "topicsZh": [
+      "设计"
+    ],
+    "status": "site-animation",
+    "repoPath": "0146-LRU-Cache",
+    "gifPath": "0146-LRU-Cache/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/lru-cache"
+  },
+  {
+    "leetcodeId": 148,
+    "sourcePid": "lc148",
+    "slug": "sort-list",
+    "titleZh": "排序链表",
+    "difficulty": "medium",
+    "categoryZh": "链表 · 归并排序",
+    "topicsZh": [
+      "链表",
+      "归并排序"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sort-list"
+  },
+  {
+    "leetcodeId": 150,
+    "sourcePid": "lc150",
+    "slug": "evaluate-reverse-polish-notation",
+    "titleZh": "逆波兰表达式求值",
+    "difficulty": "medium",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0150-Evaluate-Reverse-Polish-Notation",
+    "gifPath": "0150-Evaluate-Reverse-Polish-Notation/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/evaluate-reverse-polish-notation"
+  },
+  {
+    "leetcodeId": 152,
+    "sourcePid": "lc152",
+    "slug": "maximum-product-subarray",
+    "titleZh": "乘积最大子数组",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · 最大最小",
+    "topicsZh": [
+      "动态规划",
+      "最大最小"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-product-subarray"
+  },
+  {
+    "leetcodeId": 153,
+    "sourcePid": "lc153",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "titleZh": "寻找旋转排序数组中的最小值",
+    "difficulty": "medium",
+    "categoryZh": "二分查找 · 找最小",
+    "topicsZh": [
+      "二分查找",
+      "找最小"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-minimum-in-rotated-sorted-array"
+  },
+  {
+    "leetcodeId": 154,
+    "sourcePid": "lc154",
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "titleZh": "寻找旋转排序数组中的最小值 II",
+    "difficulty": "hard",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-minimum-in-rotated-sorted-array-ii"
+  },
+  {
+    "leetcodeId": 155,
+    "sourcePid": "lc155",
+    "slug": "min-stack",
+    "titleZh": "最小栈",
+    "difficulty": "medium",
+    "categoryZh": "栈 · 辅助栈",
+    "topicsZh": [
+      "栈",
+      "辅助栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0155-min-stack",
+    "gifPath": "0155-min-stack/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/min-stack"
+  },
+  {
+    "leetcodeId": 160,
+    "sourcePid": "lc160",
+    "slug": "intersection-of-two-linked-lists",
+    "titleZh": "相交链表",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 双指针",
+    "topicsZh": [
+      "链表",
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0160-Intersection-of-Two-Linked-Lists",
+    "gifPath": "0160-Intersection-of-Two-Linked-Lists/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/intersection-of-two-linked-lists"
+  },
+  {
+    "leetcodeId": 162,
+    "sourcePid": "lc162",
+    "slug": "find-peak-element",
+    "titleZh": "寻找峰值",
+    "difficulty": "medium",
+    "categoryZh": "二分查找 · 找峰值",
+    "topicsZh": [
+      "二分查找",
+      "找峰值"
+    ],
+    "status": "site-animation",
+    "repoPath": "0162-Find-Peak-Element",
+    "gifPath": "0162-Find-Peak-Element/Animation/2.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-peak-element"
+  },
+  {
+    "leetcodeId": 167,
+    "sourcePid": "lc167",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "titleZh": "两数之和 II",
+    "difficulty": "medium",
+    "categoryZh": "对撞双指针",
+    "topicsZh": [
+      "对撞双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0167-Two-Sum-II-Input-array-is-sorted",
+    "gifPath": "0167-Two-Sum-II-Input-array-is-sorted/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/two-sum-ii-input-array-is-sorted"
+  },
+  {
+    "leetcodeId": 169,
+    "sourcePid": "lc169",
+    "slug": "majority-element",
+    "titleZh": "多数元素",
+    "difficulty": "easy",
+    "categoryZh": "一次遍历 · 摩尔投票",
+    "topicsZh": [
+      "一次遍历",
+      "摩尔投票"
+    ],
+    "status": "site-animation",
+    "repoPath": "0169-Majority-Element",
+    "gifPath": "0169-Majority-Element/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/majority-element"
+  },
+  {
+    "leetcodeId": 174,
+    "sourcePid": "lc174",
+    "slug": "dungeon-game",
+    "titleZh": "地下城游戏",
+    "difficulty": "hard",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/dungeon-game"
+  },
+  {
+    "leetcodeId": 179,
+    "sourcePid": "lc179",
+    "slug": "largest-number",
+    "titleZh": "最大数",
+    "difficulty": "medium",
+    "categoryZh": "排序",
+    "topicsZh": [
+      "排序"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/largest-number"
+  },
+  {
+    "leetcodeId": 188,
+    "sourcePid": "lc188",
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "titleZh": "买卖股票的最佳时机 IV",
+    "difficulty": "hard",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock-iv"
+  },
+  {
+    "leetcodeId": 189,
+    "sourcePid": "lc189",
+    "slug": "rotate-array",
+    "titleZh": "轮转数组",
+    "difficulty": "medium",
+    "categoryZh": "数组 · 原地反转",
+    "topicsZh": [
+      "数组",
+      "原地反转"
+    ],
+    "status": "site-animation",
+    "repoPath": "0189-Rotate-Array",
+    "gifPath": "0189-Rotate-Array/Animation/189.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/rotate-array"
+  },
+  {
+    "leetcodeId": 198,
+    "sourcePid": "lc198",
+    "slug": "house-robber",
+    "titleZh": "打家劫舍",
+    "difficulty": "medium",
+    "categoryZh": "一维 DP",
+    "topicsZh": [
+      "一维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/house-robber"
+  },
+  {
+    "leetcodeId": 199,
+    "sourcePid": "lc199",
+    "slug": "binary-tree-right-side-view",
+    "titleZh": "二叉树右视图",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · BFS",
+    "topicsZh": [
+      "二叉树",
+      "BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-tree-right-side-view"
+  },
+  {
+    "leetcodeId": 200,
+    "sourcePid": "lc200",
+    "slug": "number-of-islands",
+    "titleZh": "岛屿数量",
+    "difficulty": "medium",
+    "categoryZh": "网格 · DFS",
+    "topicsZh": [
+      "网格",
+      "DFS"
+    ],
+    "status": "site-animation",
+    "repoPath": "0200-Number-of-Islands",
+    "gifPath": "0200-Number-of-Islands/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/number-of-islands"
+  },
+  {
+    "leetcodeId": 203,
+    "sourcePid": "lc203",
+    "slug": "remove-linked-list-elements",
+    "titleZh": "移除链表元素",
+    "difficulty": "easy",
+    "categoryZh": "链表",
+    "topicsZh": [
+      "链表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0203-Remove-Linked-List-Elements",
+    "gifPath": "0203-Remove-Linked-List-Elements/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-linked-list-elements"
+  },
+  {
+    "leetcodeId": 205,
+    "sourcePid": "lc205",
+    "slug": "isomorphic-strings",
+    "titleZh": "同构字符串",
+    "difficulty": "easy",
+    "categoryZh": "哈希表",
+    "topicsZh": [
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/isomorphic-strings"
+  },
+  {
+    "leetcodeId": 206,
+    "sourcePid": "lc206",
+    "slug": "reverse-linked-list",
+    "titleZh": "反转链表",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 双指针",
+    "topicsZh": [
+      "链表",
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0206-Reverse-Linked-List",
+    "gifPath": "0206-Reverse-Linked-List/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/reverse-linked-list"
+  },
+  {
+    "leetcodeId": 207,
+    "sourcePid": "lc207",
+    "slug": "course-schedule",
+    "titleZh": "课程表",
+    "difficulty": "medium",
+    "categoryZh": "拓扑排序",
+    "topicsZh": [
+      "拓扑排序"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/course-schedule"
+  },
+  {
+    "leetcodeId": 208,
+    "sourcePid": "lc208",
+    "slug": "implement-trie-prefix-tree",
+    "titleZh": "实现 Trie (前缀树)",
+    "difficulty": "medium",
+    "categoryZh": "Trie",
+    "topicsZh": [
+      "Trie"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/implement-trie-prefix-tree"
+  },
+  {
+    "leetcodeId": 209,
+    "sourcePid": "lc209",
+    "slug": "minimum-size-subarray-sum",
+    "titleZh": "长度最小的子数组",
+    "difficulty": "medium",
+    "categoryZh": "滑动窗口",
+    "topicsZh": [
+      "滑动窗口"
+    ],
+    "status": "site-animation",
+    "repoPath": "0209-Minimum-Size-Subarray-Sum",
+    "gifPath": "0209-Minimum-Size-Subarray-Sum/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-size-subarray-sum"
+  },
+  {
+    "leetcodeId": 210,
+    "sourcePid": "lc210",
+    "slug": "course-schedule-ii",
+    "titleZh": "课程表 II",
+    "difficulty": "medium",
+    "categoryZh": "拓扑排序",
+    "topicsZh": [
+      "拓扑排序"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/course-schedule-ii"
+  },
+  {
+    "leetcodeId": 211,
+    "sourcePid": "lc211",
+    "slug": "design-add-and-search-words-data-structure",
+    "titleZh": "添加与搜索单词 - 数据结构设计",
+    "difficulty": "medium",
+    "categoryZh": "Trie",
+    "topicsZh": [
+      "Trie"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/design-add-and-search-words-data-structure"
+  },
+  {
+    "leetcodeId": 213,
+    "sourcePid": "lc213",
+    "slug": "house-robber-ii",
+    "titleZh": "打家劫舍 II",
+    "difficulty": "medium",
+    "categoryZh": "环形 DP",
+    "topicsZh": [
+      "环形 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/house-robber-ii"
+  },
+  {
+    "leetcodeId": 215,
+    "sourcePid": "lc215",
+    "slug": "kth-largest-element-in-an-array",
+    "titleZh": "数组中第 K 个最大元素",
+    "difficulty": "medium",
+    "categoryZh": "快速选择 · Top K",
+    "topicsZh": [
+      "快速选择",
+      "Top K"
+    ],
+    "status": "site-animation",
+    "repoPath": "0215-Kth-Largest-Element-in-an-Array",
+    "gifPath": "0215-Kth-Largest-Element-in-an-Array/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/kth-largest-element-in-an-array"
+  },
+  {
+    "leetcodeId": 217,
+    "sourcePid": "lc217",
+    "slug": "contains-duplicate",
+    "titleZh": "存在重复元素",
+    "difficulty": "easy",
+    "categoryZh": "哈希",
+    "topicsZh": [
+      "哈希"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/contains-duplicate"
+  },
+  {
+    "leetcodeId": 219,
+    "sourcePid": "lc219",
+    "slug": "contains-duplicate-ii",
+    "titleZh": "存在重复元素 II",
+    "difficulty": "easy",
+    "categoryZh": "哈希表",
+    "topicsZh": [
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0219-Contains-Duplicate-II",
+    "gifPath": "0219-Contains-Duplicate-II/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/contains-duplicate-ii"
+  },
+  {
+    "leetcodeId": 221,
+    "sourcePid": "lc221",
+    "slug": "maximal-square",
+    "titleZh": "最大正方形",
+    "difficulty": "medium",
+    "categoryZh": "二维 DP",
+    "topicsZh": [
+      "二维 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximal-square"
+  },
+  {
+    "leetcodeId": 222,
+    "sourcePid": "lc222",
+    "slug": "count-complete-tree-nodes",
+    "titleZh": "完全二叉树的节点个数",
+    "difficulty": "medium",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/count-complete-tree-nodes"
+  },
+  {
+    "leetcodeId": 224,
+    "sourcePid": "lc224",
+    "slug": "basic-calculator",
+    "titleZh": "基本计算器",
+    "difficulty": "hard",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/basic-calculator"
+  },
+  {
+    "leetcodeId": 226,
+    "sourcePid": "lc226",
+    "slug": "invert-binary-tree",
+    "titleZh": "翻转二叉树",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 递归",
+    "topicsZh": [
+      "二叉树",
+      "递归"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/invert-binary-tree"
+  },
+  {
+    "leetcodeId": 230,
+    "sourcePid": "lc230",
+    "slug": "kth-smallest-element-in-a-bst",
+    "titleZh": "二叉搜索树中第 K 小的元素",
+    "difficulty": "medium",
+    "categoryZh": "BST · 中序遍历",
+    "topicsZh": [
+      "BST",
+      "中序遍历"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/kth-smallest-element-in-a-bst"
+  },
+  {
+    "leetcodeId": 231,
+    "sourcePid": "lc231",
+    "slug": "power-of-two",
+    "titleZh": "2 的幂",
+    "difficulty": "easy",
+    "categoryZh": "位运算",
+    "topicsZh": [
+      "位运算"
+    ],
+    "status": "site-animation",
+    "repoPath": "0231-Power-Of-Two",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/power-of-two"
+  },
+  {
+    "leetcodeId": 232,
+    "sourcePid": "lc232",
+    "slug": "implement-queue-using-stacks",
+    "titleZh": "用栈实现队列",
+    "difficulty": "easy",
+    "categoryZh": "栈 / 队列设计",
+    "topicsZh": [
+      "栈",
+      "队列设计"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/implement-queue-using-stacks"
+  },
+  {
+    "leetcodeId": 234,
+    "sourcePid": "lc234",
+    "slug": "palindrome-linked-list",
+    "titleZh": "回文链表",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 综合",
+    "topicsZh": [
+      "链表",
+      "综合"
+    ],
+    "status": "site-animation",
+    "repoPath": "0234-isPalindrome",
+    "gifPath": "0234-isPalindrome/Animation/solved01.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/palindrome-linked-list"
+  },
+  {
+    "leetcodeId": 235,
+    "sourcePid": "lc235",
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "titleZh": "二叉搜索树的最近公共祖先",
+    "difficulty": "medium",
+    "categoryZh": "二叉搜索树",
+    "topicsZh": [
+      "二叉搜索树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/lowest-common-ancestor-of-a-binary-search-tree"
+  },
+  {
+    "leetcodeId": 236,
+    "sourcePid": "lc236",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "titleZh": "最近公共祖先",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · LCA",
+    "topicsZh": [
+      "二叉树",
+      "LCA"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "leetcodeId": 238,
+    "sourcePid": "lc238",
+    "slug": "product-of-array-except-self",
+    "titleZh": "除自身以外数组的乘积",
+    "difficulty": "medium",
+    "categoryZh": "前后缀乘积",
+    "topicsZh": [
+      "前后缀乘积"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/product-of-array-except-self"
+  },
+  {
+    "leetcodeId": 239,
+    "sourcePid": "lc239",
+    "slug": "sliding-window-maximum",
+    "titleZh": "滑动窗口最大值",
+    "difficulty": "hard",
+    "categoryZh": "单调队列",
+    "topicsZh": [
+      "单调队列"
+    ],
+    "status": "site-animation",
+    "repoPath": "0239-Sliding-Window-Maximum",
+    "gifPath": "0239-Sliding-Window-Maximum/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sliding-window-maximum"
+  },
+  {
+    "leetcodeId": 240,
+    "sourcePid": "lc240",
+    "slug": "search-a-2d-matrix-ii",
+    "titleZh": "搜索二维矩阵 II",
+    "difficulty": "medium",
+    "categoryZh": "矩阵 · 右上角搜索",
+    "topicsZh": [
+      "矩阵",
+      "右上角搜索"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/search-a-2d-matrix-ii"
+  },
+  {
+    "leetcodeId": 242,
+    "sourcePid": "lc242",
+    "slug": "valid-anagram",
+    "titleZh": "有效的字母异位词",
+    "difficulty": "easy",
+    "categoryZh": "哈希计数",
+    "topicsZh": [
+      "哈希计数"
+    ],
+    "status": "site-animation",
+    "repoPath": "0242-Valid-Anagram",
+    "gifPath": "0242-Valid-Anagram/Animation/242.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-anagram"
+  },
+  {
+    "leetcodeId": 253,
+    "sourcePid": "lc253",
+    "slug": "meeting-rooms-ii",
+    "titleZh": "会议室 II",
+    "difficulty": "medium",
+    "categoryZh": "堆 · 扫描线",
+    "topicsZh": [
+      "堆",
+      "扫描线"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/meeting-rooms-ii"
+  },
+  {
+    "leetcodeId": 260,
+    "sourcePid": "lc260",
+    "slug": "single-number-iii",
+    "titleZh": "只出现一次的数字 III",
+    "difficulty": "medium",
+    "categoryZh": "位运算",
+    "topicsZh": [
+      "位运算"
+    ],
+    "status": "site-animation",
+    "repoPath": "0260-Single-Number-III",
+    "gifPath": "0260-Single-Number-III/Animation/260.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/single-number-iii"
+  },
+  {
+    "leetcodeId": 264,
+    "sourcePid": "lc264",
+    "slug": "ugly-number-ii",
+    "titleZh": "丑数 II",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/ugly-number-ii"
+  },
+  {
+    "leetcodeId": 268,
+    "sourcePid": "lc268",
+    "slug": "missing-number",
+    "titleZh": "丢失的数字",
+    "difficulty": "easy",
+    "categoryZh": "数学 / 异或",
+    "topicsZh": [
+      "数学",
+      "异或"
+    ],
+    "status": "site-animation",
+    "repoPath": "0268-Missing-Number",
+    "gifPath": "0268-Missing-Number/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/missing-number"
+  },
+  {
+    "leetcodeId": 278,
+    "sourcePid": "lc278",
+    "slug": "first-bad-version",
+    "titleZh": "第一个错误的版本",
+    "difficulty": "easy",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/first-bad-version"
+  },
+  {
+    "leetcodeId": 279,
+    "sourcePid": "lc279",
+    "slug": "perfect-squares",
+    "titleZh": "完全平方数",
+    "difficulty": "medium",
+    "categoryZh": "完全背包 DP",
+    "topicsZh": [
+      "完全背包 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": "0279-Perfect-Squares",
+    "gifPath": "0279-Perfect-Squares/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/perfect-squares"
+  },
+  {
+    "leetcodeId": 283,
+    "sourcePid": "lc283",
+    "slug": "move-zeroes",
+    "titleZh": "移动零",
+    "difficulty": "easy",
+    "categoryZh": "快慢指针",
+    "topicsZh": [
+      "快慢指针"
+    ],
+    "status": "site-animation",
+    "repoPath": "0283-Move-Zeroes",
+    "gifPath": "0283-Move-Zeroes/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/move-zeroes"
+  },
+  {
+    "leetcodeId": 287,
+    "sourcePid": "lc287",
+    "slug": "find-the-duplicate-number",
+    "titleZh": "寻找重复数",
+    "difficulty": "medium",
+    "categoryZh": "快慢指针 · 环检测",
+    "topicsZh": [
+      "快慢指针",
+      "环检测"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-the-duplicate-number"
+  },
+  {
+    "leetcodeId": 289,
+    "sourcePid": "lc289",
+    "slug": "game-of-life",
+    "titleZh": "生命游戏",
+    "difficulty": "medium",
+    "categoryZh": "矩阵模拟",
+    "topicsZh": [
+      "矩阵模拟"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/game-of-life"
+  },
+  {
+    "leetcodeId": 292,
+    "sourcePid": "lc292",
+    "slug": "nim-game",
+    "titleZh": "Nim 游戏",
+    "difficulty": "easy",
+    "categoryZh": "数学",
+    "topicsZh": [
+      "数学"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/nim-game"
+  },
+  {
+    "leetcodeId": 295,
+    "sourcePid": "lc295",
+    "slug": "find-median-from-data-stream",
+    "titleZh": "数据流的中位数",
+    "difficulty": "hard",
+    "categoryZh": "堆 · 对顶堆",
+    "topicsZh": [
+      "堆",
+      "对顶堆"
+    ],
+    "status": "site-animation",
+    "repoPath": "0295-Find-Median-from-Data-Stream",
+    "gifPath": "0295-Find-Median-from-Data-Stream/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-median-from-data-stream"
+  },
+  {
+    "leetcodeId": 297,
+    "sourcePid": "lc297",
+    "slug": "serialize-and-deserialize-binary-tree",
+    "titleZh": "二叉树的序列化与反序列化",
+    "difficulty": "hard",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "leetcodeId": 300,
+    "sourcePid": "lc300",
+    "slug": "longest-increasing-subsequence",
+    "titleZh": "最长递增子序列",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · LIS",
+    "topicsZh": [
+      "动态规划",
+      "LIS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-increasing-subsequence"
+  },
+  {
+    "leetcodeId": 301,
+    "sourcePid": "lc301",
+    "slug": "remove-invalid-parentheses",
+    "titleZh": "删除无效的括号",
+    "difficulty": "hard",
+    "categoryZh": "BFS · 括号",
+    "topicsZh": [
+      "BFS",
+      "括号"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-invalid-parentheses"
+  },
+  {
+    "leetcodeId": 303,
+    "sourcePid": "lc303",
+    "slug": "range-sum-query-immutable",
+    "titleZh": "区域和检索 - 数组不可变",
+    "difficulty": "easy",
+    "categoryZh": "前缀和",
+    "topicsZh": [
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/range-sum-query-immutable"
+  },
+  {
+    "leetcodeId": 304,
+    "sourcePid": "lc304",
+    "slug": "range-sum-query-2d-immutable",
+    "titleZh": "二维区域和检索 - 矩阵不可变",
+    "difficulty": "medium",
+    "categoryZh": "前缀和",
+    "topicsZh": [
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/range-sum-query-2d-immutable"
+  },
+  {
+    "leetcodeId": 309,
+    "sourcePid": "lc309",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "titleZh": "最佳买卖股票含冷冻期",
+    "difficulty": "medium",
+    "categoryZh": "状态机 DP",
+    "topicsZh": [
+      "状态机 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock-with-cooldown"
+  },
+  {
+    "leetcodeId": 312,
+    "sourcePid": "lc312",
+    "slug": "burst-balloons",
+    "titleZh": "戳气球",
+    "difficulty": "hard",
+    "categoryZh": "区间 DP",
+    "topicsZh": [
+      "区间 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/burst-balloons"
+  },
+  {
+    "leetcodeId": 319,
+    "sourcePid": "lc319",
+    "slug": "bulb-switcher",
+    "titleZh": "灯泡开关",
+    "difficulty": "medium",
+    "categoryZh": "数学",
+    "topicsZh": [
+      "数学"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/bulb-switcher"
+  },
+  {
+    "leetcodeId": 322,
+    "sourcePid": "lc322",
+    "slug": "coin-change",
+    "titleZh": "零钱兑换",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/coin-change"
+  },
+  {
+    "leetcodeId": 328,
+    "sourcePid": "lc328",
+    "slug": "odd-even-linked-list",
+    "titleZh": "奇偶链表",
+    "difficulty": "medium",
+    "categoryZh": "链表",
+    "topicsZh": [
+      "链表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0328-Odd-Even-Linked-List",
+    "gifPath": "0328-Odd-Even-Linked-List/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/odd-even-linked-list"
+  },
+  {
+    "leetcodeId": 334,
+    "sourcePid": "lc334",
+    "slug": "increasing-triplet-subsequence",
+    "titleZh": "递增的三元子序列",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/increasing-triplet-subsequence"
+  },
+  {
+    "leetcodeId": 337,
+    "sourcePid": "lc337",
+    "slug": "house-robber-iii",
+    "titleZh": "打家劫舍 III",
+    "difficulty": "medium",
+    "categoryZh": "树形 DP",
+    "topicsZh": [
+      "树形 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/house-robber-iii"
+  },
+  {
+    "leetcodeId": 338,
+    "sourcePid": "lc338",
+    "slug": "counting-bits",
+    "titleZh": "比特位计数",
+    "difficulty": "easy",
+    "categoryZh": "动态规划 · 位运算",
+    "topicsZh": [
+      "动态规划",
+      "位运算"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/counting-bits"
+  },
+  {
+    "leetcodeId": 343,
+    "sourcePid": "lc343",
+    "slug": "integer-break",
+    "titleZh": "整数拆分",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/integer-break"
+  },
+  {
+    "leetcodeId": 347,
+    "sourcePid": "lc347",
+    "slug": "top-k-frequent-elements",
+    "titleZh": "前 K 个高频元素",
+    "difficulty": "medium",
+    "categoryZh": "堆 · 桶排序",
+    "topicsZh": [
+      "堆",
+      "桶排序"
+    ],
+    "status": "site-animation",
+    "repoPath": "0347-Top-K-Frequent-Elements",
+    "gifPath": "0347-Top-K-Frequent-Elements/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/top-k-frequent-elements"
+  },
+  {
+    "leetcodeId": 349,
+    "sourcePid": "lc349",
+    "slug": "intersection-of-two-arrays",
+    "titleZh": "两个数组的交集",
+    "difficulty": "easy",
+    "categoryZh": "哈希表",
+    "topicsZh": [
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0349-Intersection-of-Two-Arrays",
+    "gifPath": "0349-Intersection-of-Two-Arrays/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/intersection-of-two-arrays"
+  },
+  {
+    "leetcodeId": 367,
+    "sourcePid": "lc367",
+    "slug": "valid-perfect-square",
+    "titleZh": "有效的完全平方数",
+    "difficulty": "easy",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-perfect-square"
+  },
+  {
+    "leetcodeId": 373,
+    "sourcePid": "lc373",
+    "slug": "find-k-pairs-with-smallest-sums",
+    "titleZh": "查找和最小的 K 对数字",
+    "difficulty": "medium",
+    "categoryZh": "堆",
+    "topicsZh": [
+      "堆"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-k-pairs-with-smallest-sums"
+  },
+  {
+    "leetcodeId": 376,
+    "sourcePid": "lc376",
+    "slug": "wiggle-subsequence",
+    "titleZh": "摆动序列",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/wiggle-subsequence"
+  },
+  {
+    "leetcodeId": 383,
+    "sourcePid": "lc383",
+    "slug": "ransom-note",
+    "titleZh": "赎金信",
+    "difficulty": "easy",
+    "categoryZh": "哈希计数",
+    "topicsZh": [
+      "哈希计数"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/ransom-note"
+  },
+  {
+    "leetcodeId": 387,
+    "sourcePid": "lc387",
+    "slug": "first-unique-character-in-a-string",
+    "titleZh": "字符串中的第一个唯一字符",
+    "difficulty": "easy",
+    "categoryZh": "字符串",
+    "topicsZh": [
+      "字符串"
+    ],
+    "status": "site-animation",
+    "repoPath": "0387-First-Unique-Character-In-String",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/first-unique-character-in-a-string"
+  },
+  {
+    "leetcodeId": 394,
+    "sourcePid": "lc394",
+    "slug": "decode-string",
+    "titleZh": "字符串解码",
+    "difficulty": "medium",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0394-Decode-String",
+    "gifPath": "0394-Decode-String/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/decode-string"
+  },
+  {
+    "leetcodeId": 399,
+    "sourcePid": "lc399",
+    "slug": "evaluate-division",
+    "titleZh": "除法求值",
+    "difficulty": "medium",
+    "categoryZh": "图 · 带权路径",
+    "topicsZh": [
+      "图",
+      "带权路径"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/evaluate-division"
+  },
+  {
+    "leetcodeId": 402,
+    "sourcePid": "lc402",
+    "slug": "remove-k-digits",
+    "titleZh": "移掉 K 位数字",
+    "difficulty": "medium",
+    "categoryZh": "单调栈 · 贪心",
+    "topicsZh": [
+      "单调栈",
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/remove-k-digits"
+  },
+  {
+    "leetcodeId": 406,
+    "sourcePid": "lc406",
+    "slug": "queue-reconstruction-by-height",
+    "titleZh": "根据身高重建队列",
+    "difficulty": "medium",
+    "categoryZh": "贪心 · 排序插入",
+    "topicsZh": [
+      "贪心",
+      "排序插入"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/queue-reconstruction-by-height"
+  },
+  {
+    "leetcodeId": 409,
+    "sourcePid": "lc409",
+    "slug": "longest-palindrome",
+    "titleZh": "最长回文串",
+    "difficulty": "easy",
+    "categoryZh": "哈希表",
+    "topicsZh": [
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-palindrome"
+  },
+  {
+    "leetcodeId": 416,
+    "sourcePid": "lc416",
+    "slug": "partition-equal-subset-sum",
+    "titleZh": "分割等和子集",
+    "difficulty": "medium",
+    "categoryZh": "0-1 背包",
+    "topicsZh": [
+      "0-1 背包"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/partition-equal-subset-sum"
+  },
+  {
+    "leetcodeId": 433,
+    "sourcePid": "lc433",
+    "slug": "minimum-genetic-mutation",
+    "titleZh": "最小基因变化",
+    "difficulty": "medium",
+    "categoryZh": "图搜索",
+    "topicsZh": [
+      "图搜索"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-genetic-mutation"
+  },
+  {
+    "leetcodeId": 435,
+    "sourcePid": "lc435",
+    "slug": "non-overlapping-intervals",
+    "titleZh": "无重叠区间",
+    "difficulty": "medium",
+    "categoryZh": "区间 · 贪心",
+    "topicsZh": [
+      "区间",
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/non-overlapping-intervals"
+  },
+  {
+    "leetcodeId": 437,
+    "sourcePid": "lc437",
+    "slug": "path-sum-iii",
+    "titleZh": "路径总和 III",
+    "difficulty": "medium",
+    "categoryZh": "二叉树 · 前缀和",
+    "topicsZh": [
+      "二叉树",
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/path-sum-iii"
+  },
+  {
+    "leetcodeId": 438,
+    "sourcePid": "lc438",
+    "slug": "find-all-anagrams-in-a-string",
+    "titleZh": "找到字符串中所有字母异位词",
+    "difficulty": "medium",
+    "categoryZh": "滑动窗口 · 定长",
+    "topicsZh": [
+      "滑动窗口",
+      "定长"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-all-anagrams-in-a-string"
+  },
+  {
+    "leetcodeId": 445,
+    "sourcePid": "lc445",
+    "slug": "add-two-numbers-ii",
+    "titleZh": "两数相加 II",
+    "difficulty": "medium",
+    "categoryZh": "链表",
+    "topicsZh": [
+      "链表"
+    ],
+    "status": "site-animation",
+    "repoPath": "0445-Add-Two-Numbers-II",
+    "gifPath": "0445-Add-Two-Numbers-II/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/add-two-numbers-ii"
+  },
+  {
+    "leetcodeId": 448,
+    "sourcePid": "lc448",
+    "slug": "find-all-numbers-disappeared-in-an-array",
+    "titleZh": "找到所有数组中消失的数字",
+    "difficulty": "easy",
+    "categoryZh": "数组 · 原地标记",
+    "topicsZh": [
+      "数组",
+      "原地标记"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-all-numbers-disappeared-in-an-array"
+  },
+  {
+    "leetcodeId": 452,
+    "sourcePid": "lc452",
+    "slug": "minimum-number-of-arrows-to-burst-balloons",
+    "titleZh": "用最少数量的箭引爆气球",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-number-of-arrows-to-burst-balloons"
+  },
+  {
+    "leetcodeId": 455,
+    "sourcePid": "lc455",
+    "slug": "assign-cookies",
+    "titleZh": "分发饼干",
+    "difficulty": "easy",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/assign-cookies"
+  },
+  {
+    "leetcodeId": 461,
+    "sourcePid": "lc461",
+    "slug": "hamming-distance",
+    "titleZh": "汉明距离",
+    "difficulty": "easy",
+    "categoryZh": "位运算",
+    "topicsZh": [
+      "位运算"
+    ],
+    "status": "site-animation",
+    "repoPath": "0461-hamming-distance",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/hamming-distance"
+  },
+  {
+    "leetcodeId": 463,
+    "sourcePid": "lc463",
+    "slug": "island-perimeter",
+    "titleZh": "岛屿的周长",
+    "difficulty": "easy",
+    "categoryZh": "矩阵",
+    "topicsZh": [
+      "矩阵"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/island-perimeter"
+  },
+  {
+    "leetcodeId": 474,
+    "sourcePid": "lc474",
+    "slug": "ones-and-zeroes",
+    "titleZh": "一和零",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/ones-and-zeroes"
+  },
+  {
+    "leetcodeId": 485,
+    "sourcePid": "lc485",
+    "slug": "max-consecutive-ones",
+    "titleZh": "最大连续 1 的个数",
+    "difficulty": "easy",
+    "categoryZh": "数组",
+    "topicsZh": [
+      "数组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/max-consecutive-ones"
+  },
+  {
+    "leetcodeId": 494,
+    "sourcePid": "lc494",
+    "slug": "target-sum",
+    "titleZh": "目标和",
+    "difficulty": "medium",
+    "categoryZh": "0-1 背包",
+    "topicsZh": [
+      "0-1 背包"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/target-sum"
+  },
+  {
+    "leetcodeId": 496,
+    "sourcePid": "lc496",
+    "slug": "next-greater-element-i",
+    "titleZh": "下一个更大元素 I",
+    "difficulty": "easy",
+    "categoryZh": "单调栈",
+    "topicsZh": [
+      "单调栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/next-greater-element-i"
+  },
+  {
+    "leetcodeId": 509,
+    "sourcePid": "lc509",
+    "slug": "fibonacci-number",
+    "titleZh": "斐波那契数",
+    "difficulty": "easy",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/fibonacci-number"
+  },
+  {
+    "leetcodeId": 516,
+    "sourcePid": "lc516",
+    "slug": "longest-palindromic-subsequence",
+    "titleZh": "最长回文子序列",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-palindromic-subsequence"
+  },
+  {
+    "leetcodeId": 518,
+    "sourcePid": "lc518",
+    "slug": "coin-change-ii",
+    "titleZh": "零钱兑换 II",
+    "difficulty": "medium",
+    "categoryZh": "完全背包",
+    "topicsZh": [
+      "完全背包"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/coin-change-ii"
+  },
+  {
+    "leetcodeId": 530,
+    "sourcePid": "lc530",
+    "slug": "minimum-absolute-difference-in-bst",
+    "titleZh": "二叉搜索树的最小绝对差",
+    "difficulty": "easy",
+    "categoryZh": "二叉搜索树",
+    "topicsZh": [
+      "二叉搜索树"
+    ],
+    "status": "site-animation",
+    "repoPath": "0530-minimum-absolute-difference-in-bst",
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/minimum-absolute-difference-in-bst"
+  },
+  {
+    "leetcodeId": 538,
+    "sourcePid": "lc538",
+    "slug": "convert-bst-to-greater-tree",
+    "titleZh": "把二叉搜索树转换为累加树",
+    "difficulty": "medium",
+    "categoryZh": "二叉搜索树",
+    "topicsZh": [
+      "二叉搜索树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/convert-bst-to-greater-tree"
+  },
+  {
+    "leetcodeId": 543,
+    "sourcePid": "lc543",
+    "slug": "diameter-of-binary-tree",
+    "titleZh": "二叉树的直径",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 树形DP",
+    "topicsZh": [
+      "二叉树",
+      "树形DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/diameter-of-binary-tree"
+  },
+  {
+    "leetcodeId": 547,
+    "sourcePid": "lc547",
+    "slug": "number-of-provinces",
+    "titleZh": "省份数量",
+    "difficulty": "medium",
+    "categoryZh": "并查集",
+    "topicsZh": [
+      "并查集"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/number-of-provinces"
+  },
+  {
+    "leetcodeId": 560,
+    "sourcePid": "lc560",
+    "slug": "subarray-sum-equals-k",
+    "titleZh": "和为 K 的子数组",
+    "difficulty": "medium",
+    "categoryZh": "前缀和 · 哈希",
+    "topicsZh": [
+      "前缀和",
+      "哈希"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/subarray-sum-equals-k"
+  },
+  {
+    "leetcodeId": 567,
+    "sourcePid": "lc567",
+    "slug": "permutation-in-string",
+    "titleZh": "字符串的排列",
+    "difficulty": "medium",
+    "categoryZh": "滑动窗口 · 定长计数",
+    "topicsZh": [
+      "滑动窗口",
+      "定长计数"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/permutation-in-string"
+  },
+  {
+    "leetcodeId": 581,
+    "sourcePid": "lc581",
+    "slug": "shortest-unsorted-continuous-subarray",
+    "titleZh": "最短无序连续子数组",
+    "difficulty": "medium",
+    "categoryZh": "数组 · 双向扫描",
+    "topicsZh": [
+      "数组",
+      "双向扫描"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/shortest-unsorted-continuous-subarray"
+  },
+  {
+    "leetcodeId": 605,
+    "sourcePid": "lc605",
+    "slug": "can-place-flowers",
+    "titleZh": "种花问题",
+    "difficulty": "easy",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/can-place-flowers"
+  },
+  {
+    "leetcodeId": 617,
+    "sourcePid": "lc617",
+    "slug": "merge-two-binary-trees",
+    "titleZh": "合并二叉树",
+    "difficulty": "easy",
+    "categoryZh": "二叉树 · 递归",
+    "topicsZh": [
+      "二叉树",
+      "递归"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/merge-two-binary-trees"
+  },
+  {
+    "leetcodeId": 621,
+    "sourcePid": "lc621",
+    "slug": "task-scheduler",
+    "titleZh": "任务调度器",
+    "difficulty": "medium",
+    "categoryZh": "贪心 · 计数",
+    "topicsZh": [
+      "贪心",
+      "计数"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/task-scheduler"
+  },
+  {
+    "leetcodeId": 641,
+    "sourcePid": "lc641",
+    "slug": "design-circular-deque",
+    "titleZh": "设计循环双端队列",
+    "difficulty": "medium",
+    "categoryZh": "设计",
+    "topicsZh": [
+      "设计"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/design-circular-deque"
+  },
+  {
+    "leetcodeId": 643,
+    "sourcePid": "lc643",
+    "slug": "maximum-average-subarray-i",
+    "titleZh": "子数组最大平均数 I",
+    "difficulty": "easy",
+    "categoryZh": "滑动窗口",
+    "topicsZh": [
+      "滑动窗口"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-average-subarray-i"
+  },
+  {
+    "leetcodeId": 647,
+    "sourcePid": "lc647",
+    "slug": "palindromic-substrings",
+    "titleZh": "回文子串",
+    "difficulty": "medium",
+    "categoryZh": "字符串 · 回文",
+    "topicsZh": [
+      "字符串",
+      "回文"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/palindromic-substrings"
+  },
+  {
+    "leetcodeId": 648,
+    "sourcePid": "lc648",
+    "slug": "replace-words",
+    "titleZh": "单词替换",
+    "difficulty": "medium",
+    "categoryZh": "Trie",
+    "topicsZh": [
+      "Trie"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/replace-words"
+  },
+  {
+    "leetcodeId": 654,
+    "sourcePid": "lc654",
+    "slug": "maximum-binary-tree",
+    "titleZh": "最大二叉树",
+    "difficulty": "medium",
+    "categoryZh": "二叉树",
+    "topicsZh": [
+      "二叉树"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-binary-tree"
+  },
+  {
+    "leetcodeId": 673,
+    "sourcePid": "lc673",
+    "slug": "number-of-longest-increasing-subsequence",
+    "titleZh": "最长递增子序列的个数",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/number-of-longest-increasing-subsequence"
+  },
+  {
+    "leetcodeId": 676,
+    "sourcePid": "lc676",
+    "slug": "implement-magic-dictionary",
+    "titleZh": "实现一个魔法字典",
+    "difficulty": "medium",
+    "categoryZh": "Trie",
+    "topicsZh": [
+      "Trie"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/implement-magic-dictionary"
+  },
+  {
+    "leetcodeId": 680,
+    "sourcePid": "lc680",
+    "slug": "valid-palindrome-ii",
+    "titleZh": "验证回文串 II",
+    "difficulty": "easy",
+    "categoryZh": "双指针",
+    "topicsZh": [
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/valid-palindrome-ii"
+  },
+  {
+    "leetcodeId": 684,
+    "sourcePid": "lc684",
+    "slug": "redundant-connection",
+    "titleZh": "冗余连接",
+    "difficulty": "medium",
+    "categoryZh": "并查集",
+    "topicsZh": [
+      "并查集"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/redundant-connection"
+  },
+  {
+    "leetcodeId": 692,
+    "sourcePid": "lc692",
+    "slug": "top-k-frequent-words",
+    "titleZh": "前K个高频单词",
+    "difficulty": "medium",
+    "categoryZh": "堆",
+    "topicsZh": [
+      "堆"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/top-k-frequent-words"
+  },
+  {
+    "leetcodeId": 695,
+    "sourcePid": "lc695",
+    "slug": "max-area-of-island",
+    "titleZh": "岛屿的最大面积",
+    "difficulty": "medium",
+    "categoryZh": "网格 DFS",
+    "topicsZh": [
+      "网格 DFS"
+    ],
+    "status": "site-animation",
+    "repoPath": "0695-Max-Area-of-Island",
+    "gifPath": "0695-Max-Area-of-Island/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/max-area-of-island"
+  },
+  {
+    "leetcodeId": 703,
+    "sourcePid": "lc703",
+    "slug": "kth-largest-element-in-a-stream",
+    "titleZh": "数据流中的第 K 大元素",
+    "difficulty": "easy",
+    "categoryZh": "堆",
+    "topicsZh": [
+      "堆"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/kth-largest-element-in-a-stream"
+  },
+  {
+    "leetcodeId": 704,
+    "sourcePid": "lc704",
+    "slug": "binary-search",
+    "titleZh": "二分查找",
+    "difficulty": "easy",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/binary-search"
+  },
+  {
+    "leetcodeId": 714,
+    "sourcePid": "lc714",
+    "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "titleZh": "买卖股票含手续费",
+    "difficulty": "medium",
+    "categoryZh": "状态机 DP",
+    "topicsZh": [
+      "状态机 DP"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/best-time-to-buy-and-sell-stock-with-transaction-fee"
+  },
+  {
+    "leetcodeId": 718,
+    "sourcePid": "lc718",
+    "slug": "maximum-length-of-repeated-subarray",
+    "titleZh": "最长重复子数组",
+    "difficulty": "medium",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-length-of-repeated-subarray"
+  },
+  {
+    "leetcodeId": 724,
+    "sourcePid": "lc724",
+    "slug": "find-pivot-index",
+    "titleZh": "寻找数组的中心下标",
+    "difficulty": "easy",
+    "categoryZh": "前缀和",
+    "topicsZh": [
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/find-pivot-index"
+  },
+  {
+    "leetcodeId": 739,
+    "sourcePid": "lc739",
+    "slug": "daily-temperatures",
+    "titleZh": "每日温度",
+    "difficulty": "medium",
+    "categoryZh": "单调栈",
+    "topicsZh": [
+      "单调栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/daily-temperatures"
+  },
+  {
+    "leetcodeId": 743,
+    "sourcePid": "lc743",
+    "slug": "network-delay-time",
+    "titleZh": "网络延迟时间",
+    "difficulty": "medium",
+    "categoryZh": "图 · Dijkstra",
+    "topicsZh": [
+      "图",
+      "Dijkstra"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/network-delay-time"
+  },
+  {
+    "leetcodeId": 763,
+    "sourcePid": "lc763",
+    "slug": "partition-labels",
+    "titleZh": "划分字母区间",
+    "difficulty": "medium",
+    "categoryZh": "贪心 · 最后位置",
+    "topicsZh": [
+      "贪心",
+      "最后位置"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/partition-labels"
+  },
+  {
+    "leetcodeId": 811,
+    "sourcePid": "lc811",
+    "slug": "subdomain-visit-count",
+    "titleZh": "子域名访问计数",
+    "difficulty": "medium",
+    "categoryZh": "哈希表",
+    "topicsZh": [
+      "哈希表"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/subdomain-visit-count"
+  },
+  {
+    "leetcodeId": 841,
+    "sourcePid": "lc841",
+    "slug": "keys-and-rooms",
+    "titleZh": "钥匙和房间",
+    "difficulty": "medium",
+    "categoryZh": "图 · DFS",
+    "topicsZh": [
+      "图",
+      "DFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/keys-and-rooms"
+  },
+  {
+    "leetcodeId": 852,
+    "sourcePid": "lc852",
+    "slug": "peak-index-in-a-mountain-array",
+    "titleZh": "山脉数组的峰顶索引",
+    "difficulty": "medium",
+    "categoryZh": "二分查找",
+    "topicsZh": [
+      "二分查找"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/peak-index-in-a-mountain-array"
+  },
+  {
+    "leetcodeId": 860,
+    "sourcePid": "lc860",
+    "slug": "lemonade-change",
+    "titleZh": "柠檬水找零",
+    "difficulty": "easy",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/lemonade-change"
+  },
+  {
+    "leetcodeId": 875,
+    "sourcePid": "lc875",
+    "slug": "koko-eating-bananas",
+    "titleZh": "爱吃香蕉的珂珂",
+    "difficulty": "medium",
+    "categoryZh": "二分答案",
+    "topicsZh": [
+      "二分答案"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/koko-eating-bananas"
+  },
+  {
+    "leetcodeId": 876,
+    "sourcePid": "lc876",
+    "slug": "middle-of-the-linked-list",
+    "titleZh": "链表的中间结点",
+    "difficulty": "easy",
+    "categoryZh": "链表 · 快慢指针",
+    "topicsZh": [
+      "链表",
+      "快慢指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/middle-of-the-linked-list"
+  },
+  {
+    "leetcodeId": 881,
+    "sourcePid": "lc881",
+    "slug": "boats-to-save-people",
+    "titleZh": "救生艇",
+    "difficulty": "medium",
+    "categoryZh": "贪心",
+    "topicsZh": [
+      "贪心"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/boats-to-save-people"
+  },
+  {
+    "leetcodeId": 946,
+    "sourcePid": "lc946",
+    "slug": "validate-stack-sequences",
+    "titleZh": "验证栈序列",
+    "difficulty": "medium",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": "0946--validate-stack-sequences",
+    "gifPath": "0946--validate-stack-sequences/Animation/Animation.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/validate-stack-sequences"
+  },
+  {
+    "leetcodeId": 973,
+    "sourcePid": "lc973",
+    "slug": "k-closest-points-to-origin",
+    "titleZh": "最接近原点的 K 个点",
+    "difficulty": "medium",
+    "categoryZh": "排序 · Top K",
+    "topicsZh": [
+      "排序",
+      "Top K"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/k-closest-points-to-origin"
+  },
+  {
+    "leetcodeId": 977,
+    "sourcePid": "lc977",
+    "slug": "squares-of-a-sorted-array",
+    "titleZh": "有序数组的平方",
+    "difficulty": "easy",
+    "categoryZh": "对撞双指针",
+    "topicsZh": [
+      "对撞双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/squares-of-a-sorted-array"
+  },
+  {
+    "leetcodeId": 986,
+    "sourcePid": "lc986",
+    "slug": "interval-list-intersections",
+    "titleZh": "区间列表的交集",
+    "difficulty": "medium",
+    "categoryZh": "区间 · 双指针",
+    "topicsZh": [
+      "区间",
+      "双指针"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/interval-list-intersections"
+  },
+  {
+    "leetcodeId": 994,
+    "sourcePid": "lc994",
+    "slug": "rotting-oranges",
+    "titleZh": "腐烂的橘子",
+    "difficulty": "medium",
+    "categoryZh": "多源 BFS",
+    "topicsZh": [
+      "多源 BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": "0994-orangesRotting",
+    "gifPath": "0994-orangesRotting/Animation/腐烂的橘子01.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/rotting-oranges"
+  },
+  {
+    "leetcodeId": 1011,
+    "sourcePid": "lc1011",
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "titleZh": "在 D 天内送达包裹的能力",
+    "difficulty": "medium",
+    "categoryZh": "二分答案 · 贪心判定",
+    "topicsZh": [
+      "二分答案",
+      "贪心判定"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/capacity-to-ship-packages-within-d-days"
+  },
+  {
+    "leetcodeId": 1025,
+    "sourcePid": "lc1025",
+    "slug": "divisor-game",
+    "titleZh": "除数博弈",
+    "difficulty": "easy",
+    "categoryZh": "动态规划",
+    "topicsZh": [
+      "动态规划"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/divisor-game"
+  },
+  {
+    "leetcodeId": 1049,
+    "sourcePid": "lc1049",
+    "slug": "last-stone-weight-ii",
+    "titleZh": "最后一块石头 II",
+    "difficulty": "medium",
+    "categoryZh": "0-1 背包",
+    "topicsZh": [
+      "0-1 背包"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/last-stone-weight-ii"
+  },
+  {
+    "leetcodeId": 1091,
+    "sourcePid": "lc1091",
+    "slug": "shortest-path-in-binary-matrix",
+    "titleZh": "二进制矩阵中的最短路径",
+    "difficulty": "medium",
+    "categoryZh": "网格 BFS",
+    "topicsZh": [
+      "网格 BFS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/shortest-path-in-binary-matrix"
+  },
+  {
+    "leetcodeId": 1109,
+    "sourcePid": "lc1109",
+    "slug": "corporate-flight-bookings",
+    "titleZh": "航班预订统计",
+    "difficulty": "medium",
+    "categoryZh": "数组",
+    "topicsZh": [
+      "数组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/corporate-flight-bookings"
+  },
+  {
+    "leetcodeId": 1124,
+    "sourcePid": "lc1124",
+    "slug": "longest-well-performing-interval",
+    "titleZh": "表现良好的最长时间段",
+    "difficulty": "medium",
+    "categoryZh": "前缀和",
+    "topicsZh": [
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-well-performing-interval"
+  },
+  {
+    "leetcodeId": 1137,
+    "sourcePid": "lc1137",
+    "slug": "n-th-tribonacci-number",
+    "titleZh": "泰波那契数",
+    "difficulty": "easy",
+    "categoryZh": "DP 入门",
+    "topicsZh": [
+      "DP 入门"
+    ],
+    "status": "site-animation",
+    "repoPath": "1137-Tribonacci",
+    "gifPath": "1137-Tribonacci/Animation/1137-Tribonacci.gif",
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/n-th-tribonacci-number"
+  },
+  {
+    "leetcodeId": 1143,
+    "sourcePid": "lc1143",
+    "slug": "longest-common-subsequence",
+    "titleZh": "最长公共子序列",
+    "difficulty": "medium",
+    "categoryZh": "动态规划 · LCS",
+    "topicsZh": [
+      "动态规划",
+      "LCS"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/longest-common-subsequence"
+  },
+  {
+    "leetcodeId": 1248,
+    "sourcePid": "lc1248",
+    "slug": "count-number-of-nice-subarrays",
+    "titleZh": "统计「优美子数组」",
+    "difficulty": "medium",
+    "categoryZh": "前缀和",
+    "topicsZh": [
+      "前缀和"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/count-number-of-nice-subarrays"
+  },
+  {
+    "leetcodeId": 1475,
+    "sourcePid": "lc1475",
+    "slug": "final-prices-with-a-special-discount-in-a-shop",
+    "titleZh": "商品折扣后的最终价格",
+    "difficulty": "easy",
+    "categoryZh": "栈",
+    "topicsZh": [
+      "栈"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/final-prices-with-a-special-discount-in-a-shop"
+  },
+  {
+    "leetcodeId": 1588,
+    "sourcePid": "lc1588",
+    "slug": "sum-of-all-odd-length-subarrays",
+    "titleZh": "所有奇数长度子数组的和",
+    "difficulty": "easy",
+    "categoryZh": "数组",
+    "topicsZh": [
+      "数组"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/sum-of-all-odd-length-subarrays"
+  },
+  {
+    "leetcodeId": 1603,
+    "sourcePid": "lc1603",
+    "slug": "design-parking-system",
+    "titleZh": "设计停车系统",
+    "difficulty": "easy",
+    "categoryZh": "设计",
+    "topicsZh": [
+      "设计"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/design-parking-system"
+  },
+  {
+    "leetcodeId": 1695,
+    "sourcePid": "lc1695",
+    "slug": "maximum-erasure-value",
+    "titleZh": "删除子数组的最大得分",
+    "difficulty": "medium",
+    "categoryZh": "滑动窗口",
+    "topicsZh": [
+      "滑动窗口"
+    ],
+    "status": "site-animation",
+    "repoPath": null,
+    "gifPath": null,
+    "siteUrl": "https://www.algomooc.com/leetcode-animation/maximum-erasure-value"
+  }
+]
