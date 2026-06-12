@@ -179,7 +179,7 @@ See [`sync-workflow.md`](sync-workflow.md) and [`HOW-TO-INTERACT.md`](HOW-TO-INT
 
 ---
 
-## ⭐ Star to witness the 299 campaign land
+## ⭐ Star it to follow the updates
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.com/#MisterBooo/LeetCodeAnimation&Date)
 

@@ -179,7 +179,7 @@ node tools/scripts/build-readme.js --write   # 把 README 数字段 + stats.json
 
 ---
 
-## ⭐ Star 一下，见证 299 役收官
+## ⭐ Star 一下，陪它持续更新
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.com/#MisterBooo/LeetCodeAnimation&Date)
 
