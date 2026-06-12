@@ -31,6 +31,7 @@ node tools/scripts/review-site-changes.js
 ```bash
 node tools/scripts/sync-algomooc-index.js --log
 node tools/scripts/validate-manifest.js
+node tools/scripts/build-readme.js --write
 ```
 
 会更新：
@@ -39,6 +40,7 @@ node tools/scripts/validate-manifest.js
 - `docs/leetcode-animation-index.md`
 - `docs/index-by-topic.md`
 - `docs/sync-log.md`（仅当 manifest 有新增、移除或变更时追加）
+- `docs/data/stats.json` 与 README 的 `当前索引` 标记区（数字段，由 `build-readme.js --write` 注入；勿手改标记区）
 
 ## 提交规范
 
