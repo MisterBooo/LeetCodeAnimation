@@ -17,6 +17,24 @@
 | GIF 区下方「打开在线交互版」 | `preview_cta` | `https://www.algomooc.com/leetcode-animation` | `https://www.algomooc.com/leetcode-animation?utm_source=github&utm_medium=readme&utm_campaign=lca_revamp&utm_content=preview_cta` |
 | 末尾「内容持续同步自 algomooc.com」 | `footer_site` | `https://www.algomooc.com/leetcode-animation` | `https://www.algomooc.com/leetcode-animation?utm_source=github&utm_medium=readme&utm_campaign=lca_revamp&utm_content=footer_site` |
 
+## English README（`docs/README-En.md`）
+
+同一套落点，`utm_content` 加 `_en` 后缀以区分英文 README 来源：
+
+| 位置 | slot (`utm_content`) | 落点 |
+| :-- | :-- | :-- |
+| 🎬 Interactive version | `hero_interactive_en` | `/leetcode-animation` |
+| 📚 Browse by topic | `hero_topics_en` | `/topics` |
+| 🤖 AI tutor Xiao Ou | `hero_ai_xiaoou_en` | `/ai-tutor` |
+| GIF Two Sum | `preview_two_sum_en` | `/leetcode-animation/two-sum` |
+| GIF Trapping Rain Water | `preview_trapping_rain_water_en` | `/leetcode-animation/trapping-rain-water` |
+| GIF Number of Islands | `preview_number_of_islands_en` | `/leetcode-animation/number-of-islands` |
+| GIF Linked List Cycle | `preview_linked_list_cycle_en` | `/leetcode-animation/linked-list-cycle` |
+| GIF 区 open the interactive version | `preview_cta_en` | `/leetcode-animation` |
+| 末尾 synced from algomooc.com | `footer_site_en` | `/leetcode-animation` |
+
+公共前三段相同：`utm_source=github&utm_medium=readme&utm_campaign=lca_revamp`。
+
 ## 路由核实
 
 下列落点均已在网站侧 `web/src/app/(site)/` 确认存在对应 `page.tsx`：
