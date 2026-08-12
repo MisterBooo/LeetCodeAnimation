@@ -181,7 +181,7 @@ node tools/scripts/build-readme.js --write   # 把 README 数字段 + stats.json
 
 ## ⭐ Star 一下，陪它持续更新
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.com/#MisterBooo/LeetCodeAnimation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.dera.page/#MisterBooo/LeetCodeAnimation&Date)
 
 这个项目从一张张手画动画走到今天，靠的是每一个 Star 的鼓励。
 如果它让你把某道题真正看懂了，**点个 Star** 就是对持续更新最实在的支持。

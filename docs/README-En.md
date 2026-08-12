@@ -181,7 +181,7 @@ See [`sync-workflow.md`](sync-workflow.md) and [`HOW-TO-INTERACT.md`](HOW-TO-INT
 
 ## ⭐ Star it to follow the updates
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.com/#MisterBooo/LeetCodeAnimation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=MisterBooo/LeetCodeAnimation&type=Date)](https://star-history.dera.page/#MisterBooo/LeetCodeAnimation&Date)
 
 This project grew from hand-drawn animations to where it is today on the encouragement of every Star.
 If it helped you truly understand a problem, **a Star** is the most concrete support for continued updates.
