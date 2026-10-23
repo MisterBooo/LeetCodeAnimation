@@ -156,7 +156,7 @@ node tools/scripts/build-readme.js --write   # 把 README 数字段 + stats.json
 - `docs/sync-log.md`
 - `docs/data/stats.json` 与 README 的 `当前索引` 标记区（数字段）
 
-更完整的判断规则、commit 规范和数字接管机制见 [`docs/sync-workflow.md`](docs/sync-workflow.md) 与 [`docs/HOW-TO-INTERACT.md`](HOW-TO-INTERACT.md)。
+更完整的判断规则、commit 规范和数字接管机制见 [`docs/sync-workflow.md`](docs/sync-workflow.md) 与 [`docs/HOW-TO-INTERACT.md`](docs/HOW-TO-INTERACT.md)。
 
 ### 目录
 
